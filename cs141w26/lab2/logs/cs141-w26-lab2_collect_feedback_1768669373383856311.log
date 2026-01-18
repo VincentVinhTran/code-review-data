@@ -1,0 +1,1464 @@
+2026-01-17 09:02:53,478 - DEBUG - Processing repository: cs141-w26-lab2a-liuftuci
+2026-01-17 09:02:53,590 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:54,102 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-liuftuci/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:54,104 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:54,572 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-liuftuci/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:54,573 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:54,914 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-liuftuci/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:02:54,915 - DEBUG - Processing repository: cs141-w26-lab2a-Dhivyno
+2026-01-17 09:02:54,916 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:55,323 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Dhivyno/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:55,325 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:55,804 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Dhivyno/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:55,806 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:56,192 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Dhivyno/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:56,193 - DEBUG - Processing repository: cs141-w26-lab2a-Jthoeung
+2026-01-17 09:02:56,194 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:56,761 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Jthoeung/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:56,763 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:57,294 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Jthoeung/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:57,295 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:57,654 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Jthoeung/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:02:57,655 - DEBUG - Processing repository: cs141-w26-lab2a-charcod-jpg
+2026-01-17 09:02:57,656 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:58,113 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-charcod-jpg/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:58,114 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:58,592 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-charcod-jpg/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:58,593 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:58,922 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-charcod-jpg/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:02:58,923 - DEBUG - Processing repository: cs141-w26-lab2a-KayleTruong
+2026-01-17 09:02:58,924 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:59,290 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-KayleTruong/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:59,291 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:02:59,728 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-KayleTruong/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:02:59,729 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:00,075 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-KayleTruong/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:00,076 - DEBUG - Processing repository: cs141-w26-lab2a-pjtsearch
+2026-01-17 09:03:00,077 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:00,507 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pjtsearch/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:00,508 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:00,958 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pjtsearch/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:00,960 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:01,559 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pjtsearch/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:01,561 - DEBUG - Processing repository: cs141-w26-lab2a-Tiffannyy
+2026-01-17 09:03:01,562 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:01,947 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Tiffannyy/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:01,948 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:02,399 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Tiffannyy/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:02,400 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:02,779 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Tiffannyy/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:02,780 - DEBUG - Processing repository: cs141-w26-lab2a-Jajavon
+2026-01-17 09:03:02,781 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:03,152 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Jajavon/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:03,154 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:03,614 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Jajavon/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:03,615 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:03,982 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Jajavon/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:03,983 - DEBUG - Processing repository: cs141-w26-lab2a-axelwennerlund
+2026-01-17 09:03:03,983 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:04,323 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-axelwennerlund/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:04,325 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:04,949 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-axelwennerlund/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:04,951 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:06,374 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-axelwennerlund/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:06,375 - DEBUG - Processing repository: cs141-w26-lab2a-jordan-m-finn
+2026-01-17 09:03:06,376 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:06,807 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-jordan-m-finn/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:06,809 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:07,433 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-jordan-m-finn/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:07,434 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:07,778 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-jordan-m-finn/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:07,779 - DEBUG - Processing repository: cs141-w26-lab2a-QuocTrinh-hub
+2026-01-17 09:03:07,779 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:08,231 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:08,233 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:08,664 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:08,667 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:08,975 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:08,976 - DEBUG - Processing repository: cs141-w26-lab2a-NvyGreen
+2026-01-17 09:03:08,977 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:09,374 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-NvyGreen/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:09,376 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:10,060 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-NvyGreen/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:10,062 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:10,421 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-NvyGreen/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:10,422 - DEBUG - Processing repository: cs141-w26-lab2a-BradyCason
+2026-01-17 09:03:10,422 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:10,816 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-BradyCason/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:10,817 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:11,270 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-BradyCason/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:11,272 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:11,629 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-BradyCason/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:11,630 - DEBUG - Processing repository: cs141-w26-lab2a-JustinLi212
+2026-01-17 09:03:11,631 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:12,043 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-JustinLi212/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:12,044 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:12,510 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-JustinLi212/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:12,511 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:12,846 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-JustinLi212/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:12,847 - DEBUG - Processing repository: cs141-w26-lab2a-kimiayazdani
+2026-01-17 09:03:12,847 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:13,243 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kimiayazdani/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:13,245 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:13,569 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kimiayazdani/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:13,570 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:13,898 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kimiayazdani/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:13,898 - DEBUG - Processing repository: cs141-w26-lab2a-nxphan-uci
+2026-01-17 09:03:13,899 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:14,291 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-nxphan-uci/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:14,292 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:14,767 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-nxphan-uci/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:14,768 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:15,082 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-nxphan-uci/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:15,083 - DEBUG - Processing repository: cs141-w26-lab2a-laggycomputer
+2026-01-17 09:03:15,083 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:15,519 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-laggycomputer/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:15,521 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:16,007 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-laggycomputer/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:16,008 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:16,411 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-laggycomputer/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:16,412 - DEBUG - Processing repository: cs141-w26-lab2a-JordanPham2002
+2026-01-17 09:03:16,413 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:16,829 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-JordanPham2002/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:16,830 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:17,442 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-JordanPham2002/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:17,444 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:17,860 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-JordanPham2002/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:17,862 - DEBUG - Processing repository: cs141-w26-lab2a-PNZ-z
+2026-01-17 09:03:17,863 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:18,324 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-PNZ-z/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:18,325 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:18,931 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-PNZ-z/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:18,933 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:19,339 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-PNZ-z/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:19,340 - DEBUG - Processing repository: cs141-w26-lab2a-kristerduster
+2026-01-17 09:03:19,341 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:19,765 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:19,767 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:20,206 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:20,208 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:20,541 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:20,542 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:20,886 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/pulls/comments/2695334768/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:20,887 - DEBUG - Processing repository: cs141-w26-lab2a-ermmre
+2026-01-17 09:03:20,888 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:21,292 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:21,294 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:21,772 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:21,773 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:22,126 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:22,127 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:22,436 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/pulls/comments/2696236800/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:22,438 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:22,782 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/pulls/comments/2700019264/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:22,783 - DEBUG - Processing repository: cs141-w26-lab2a-mtranfie
+2026-01-17 09:03:22,784 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:23,221 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-mtranfie/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:23,222 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:23,746 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-mtranfie/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:23,747 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:24,093 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-mtranfie/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:24,095 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:24,432 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-mtranfie/pulls/comments/2696268490/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:24,433 - DEBUG - Processing repository: cs141-w26-lab2a-ebangerz
+2026-01-17 09:03:24,434 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:24,817 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:24,818 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:25,307 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:25,309 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:25,694 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:25,696 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:26,049 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/pulls/comments/2699841886/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:26,050 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:26,400 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/pulls/comments/2699914754/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:26,402 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:26,733 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/pulls/comments/2699919731/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:26,734 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:27,237 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/pulls/comments/2700593851/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:27,238 - DEBUG - Processing repository: cs141-w26-lab2a-AndrewShim0428
+2026-01-17 09:03:27,239 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:27,563 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-AndrewShim0428/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:27,564 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:28,011 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-AndrewShim0428/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:28,012 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:28,357 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-AndrewShim0428/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:28,358 - DEBUG - Processing repository: cs141-w26-lab2a-clairdelunesolace
+2026-01-17 09:03:28,359 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:28,716 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-clairdelunesolace/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:28,718 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:29,212 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-clairdelunesolace/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:29,213 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:29,603 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-clairdelunesolace/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:29,604 - DEBUG - Processing repository: cs141-w26-lab2a-6LEON8
+2026-01-17 09:03:29,605 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:30,002 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-6LEON8/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:30,004 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:30,487 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-6LEON8/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:30,488 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:30,829 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-6LEON8/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:30,830 - DEBUG - Processing repository: cs141-w26-lab2a-hivgundamss
+2026-01-17 09:03:30,830 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:31,202 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-hivgundamss/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:31,204 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:31,559 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-hivgundamss/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:31,560 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:32,057 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-hivgundamss/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:32,058 - DEBUG - Processing repository: cs141-w26-lab2a-cessar3
+2026-01-17 09:03:32,059 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:32,466 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-cessar3/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:32,467 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:32,917 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-cessar3/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:32,918 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:33,278 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-cessar3/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:33,279 - DEBUG - Processing repository: cs141-w26-lab2a-laurajacint0
+2026-01-17 09:03:33,279 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:34,756 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-laurajacint0/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:34,757 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:35,288 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-laurajacint0/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:35,289 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:35,706 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-laurajacint0/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:35,707 - DEBUG - Processing repository: cs141-w26-lab2a-pr1vatestaticfinal
+2026-01-17 09:03:35,708 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:36,110 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:36,111 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:36,500 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:36,502 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:37,000 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:37,001 - DEBUG - Processing repository: cs141-w26-lab2a-ethanvotran20
+2026-01-17 09:03:37,001 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:37,392 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ethanvotran20/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:37,393 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:37,901 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ethanvotran20/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:37,903 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:38,215 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-ethanvotran20/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:38,215 - DEBUG - Processing repository: cs141-w26-lab2a-pub1icstaticvoid
+2026-01-17 09:03:38,216 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:38,576 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:38,578 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:39,117 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:39,119 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:39,481 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:39,482 - DEBUG - Processing repository: cs141-w26-lab2a-lukashauge
+2026-01-17 09:03:39,483 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:39,843 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-lukashauge/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:39,845 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:40,277 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-lukashauge/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:40,278 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:40,725 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-lukashauge/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:40,726 - DEBUG - Processing repository: cs141-w26-lab2a-KunGeng
+2026-01-17 09:03:40,727 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:41,259 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-KunGeng/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:41,261 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:41,710 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-KunGeng/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:41,712 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:42,009 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-KunGeng/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:42,010 - DEBUG - Processing repository: cs141-w26-lab2a-Atif-Ahmad
+2026-01-17 09:03:42,010 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:42,436 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:42,438 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:42,916 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:42,918 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:43,307 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:43,308 - DEBUG - Processing repository: cs141-w26-lab2a-esivorap
+2026-01-17 09:03:43,308 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:43,867 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-esivorap/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:43,868 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:44,330 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-esivorap/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:44,332 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:45,208 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-esivorap/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:45,209 - DEBUG - Processing repository: cs141-w26-lab2a-emiliolim
+2026-01-17 09:03:45,210 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:46,763 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-emiliolim/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:46,765 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:47,232 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-emiliolim/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:47,233 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:47,646 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-emiliolim/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:47,647 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:48,005 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-emiliolim/pulls/comments/2695711543/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:48,006 - DEBUG - Processing repository: cs141-w26-lab2a-smuretta16
+2026-01-17 09:03:48,007 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:48,558 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-smuretta16/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:48,560 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:49,087 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-smuretta16/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:49,089 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:49,508 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-smuretta16/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:49,509 - DEBUG - Processing repository: cs141-w26-lab2a-AnviM1
+2026-01-17 09:03:49,509 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:50,027 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-AnviM1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:50,030 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:50,638 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-AnviM1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:50,640 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:50,986 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-AnviM1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:50,987 - DEBUG - Processing repository: cs141-w26-lab2a-Nicol-U
+2026-01-17 09:03:50,988 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:51,391 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:51,393 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:52,001 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:52,002 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:52,329 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:52,330 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:52,753 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/pulls/comments/2695136074/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:52,754 - DEBUG - Processing repository: cs141-w26-lab2a-moonluno
+2026-01-17 09:03:52,754 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:53,168 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-moonluno/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:53,169 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:53,748 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-moonluno/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:53,749 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:54,076 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-moonluno/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:54,077 - DEBUG - Processing repository: cs141-w26-lab2a-kent3245
+2026-01-17 09:03:54,078 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:54,629 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kent3245/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:54,631 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:54,929 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kent3245/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:54,930 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:55,227 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kent3245/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:55,228 - DEBUG - Processing repository: cs141-w26-lab2a-noahk004
+2026-01-17 09:03:55,229 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:55,646 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-noahk004/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:55,648 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:56,082 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-noahk004/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:56,083 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:56,418 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-noahk004/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:56,418 - DEBUG - Processing repository: cs141-w26-lab2a-daviddeng0smm
+2026-01-17 09:03:56,419 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:56,879 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-daviddeng0smm/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:56,881 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:57,167 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-daviddeng0smm/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:57,169 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:57,493 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-daviddeng0smm/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:57,494 - DEBUG - Processing repository: cs141-w26-lab2a-VictorChen26
+2026-01-17 09:03:57,495 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:57,963 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-VictorChen26/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:57,964 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:58,338 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-VictorChen26/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:58,340 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:58,675 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-VictorChen26/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:03:58,676 - DEBUG - Processing repository: cs141-w26-lab2a-dpappachan
+2026-01-17 09:03:58,676 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:03:59,185 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-dpappachan/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:03:59,187 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:00,132 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-dpappachan/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:00,134 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:00,651 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-dpappachan/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:00,652 - DEBUG - Processing repository: cs141-w26-lab2a-kamyyywang
+2026-01-17 09:04:00,653 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:01,051 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kamyyywang/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:01,053 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:01,567 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kamyyywang/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:01,569 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:01,915 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-kamyyywang/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:01,916 - DEBUG - Processing repository: cs141-w26-lab2a-HarryS561
+2026-01-17 09:04:01,916 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:02,346 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-HarryS561/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:02,347 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:02,766 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-HarryS561/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:02,767 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:03,114 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2a-HarryS561/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:03,115 - DEBUG - Processing repository: cs141-w26-lab2b-daviddeng0smm
+2026-01-17 09:04:03,116 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:03,683 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-daviddeng0smm/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:03,684 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:04,146 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-daviddeng0smm/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:04,148 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:04,519 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-daviddeng0smm/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:04,520 - DEBUG - Processing repository: cs141-w26-lab2b-EliranAvigani
+2026-01-17 09:04:04,521 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:04,950 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-EliranAvigani/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:04,951 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:05,475 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-EliranAvigani/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:05,477 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:05,876 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-EliranAvigani/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:05,877 - DEBUG - Processing repository: cs141-w26-lab2b-TonyYao8271
+2026-01-17 09:04:05,877 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:06,281 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-TonyYao8271/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:06,283 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:06,744 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-TonyYao8271/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:06,745 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:07,082 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-TonyYao8271/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:07,090 - DEBUG - Processing repository: cs141-w26-lab2b-elizabethmwatkins
+2026-01-17 09:04:07,091 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:07,674 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:07,675 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:08,417 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:08,419 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:08,736 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:08,737 - DEBUG - Processing repository: cs141-w26-lab2b-christianacho
+2026-01-17 09:04:08,738 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:09,140 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-christianacho/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:09,142 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:09,596 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-christianacho/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:09,598 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:09,964 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-christianacho/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:09,965 - DEBUG - Processing repository: cs141-w26-lab2b-Ranoldt
+2026-01-17 09:04:09,965 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:10,378 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Ranoldt/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:10,380 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:11,002 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Ranoldt/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:11,003 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:11,329 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Ranoldt/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:11,330 - DEBUG - Processing repository: cs141-w26-lab2b-jasonbm2
+2026-01-17 09:04:11,330 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:11,717 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-jasonbm2/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:11,719 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:12,222 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-jasonbm2/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:12,223 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:12,537 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-jasonbm2/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:12,539 - DEBUG - Processing repository: cs141-w26-lab2b-Alexander-Tu2
+2026-01-17 09:04:12,540 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:12,871 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:12,873 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:13,289 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:13,291 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:13,810 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:13,811 - DEBUG - Processing repository: cs141-w26-lab2b-yuchuehw
+2026-01-17 09:04:13,811 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:14,254 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yuchuehw/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:14,255 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:14,793 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yuchuehw/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:14,794 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:15,208 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yuchuehw/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:15,209 - DEBUG - Processing repository: cs141-w26-lab2b-ryanrT27
+2026-01-17 09:04:15,209 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:15,675 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-ryanrT27/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:15,676 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:16,131 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-ryanrT27/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:16,132 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:16,677 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-ryanrT27/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:16,678 - DEBUG - Processing repository: cs141-w26-lab2b-mvttjb
+2026-01-17 09:04:16,679 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:17,212 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-mvttjb/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:17,214 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:17,755 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-mvttjb/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:17,756 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:20,407 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-mvttjb/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:20,408 - DEBUG - Processing repository: cs141-w26-lab2b-alvarov17
+2026-01-17 09:04:20,408 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:21,052 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alvarov17/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:21,054 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:21,629 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alvarov17/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:21,631 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:22,050 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alvarov17/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:22,051 - DEBUG - Processing repository: cs141-w26-lab2b-firewuf
+2026-01-17 09:04:22,051 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:22,445 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-firewuf/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:22,446 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:22,855 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-firewuf/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:22,856 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:23,154 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-firewuf/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:23,155 - DEBUG - Processing repository: cs141-w26-lab2b-lukes4-uci
+2026-01-17 09:04:23,156 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:24,561 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-lukes4-uci/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:24,563 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:25,202 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-lukes4-uci/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:25,204 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:25,909 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-lukes4-uci/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:25,910 - DEBUG - Processing repository: cs141-w26-lab2b-sasha-oconnor
+2026-01-17 09:04:25,911 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:26,334 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sasha-oconnor/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:26,336 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:26,916 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sasha-oconnor/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:26,918 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:27,223 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sasha-oconnor/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:27,225 - DEBUG - Processing repository: cs141-w26-lab2b-HsuAustin
+2026-01-17 09:04:27,226 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:27,667 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-HsuAustin/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:27,670 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:28,118 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-HsuAustin/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:28,120 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:28,550 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-HsuAustin/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:28,551 - DEBUG - Processing repository: cs141-w26-lab2b-joshngn
+2026-01-17 09:04:28,552 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:28,948 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-joshngn/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:28,950 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:29,429 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-joshngn/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:29,430 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:29,760 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-joshngn/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:29,761 - DEBUG - Processing repository: cs141-w26-lab2b-sehop1-source
+2026-01-17 09:04:29,762 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:30,139 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sehop1-source/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:30,140 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:30,779 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sehop1-source/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:30,781 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:31,145 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sehop1-source/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:31,146 - DEBUG - Processing repository: cs141-w26-lab2b-jifanf1
+2026-01-17 09:04:31,147 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:31,520 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-jifanf1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:31,522 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:32,085 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-jifanf1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:32,086 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:32,438 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-jifanf1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:32,439 - DEBUG - Processing repository: cs141-w26-lab2b-riyapanche
+2026-01-17 09:04:32,440 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:32,861 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-riyapanche/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:32,863 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:33,433 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-riyapanche/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:33,435 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:33,809 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-riyapanche/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:33,810 - DEBUG - Processing repository: cs141-w26-lab2b-drewreed2005
+2026-01-17 09:04:33,811 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:34,180 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-drewreed2005/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:34,181 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:34,669 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-drewreed2005/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:34,670 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:35,027 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-drewreed2005/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:35,028 - DEBUG - Processing repository: cs141-w26-lab2b-AlvinAKTran
+2026-01-17 09:04:35,028 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:35,457 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AlvinAKTran/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:35,459 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:35,907 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AlvinAKTran/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:35,909 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:36,286 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AlvinAKTran/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:36,287 - DEBUG - Processing repository: cs141-w26-lab2b-nathanlcheng
+2026-01-17 09:04:36,288 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:36,707 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nathanlcheng/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:36,709 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:37,129 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nathanlcheng/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:37,131 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:37,513 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nathanlcheng/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:37,514 - DEBUG - Processing repository: cs141-w26-lab2b-abhinavuppala
+2026-01-17 09:04:37,515 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:37,910 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-abhinavuppala/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:37,912 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:38,381 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-abhinavuppala/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:38,382 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:38,715 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-abhinavuppala/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:38,716 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:39,060 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-abhinavuppala/pulls/comments/2699792725/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:39,061 - DEBUG - Processing repository: cs141-w26-lab2b-Dpoin23
+2026-01-17 09:04:39,062 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:39,465 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Dpoin23/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:39,466 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:39,918 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Dpoin23/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:39,919 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:40,230 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Dpoin23/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:40,231 - DEBUG - Processing repository: cs141-w26-lab2b-techsgithub
+2026-01-17 09:04:40,232 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:40,650 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-techsgithub/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:40,652 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:41,390 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-techsgithub/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:41,391 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:41,888 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-techsgithub/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:41,888 - DEBUG - Processing repository: cs141-w26-lab2b-oglantz
+2026-01-17 09:04:41,889 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:42,324 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-oglantz/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:42,325 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:42,794 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-oglantz/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:42,796 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:43,169 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-oglantz/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:43,170 - DEBUG - Processing repository: cs141-w26-lab2b-nyelgireddy
+2026-01-17 09:04:43,171 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:43,570 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nyelgireddy/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:43,571 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:44,059 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nyelgireddy/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:44,061 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:44,427 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nyelgireddy/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:44,428 - DEBUG - Processing repository: cs141-w26-lab2b-andrewwsou
+2026-01-17 09:04:44,428 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:44,790 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-andrewwsou/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:44,792 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:45,252 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-andrewwsou/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:45,254 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:45,576 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-andrewwsou/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:45,577 - DEBUG - Processing repository: cs141-w26-lab2b-Karbite
+2026-01-17 09:04:45,577 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:45,993 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Karbite/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:45,995 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:46,477 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Karbite/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:46,478 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:46,846 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Karbite/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:46,847 - DEBUG - Processing repository: cs141-w26-lab2b-lenat05
+2026-01-17 09:04:46,847 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:47,286 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-lenat05/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:47,287 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:47,817 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-lenat05/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:47,819 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:48,142 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-lenat05/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:48,143 - DEBUG - Processing repository: cs141-w26-lab2b-echennau
+2026-01-17 09:04:48,144 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:48,525 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-echennau/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:48,527 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:48,970 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-echennau/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:48,971 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:49,379 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-echennau/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:49,380 - DEBUG - Processing repository: cs141-w26-lab2b-ninal11
+2026-01-17 09:04:49,381 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:49,891 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-ninal11/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:49,893 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:50,436 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-ninal11/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:50,437 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:50,863 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-ninal11/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:50,864 - DEBUG - Processing repository: cs141-w26-lab2b-twleochao
+2026-01-17 09:04:50,865 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:51,601 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-twleochao/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:51,602 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:52,112 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-twleochao/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:52,115 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:52,449 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-twleochao/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:52,450 - DEBUG - Processing repository: cs141-w26-lab2b-achakka24
+2026-01-17 09:04:52,451 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:52,798 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-achakka24/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:52,799 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:53,219 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-achakka24/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:53,220 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:53,596 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-achakka24/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:53,597 - DEBUG - Processing repository: cs141-w26-lab2b-sahirss
+2026-01-17 09:04:53,597 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:54,012 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sahirss/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:54,014 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:54,540 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sahirss/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:54,541 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:54,890 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sahirss/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:54,891 - DEBUG - Processing repository: cs141-w26-lab2b-avanaaap
+2026-01-17 09:04:54,891 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:55,218 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:55,220 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:55,729 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:55,731 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:56,121 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:56,122 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:56,427 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/pulls/comments/2695804451/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:56,429 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:56,772 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/pulls/comments/2700354801/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:56,773 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:57,062 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/pulls/comments/2700501646/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:57,064 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:57,410 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/issues/comments/3762440539/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:57,411 - DEBUG - Processing repository: cs141-w26-lab2b-itsmandrew
+2026-01-17 09:04:57,411 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:57,828 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-itsmandrew/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:57,829 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:58,282 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-itsmandrew/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:58,283 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:58,622 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-itsmandrew/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:04:58,623 - DEBUG - Processing repository: cs141-w26-lab2b-christinne-n
+2026-01-17 09:04:58,623 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:59,127 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-christinne-n/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:59,128 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:04:59,557 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-christinne-n/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:04:59,558 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:00,077 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-christinne-n/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:00,078 - DEBUG - Processing repository: cs141-w26-lab2b-Wheeledparasite
+2026-01-17 09:05:00,079 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:00,473 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Wheeledparasite/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:00,474 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:00,963 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Wheeledparasite/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:00,965 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:01,433 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Wheeledparasite/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:01,434 - DEBUG - Processing repository: cs141-w26-lab2b-prathyushpoduval
+2026-01-17 09:05:01,434 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:01,982 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-prathyushpoduval/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:01,984 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:02,312 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-prathyushpoduval/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:02,314 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:02,697 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-prathyushpoduval/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:02,697 - DEBUG - Processing repository: cs141-w26-lab2b-edenradulescu
+2026-01-17 09:05:02,698 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:03,150 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-edenradulescu/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:03,151 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:03,728 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-edenradulescu/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:03,729 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:04,038 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-edenradulescu/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:04,039 - DEBUG - Processing repository: cs141-w26-lab2b-zhcaury2
+2026-01-17 09:05:04,039 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:04,459 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-zhcaury2/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:04,461 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:04,907 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-zhcaury2/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:04,909 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:05,249 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-zhcaury2/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:05,250 - DEBUG - Processing repository: cs141-w26-lab2b-alexpetro47
+2026-01-17 09:05:05,251 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:05,628 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alexpetro47/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:05,629 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:06,149 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alexpetro47/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:06,151 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:06,515 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alexpetro47/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:06,516 - DEBUG - Processing repository: cs141-w26-lab2b-BrittenEtchison
+2026-01-17 09:05:06,517 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:06,926 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-BrittenEtchison/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:06,927 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:07,390 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-BrittenEtchison/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:07,391 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:07,747 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-BrittenEtchison/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:07,747 - DEBUG - Processing repository: cs141-w26-lab2b-joolenn
+2026-01-17 09:05:07,748 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:08,150 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-joolenn/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:08,151 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:08,783 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-joolenn/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:08,785 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:09,131 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-joolenn/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:09,132 - DEBUG - Processing repository: cs141-w26-lab2b-AllyBeary
+2026-01-17 09:05:09,133 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:09,585 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AllyBeary/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:09,586 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:09,940 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AllyBeary/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:09,941 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:10,289 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AllyBeary/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:10,292 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:10,606 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AllyBeary/pulls/comments/2696224807/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:10,607 - DEBUG - Processing repository: cs141-w26-lab2b-Epic-Mushroom
+2026-01-17 09:05:10,608 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:10,988 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:10,990 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:11,503 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:11,504 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:11,843 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:11,844 - DEBUG - Processing repository: cs141-w26-lab2b-LentKe
+2026-01-17 09:05:11,844 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:12,272 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-LentKe/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:12,273 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:12,751 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-LentKe/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:12,752 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:13,101 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-LentKe/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:13,102 - DEBUG - Processing repository: cs141-w26-lab2b-bqtquach
+2026-01-17 09:05:13,103 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:13,484 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-bqtquach/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:13,485 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:13,791 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-bqtquach/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:13,793 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:14,130 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-bqtquach/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:14,131 - DEBUG - Processing repository: cs141-w26-lab2b-Kraufdeen
+2026-01-17 09:05:14,132 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:14,521 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Kraufdeen/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:14,523 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:14,966 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Kraufdeen/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:14,968 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:15,287 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-Kraufdeen/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:15,288 - DEBUG - Processing repository: cs141-w26-lab2b-nkimogpig
+2026-01-17 09:05:15,289 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:15,716 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nkimogpig/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:15,718 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:16,160 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nkimogpig/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:16,162 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:16,472 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-nkimogpig/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:16,472 - DEBUG - Processing repository: cs141-w26-lab2b-GreasySponge
+2026-01-17 09:05:16,473 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:16,904 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-GreasySponge/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:16,905 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:17,243 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-GreasySponge/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:17,244 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:17,659 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-GreasySponge/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:17,660 - DEBUG - Processing repository: cs141-w26-lab2b-dragonkeon
+2026-01-17 09:05:17,661 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:18,047 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-dragonkeon/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:18,048 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:18,505 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-dragonkeon/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:18,507 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:18,857 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-dragonkeon/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:18,858 - DEBUG - Processing repository: cs141-w26-lab2b-AidenFavish
+2026-01-17 09:05:18,859 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:19,396 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AidenFavish/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:19,398 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:19,852 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AidenFavish/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:19,854 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:20,162 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-AidenFavish/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:20,163 - DEBUG - Processing repository: cs141-w26-lab2b-timkim0106
+2026-01-17 09:05:20,163 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:20,568 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:20,570 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:21,190 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:21,191 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:21,644 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:21,646 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:22,030 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/pulls/comments/2696206478/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:22,031 - DEBUG - Processing repository: cs141-w26-lab2b-rykubota
+2026-01-17 09:05:22,031 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:22,473 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-rykubota/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:22,475 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:23,003 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-rykubota/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:23,004 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:23,353 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-rykubota/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:23,354 - DEBUG - Processing repository: cs141-w26-lab2b-CyanAnteater
+2026-01-17 09:05:23,354 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:23,778 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-CyanAnteater/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:23,780 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:24,410 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-CyanAnteater/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:24,411 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:24,929 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-CyanAnteater/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:24,930 - DEBUG - Processing repository: cs141-w26-lab2b-x1d1
+2026-01-17 09:05:24,931 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:25,308 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-x1d1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:25,309 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:25,761 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-x1d1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:25,763 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:26,087 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-x1d1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:26,088 - DEBUG - Processing repository: cs141-w26-lab2b-fruitsaladyumyum
+2026-01-17 09:05:26,089 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:26,440 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:26,442 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:26,895 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:26,897 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:27,240 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:27,241 - DEBUG - Processing repository: cs141-w26-lab2b-manihomafar
+2026-01-17 09:05:27,243 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:27,635 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-manihomafar/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:27,636 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:28,045 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-manihomafar/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:28,047 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:28,404 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-manihomafar/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:28,405 - DEBUG - Processing repository: cs141-w26-lab2b-galhamda-create
+2026-01-17 09:05:28,405 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:28,855 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-galhamda-create/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:28,856 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:29,561 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-galhamda-create/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:29,563 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:29,902 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-galhamda-create/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:29,903 - DEBUG - Processing repository: cs141-w26-lab2b-yilis15
+2026-01-17 09:05:29,903 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:30,327 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yilis15/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:30,329 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:30,978 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yilis15/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:30,979 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:31,332 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yilis15/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:31,334 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:31,706 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-yilis15/pulls/comments/2696205523/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:31,707 - DEBUG - Processing repository: cs141-w26-lab2b-sradisay
+2026-01-17 09:05:31,707 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:32,087 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sradisay/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:32,088 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:32,532 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sradisay/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:32,533 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:32,904 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-sradisay/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:32,905 - DEBUG - Processing repository: cs141-w26-lab2b-noraessam
+2026-01-17 09:05:32,905 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:33,358 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-noraessam/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:33,359 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:33,863 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-noraessam/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:33,865 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:34,207 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-noraessam/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:34,208 - DEBUG - Processing repository: cs141-w26-lab2b-heechy33
+2026-01-17 09:05:34,209 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:34,673 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-heechy33/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:34,674 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:35,101 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-heechy33/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:35,103 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:35,609 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-heechy33/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:35,610 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:35,970 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-heechy33/pulls/comments/2697459603/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:35,971 - DEBUG - Processing repository: cs141-w26-lab2b-TJHomeworkHub
+2026-01-17 09:05:35,971 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:36,381 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:36,383 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:36,774 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:36,775 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:37,120 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:37,121 - DEBUG - Processing repository: cs141-w26-lab2b-triminhta1207
+2026-01-17 09:05:37,122 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:37,671 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-triminhta1207/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:37,672 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:38,051 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-triminhta1207/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:38,052 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:38,428 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-triminhta1207/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:38,429 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:38,733 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-triminhta1207/pulls/comments/2695339281/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:38,733 - DEBUG - Processing repository: cs141-w26-lab2b-brandog2039
+2026-01-17 09:05:38,734 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:39,376 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-brandog2039/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:39,377 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:39,894 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-brandog2039/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:39,895 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:40,267 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-brandog2039/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:40,267 - DEBUG - Processing repository: cs141-w26-lab2b-alemg2004
+2026-01-17 09:05:40,268 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:40,721 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alemg2004/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:40,722 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:41,246 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alemg2004/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:41,247 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:41,651 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-alemg2004/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:41,652 - DEBUG - Processing repository: cs141-w26-lab2b-winstonjgiang
+2026-01-17 09:05:41,653 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:42,125 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-winstonjgiang/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:42,127 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:42,579 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-winstonjgiang/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:42,580 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:42,983 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2b-winstonjgiang/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:42,984 - DEBUG - Processing repository: cs141-w26-lab2c-maburto19
+2026-01-17 09:05:42,985 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:43,376 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-maburto19/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:43,378 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:43,802 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-maburto19/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:43,803 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:44,132 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-maburto19/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:44,133 - DEBUG - Processing repository: cs141-w26-lab2c-ganeevsinghs
+2026-01-17 09:05:44,134 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:44,551 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ganeevsinghs/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:44,552 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:45,020 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ganeevsinghs/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:45,021 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:45,365 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ganeevsinghs/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:45,366 - DEBUG - Processing repository: cs141-w26-lab2c-PartiNoone
+2026-01-17 09:05:45,366 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:45,742 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-PartiNoone/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:45,744 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:46,259 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-PartiNoone/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:46,261 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:46,777 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-PartiNoone/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:46,778 - DEBUG - Processing repository: cs141-w26-lab2c-kevinh-a
+2026-01-17 09:05:46,779 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:47,168 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kevinh-a/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:47,170 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:47,667 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kevinh-a/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:47,668 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:48,030 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kevinh-a/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:48,032 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:48,387 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kevinh-a/pulls/comments/2696508196/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:48,387 - DEBUG - Processing repository: cs141-w26-lab2c-DylanVuong3
+2026-01-17 09:05:48,388 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:48,842 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-DylanVuong3/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:48,843 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:49,272 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-DylanVuong3/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:49,274 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:49,563 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-DylanVuong3/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:49,564 - DEBUG - Processing repository: cs141-w26-lab2c-nctam2
+2026-01-17 09:05:49,564 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:49,923 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-nctam2/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:49,925 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:50,434 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-nctam2/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:50,435 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:50,740 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-nctam2/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:50,741 - DEBUG - Processing repository: cs141-w26-lab2c-EatKFCinMc
+2026-01-17 09:05:50,741 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:51,147 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-EatKFCinMc/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:51,148 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:51,552 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-EatKFCinMc/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:51,553 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:52,087 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-EatKFCinMc/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:52,088 - DEBUG - Processing repository: cs141-w26-lab2c-Accelerator050717
+2026-01-17 09:05:52,088 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:52,506 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Accelerator050717/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:52,507 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:53,097 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Accelerator050717/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:53,099 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:53,453 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Accelerator050717/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:53,454 - DEBUG - Processing repository: cs141-w26-lab2c-QNDang
+2026-01-17 09:05:53,455 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:53,970 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-QNDang/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:53,971 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:54,317 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-QNDang/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:54,319 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:54,684 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-QNDang/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:54,685 - DEBUG - Processing repository: cs141-w26-lab2c-iiBooque
+2026-01-17 09:05:54,686 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:55,123 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-iiBooque/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:55,125 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:55,451 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-iiBooque/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:55,453 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:55,843 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-iiBooque/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:55,844 - DEBUG - Processing repository: cs141-w26-lab2c-dsilluci
+2026-01-17 09:05:55,845 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:56,500 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-dsilluci/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:56,501 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:57,070 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-dsilluci/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:57,071 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:57,542 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-dsilluci/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:57,542 - DEBUG - Processing repository: cs141-w26-lab2c-LittleLion930
+2026-01-17 09:05:57,543 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:58,016 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-LittleLion930/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:58,017 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:58,636 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-LittleLion930/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:58,638 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:58,965 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-LittleLion930/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:05:58,966 - DEBUG - Processing repository: cs141-w26-lab2c-EpicToastTM
+2026-01-17 09:05:58,967 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:59,312 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-EpicToastTM/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:59,314 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:05:59,757 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-EpicToastTM/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:05:59,760 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:00,162 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-EpicToastTM/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:00,163 - DEBUG - Processing repository: cs141-w26-lab2c-Mr-Merp
+2026-01-17 09:06:00,163 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:00,807 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Mr-Merp/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:00,808 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:01,363 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Mr-Merp/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:01,365 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:01,699 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Mr-Merp/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:01,700 - DEBUG - Processing repository: cs141-w26-lab2c-ZhouhengTao
+2026-01-17 09:06:01,700 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:02,121 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ZhouhengTao/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:02,122 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:02,542 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ZhouhengTao/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:02,544 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:02,829 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ZhouhengTao/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:02,830 - DEBUG - Processing repository: cs141-w26-lab2c-jaack4
+2026-01-17 09:06:02,830 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:03,177 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jaack4/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:03,180 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:03,619 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jaack4/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:03,620 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:03,973 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jaack4/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:03,974 - DEBUG - Processing repository: cs141-w26-lab2c-ArchieSeh
+2026-01-17 09:06:03,974 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:04,374 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ArchieSeh/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:04,376 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:04,835 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ArchieSeh/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:04,837 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:05,174 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ArchieSeh/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:05,175 - DEBUG - Processing repository: cs141-w26-lab2c-wdrobish
+2026-01-17 09:06:05,175 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:05,521 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-wdrobish/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:05,523 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:05,962 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-wdrobish/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:05,963 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:06,289 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-wdrobish/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:06,291 - DEBUG - Processing repository: cs141-w26-lab2c-sahirsh
+2026-01-17 09:06:06,292 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:06,653 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sahirsh/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:06,655 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:06,945 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sahirsh/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:06,947 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:07,220 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sahirsh/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:07,221 - DEBUG - Processing repository: cs141-w26-lab2c-myn13
+2026-01-17 09:06:07,222 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:07,555 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-myn13/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:07,557 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:07,960 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-myn13/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:07,963 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:08,235 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-myn13/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:08,236 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:08,576 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-myn13/pulls/comments/2696930638/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:08,577 - DEBUG - Processing repository: cs141-w26-lab2c-arjunk76
+2026-01-17 09:06:08,578 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:09,183 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-arjunk76/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:09,184 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:09,665 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-arjunk76/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:09,667 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:09,982 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-arjunk76/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:09,982 - DEBUG - Processing repository: cs141-w26-lab2c-Ava-Kopecky
+2026-01-17 09:06:09,983 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:10,330 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Ava-Kopecky/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:10,333 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:10,944 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Ava-Kopecky/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:10,946 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:11,266 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Ava-Kopecky/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:11,268 - DEBUG - Processing repository: cs141-w26-lab2c-supanice-uci
+2026-01-17 09:06:11,268 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:11,624 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-supanice-uci/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:11,625 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:12,057 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-supanice-uci/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:12,059 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:12,395 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-supanice-uci/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:12,396 - DEBUG - Processing repository: cs141-w26-lab2c-MichaelP222
+2026-01-17 09:06:12,396 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:12,782 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MichaelP222/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:12,783 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:13,380 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MichaelP222/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:13,382 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:13,687 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MichaelP222/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:13,687 - DEBUG - Processing repository: cs141-w26-lab2c-jjdonckels
+2026-01-17 09:06:13,688 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:14,032 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:14,033 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:14,553 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:14,556 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:14,907 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:14,909 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:15,224 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/pulls/comments/2696697429/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:15,226 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:15,611 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/pulls/comments/2700152453/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:15,611 - DEBUG - Processing repository: cs141-w26-lab2c-eshahrestany
+2026-01-17 09:06:15,612 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:15,988 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-eshahrestany/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:15,989 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:16,424 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-eshahrestany/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:16,426 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:16,852 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-eshahrestany/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:16,853 - DEBUG - Processing repository: cs141-w26-lab2c-sasakip-uci-edu
+2026-01-17 09:06:16,853 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:17,240 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sasakip-uci-edu/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:17,241 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:17,684 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sasakip-uci-edu/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:17,685 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:18,225 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sasakip-uci-edu/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:18,226 - DEBUG - Processing repository: cs141-w26-lab2c-Benny237
+2026-01-17 09:06:18,226 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:18,643 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Benny237/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:18,644 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:18,946 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Benny237/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:18,948 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:19,280 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Benny237/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:19,280 - DEBUG - Processing repository: cs141-w26-lab2c-anthon12-uci
+2026-01-17 09:06:19,281 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:19,663 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-anthon12-uci/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:19,665 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:20,130 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-anthon12-uci/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:20,132 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:20,448 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-anthon12-uci/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:20,449 - DEBUG - Processing repository: cs141-w26-lab2c-gcjong030
+2026-01-17 09:06:20,450 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:20,836 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-gcjong030/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:20,838 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:21,179 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-gcjong030/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:21,180 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:21,527 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-gcjong030/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:21,528 - DEBUG - Processing repository: cs141-w26-lab2c-jiyu02
+2026-01-17 09:06:21,528 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:21,887 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jiyu02/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:21,888 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:22,288 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jiyu02/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:22,289 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:22,652 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jiyu02/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:22,652 - DEBUG - Processing repository: cs141-w26-lab2c-Frank808-Git
+2026-01-17 09:06:22,653 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:23,030 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Frank808-Git/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:23,033 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:23,521 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Frank808-Git/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:23,522 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:23,908 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Frank808-Git/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:23,909 - DEBUG - Processing repository: cs141-w26-lab2c-sunjaelee3
+2026-01-17 09:06:23,910 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:24,271 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sunjaelee3/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:24,273 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:24,879 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sunjaelee3/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:24,880 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:25,361 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sunjaelee3/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:25,362 - DEBUG - Processing repository: cs141-w26-lab2c-w4h009
+2026-01-17 09:06:25,362 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:25,734 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-w4h009/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:25,736 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:26,249 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-w4h009/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:26,250 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:26,623 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-w4h009/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:26,624 - DEBUG - Processing repository: cs141-w26-lab2c-MubaiLi222
+2026-01-17 09:06:26,625 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:27,044 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MubaiLi222/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:27,046 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:27,488 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MubaiLi222/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:27,490 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:27,813 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MubaiLi222/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:27,814 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:28,109 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MubaiLi222/pulls/comments/2696002529/reactions?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:28,109 - DEBUG - Processing repository: cs141-w26-lab2c-rsljhns
+2026-01-17 09:06:28,110 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:28,454 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-rsljhns/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:28,456 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:29,004 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-rsljhns/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:29,006 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:29,318 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-rsljhns/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:29,319 - DEBUG - Processing repository: cs141-w26-lab2c-lucasli2
+2026-01-17 09:06:29,320 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:29,725 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-lucasli2/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:29,726 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:30,194 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-lucasli2/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:30,196 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:30,508 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-lucasli2/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:30,509 - DEBUG - Processing repository: cs141-w26-lab2c-aditkantak
+2026-01-17 09:06:30,509 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:30,890 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aditkantak/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:30,892 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:31,548 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aditkantak/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:31,550 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:31,960 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aditkantak/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:31,961 - DEBUG - Processing repository: cs141-w26-lab2c-kbattson
+2026-01-17 09:06:31,962 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:32,376 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kbattson/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:32,377 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:32,846 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kbattson/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:32,847 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:33,146 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-kbattson/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:33,146 - DEBUG - Processing repository: cs141-w26-lab2c-chriscc5
+2026-01-17 09:06:33,147 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:33,587 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-chriscc5/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:33,588 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:34,058 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-chriscc5/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:34,060 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:34,347 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-chriscc5/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:34,347 - DEBUG - Processing repository: cs141-w26-lab2c-marcusl07
+2026-01-17 09:06:34,348 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:34,716 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-marcusl07/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:34,718 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:35,233 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-marcusl07/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:35,234 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:35,606 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-marcusl07/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:35,607 - DEBUG - Processing repository: cs141-w26-lab2c-1JunHuang
+2026-01-17 09:06:35,607 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:35,965 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-1JunHuang/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:35,966 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:36,395 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-1JunHuang/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:36,396 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:36,716 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-1JunHuang/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:36,717 - DEBUG - Processing repository: cs141-w26-lab2c-rheajethvani
+2026-01-17 09:06:36,718 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:37,169 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-rheajethvani/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:37,170 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:37,616 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-rheajethvani/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:37,618 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:37,927 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-rheajethvani/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:37,928 - DEBUG - Processing repository: cs141-w26-lab2c-NotJonny1
+2026-01-17 09:06:37,929 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:38,287 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-NotJonny1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:38,290 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:38,753 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-NotJonny1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:38,754 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:39,087 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-NotJonny1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:39,088 - DEBUG - Processing repository: cs141-w26-lab2c-vatsag-06
+2026-01-17 09:06:39,088 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:39,531 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-vatsag-06/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:39,533 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:40,020 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-vatsag-06/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:40,021 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:40,340 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-vatsag-06/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:40,340 - DEBUG - Processing repository: cs141-w26-lab2c-xsjsgfdysd
+2026-01-17 09:06:40,341 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:40,698 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:40,699 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:41,135 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:41,137 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:41,466 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:41,467 - DEBUG - Processing repository: cs141-w26-lab2c-varunia2
+2026-01-17 09:06:41,468 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:41,856 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-varunia2/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:41,857 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:42,288 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-varunia2/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:42,290 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:42,648 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-varunia2/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:42,648 - DEBUG - Processing repository: cs141-w26-lab2c-spencerleaf
+2026-01-17 09:06:42,649 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:43,045 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-spencerleaf/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:43,047 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:43,527 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-spencerleaf/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:43,528 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:43,873 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-spencerleaf/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:43,873 - DEBUG - Processing repository: cs141-w26-lab2c-aputty11
+2026-01-17 09:06:43,874 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:44,190 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aputty11/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:44,191 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:44,545 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aputty11/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:44,547 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:44,891 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aputty11/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:44,893 - DEBUG - Processing repository: cs141-w26-lab2c-cusianovic
+2026-01-17 09:06:44,893 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:45,235 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-cusianovic/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:45,236 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:45,822 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-cusianovic/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:45,823 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:46,129 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-cusianovic/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:46,130 - DEBUG - Processing repository: cs141-w26-lab2c-ImRayyaan
+2026-01-17 09:06:46,131 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:46,539 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ImRayyaan/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:46,540 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:47,097 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ImRayyaan/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:47,099 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:47,435 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ImRayyaan/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:47,436 - DEBUG - Processing repository: cs141-w26-lab2c-yeqiw1
+2026-01-17 09:06:47,436 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:47,869 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-yeqiw1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:47,871 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:48,288 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-yeqiw1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:48,290 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:48,648 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-yeqiw1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:48,649 - DEBUG - Processing repository: cs141-w26-lab2c-AntonioCuan
+2026-01-17 09:06:48,650 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:49,218 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AntonioCuan/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:49,220 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:49,651 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AntonioCuan/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:49,652 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:49,962 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AntonioCuan/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:49,963 - DEBUG - Processing repository: cs141-w26-lab2c-vmrenter-code
+2026-01-17 09:06:49,964 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:50,425 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-vmrenter-code/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:50,427 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:50,884 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-vmrenter-code/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:50,886 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:51,261 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-vmrenter-code/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:51,262 - DEBUG - Processing repository: cs141-w26-lab2c-ethnvo
+2026-01-17 09:06:51,263 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:51,638 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ethnvo/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:51,639 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:52,104 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ethnvo/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:52,105 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:52,398 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ethnvo/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:52,399 - DEBUG - Processing repository: cs141-w26-lab2c-sim-hub1
+2026-01-17 09:06:52,400 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:52,818 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sim-hub1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:52,820 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:53,252 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sim-hub1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:53,254 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:53,621 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-sim-hub1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:53,622 - DEBUG - Processing repository: cs141-w26-lab2c-seungl25
+2026-01-17 09:06:53,623 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:53,998 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-seungl25/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:54,000 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:54,583 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-seungl25/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:54,585 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:54,935 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-seungl25/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:54,936 - DEBUG - Processing repository: cs141-w26-lab2c-haoqp1
+2026-01-17 09:06:54,937 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:55,310 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-haoqp1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:55,312 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:55,684 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-haoqp1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:55,685 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:56,056 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-haoqp1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:56,057 - DEBUG - Processing repository: cs141-w26-lab2c-gymPotato-1
+2026-01-17 09:06:56,058 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:56,523 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-gymPotato-1/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:56,525 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:56,984 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-gymPotato-1/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:56,986 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:57,314 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-gymPotato-1/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:57,315 - DEBUG - Processing repository: cs141-w26-lab2c-20chino05
+2026-01-17 09:06:57,315 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:57,636 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-20chino05/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:57,637 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:58,005 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-20chino05/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:58,006 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:58,427 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-20chino05/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:58,428 - DEBUG - Processing repository: cs141-w26-lab2c-jy8liu
+2026-01-17 09:06:58,429 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:58,838 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jy8liu/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:58,839 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:59,248 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jy8liu/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:59,249 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:59,617 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-jy8liu/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:06:59,618 - DEBUG - Processing repository: cs141-w26-lab2c-Ewuman
+2026-01-17 09:06:59,618 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:06:59,967 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Ewuman/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:06:59,968 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:00,559 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Ewuman/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:00,560 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:00,867 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Ewuman/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:00,868 - DEBUG - Processing repository: cs141-w26-lab2c-willm326
+2026-01-17 09:07:00,869 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:01,336 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-willm326/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:01,337 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:01,797 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-willm326/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:01,798 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:02,147 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-willm326/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:02,149 - DEBUG - Processing repository: cs141-w26-lab2c-leec00260
+2026-01-17 09:07:02,149 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:02,585 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-leec00260/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:02,586 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:02,896 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-leec00260/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:02,898 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:03,228 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-leec00260/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:03,229 - DEBUG - Processing repository: cs141-w26-lab2c-Lekzs
+2026-01-17 09:07:03,230 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:03,619 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Lekzs/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:03,621 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:04,088 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Lekzs/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:04,089 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:04,382 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Lekzs/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:04,383 - DEBUG - Processing repository: cs141-w26-lab2c-AdiAnteater
+2026-01-17 09:07:04,384 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:04,797 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AdiAnteater/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:04,798 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:05,288 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AdiAnteater/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:05,290 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:05,621 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AdiAnteater/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:05,622 - DEBUG - Processing repository: cs141-w26-lab2c-JimmyZzz30
+2026-01-17 09:07:05,623 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:06,075 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-JimmyZzz30/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:06,077 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:06,590 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-JimmyZzz30/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:06,592 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:06,887 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-JimmyZzz30/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:06,888 - DEBUG - Processing repository: cs141-w26-lab2c-ariyagowda
+2026-01-17 09:07:06,889 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:07,262 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ariyagowda/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:07,264 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:07,655 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ariyagowda/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:07,657 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:08,033 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-ariyagowda/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:08,034 - DEBUG - Processing repository: cs141-w26-lab2c-duyaj
+2026-01-17 09:07:08,035 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:08,511 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-duyaj/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:08,513 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:08,991 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-duyaj/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:08,993 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:09,282 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-duyaj/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:09,283 - DEBUG - Processing repository: cs141-w26-lab2c-aresalvarado
+2026-01-17 09:07:09,284 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:09,652 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aresalvarado/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:09,654 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:09,984 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aresalvarado/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:09,986 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:10,315 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-aresalvarado/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:10,316 - DEBUG - Processing repository: cs141-w26-lab2c-thomasn05
+2026-01-17 09:07:10,316 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:10,648 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-thomasn05/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:10,649 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:11,136 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-thomasn05/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:11,138 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:11,478 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-thomasn05/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:11,479 - DEBUG - Processing repository: cs141-w26-lab2c-CHAdinna
+2026-01-17 09:07:11,479 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:11,854 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-CHAdinna/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:11,856 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:12,278 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-CHAdinna/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:12,280 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:12,591 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-CHAdinna/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:12,592 - DEBUG - Processing repository: cs141-w26-lab2c-AshGasparyanCS
+2026-01-17 09:07:12,593 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:12,990 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:12,991 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:13,390 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:13,392 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:13,970 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:13,970 - DEBUG - Processing repository: cs141-w26-lab2c-Neilk1021
+2026-01-17 09:07:13,971 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:14,382 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Neilk1021/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:14,383 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:14,862 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Neilk1021/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:14,864 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:15,176 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Neilk1021/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:15,177 - DEBUG - Processing repository: cs141-w26-lab2c-MNUQUI
+2026-01-17 09:07:15,178 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:15,578 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MNUQUI/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:15,580 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:16,051 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MNUQUI/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:16,053 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:16,444 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-MNUQUI/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:16,445 - DEBUG - Processing repository: cs141-w26-lab2c-iamshauryag
+2026-01-17 09:07:16,446 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:16,897 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-iamshauryag/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:16,899 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:17,344 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-iamshauryag/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:17,345 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:17,652 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-iamshauryag/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:17,653 - DEBUG - Processing repository: cs141-w26-lab2c-apoolla114
+2026-01-17 09:07:17,654 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:18,054 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-apoolla114/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:18,056 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:18,456 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-apoolla114/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:18,457 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:18,793 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-apoolla114/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:18,794 - DEBUG - Processing repository: cs141-w26-lab2c-agamvirmandair
+2026-01-17 09:07:18,794 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:19,199 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-agamvirmandair/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:19,201 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:19,736 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-agamvirmandair/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:19,737 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:20,333 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-agamvirmandair/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:20,334 - DEBUG - Processing repository: cs141-w26-lab2c-Jinseyam
+2026-01-17 09:07:20,335 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:20,755 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Jinseyam/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:20,757 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:21,381 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Jinseyam/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:21,383 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:21,838 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-Jinseyam/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:21,938 - DEBUG - Processing repository: cs141-w26-lab2c-wendiiiiii
+2026-01-17 09:07:21,939 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:22,632 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-wendiiiiii/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:22,635 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:23,230 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-wendiiiiii/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:23,231 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:23,588 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-wendiiiiii/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:23,589 - DEBUG - Processing repository: cs141-w26-lab2c-mjliu5
+2026-01-17 09:07:23,589 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:24,019 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-mjliu5/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:24,020 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:24,456 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-mjliu5/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:24,457 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:24,802 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-mjliu5/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:24,803 - DEBUG - Processing repository: cs141-w26-lab2c-charlesyeh-1103
+2026-01-17 09:07:24,804 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:25,191 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:25,193 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:25,698 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:25,700 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:26,035 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:26,036 - DEBUG - Processing repository: cs141-w26-lab2c-devg1ics
+2026-01-17 09:07:26,037 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:26,428 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-devg1ics/pulls?state=all&per_page=100&page=1 HTTP/1.1" 200 None
+2026-01-17 09:07:26,430 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:26,793 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-devg1ics/pulls/1/comments?per_page=100&page=1 HTTP/1.1" 200 2
+2026-01-17 09:07:26,795 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-17 09:07:27,171 - DEBUG - https://api.github.com:443 "GET /repos/klefstad-teaching/cs141-w26-lab2c-devg1ics/issues/1/comments?per_page=100&page=1 HTTP/1.1" 200 2

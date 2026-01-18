@@ -1,0 +1,21 @@
+2026-01-15 08:04:31,828 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:04:32,193 - DEBUG - https://api.github.com:443 "GET /classrooms HTTP/1.1" 200 None
+2026-01-15 08:04:32,195 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:04:32,972 - DEBUG - https://api.github.com:443 "GET /classrooms/300260/assignments HTTP/1.1" 200 None
+2026-01-15 08:04:32,973 - DEBUG - Found 3 assignments: CS141 W26 LAB2A, CS141 W26 LAB2B, CS141 W26 LAB2C
+2026-01-15 08:04:32,973 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:04:36,011 - DEBUG - https://api.github.com:443 "GET /assignments/922894/accepted_assignments?per_page=100 HTTP/1.1" 200 None
+2026-01-15 08:04:36,012 - DEBUG - CS141 W26 LAB2A: found 48 submissions
+2026-01-15 08:04:36,013 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:04:46,559 - DEBUG - https://api.github.com:443 "GET /assignments/922898/accepted_assignments?per_page=100 HTTP/1.1" 500 156
+2026-01-15 08:04:46,560 - DEBUG - Incremented Retry for (url='/assignments/922898/accepted_assignments?per_page=100'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2026-01-15 08:04:46,561 - DEBUG - Retry: /assignments/922898/accepted_assignments?per_page=100
+2026-01-15 08:04:46,561 - DEBUG - Resetting dropped connection: api.github.com
+2026-01-15 08:04:49,609 - DEBUG - https://api.github.com:443 "GET /assignments/922898/accepted_assignments?per_page=100 HTTP/1.1" 200 None
+2026-01-15 08:04:49,612 - DEBUG - CS141 W26 LAB2B: found 71 submissions
+2026-01-15 08:04:49,613 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:05:00,029 - DEBUG - https://api.github.com:443 "GET /assignments/922899/accepted_assignments?per_page=100 HTTP/1.1" 502 32
+2026-01-15 08:05:00,029 - DEBUG - Incremented Retry for (url='/assignments/922899/accepted_assignments?per_page=100'): Retry(total=4, connect=None, read=None, redirect=None, status=None)
+2026-01-15 08:05:00,030 - DEBUG - Retry: /assignments/922899/accepted_assignments?per_page=100
+2026-01-15 08:05:04,894 - DEBUG - https://api.github.com:443 "GET /assignments/922899/accepted_assignments?per_page=100 HTTP/1.1" 200 None
+2026-01-15 08:05:04,895 - DEBUG - CS141 W26 LAB2C: found 83 submissions

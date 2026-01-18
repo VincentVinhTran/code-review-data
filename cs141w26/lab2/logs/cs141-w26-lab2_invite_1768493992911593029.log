@@ -1,0 +1,1560 @@
+2026-01-15 08:19:52,923 - DEBUG - Inviting liuftuci to klefstad-teaching/cs141-w26-lab2c-yeqiw1...
+2026-01-15 08:19:52,924 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:53,485 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-yeqiw1/collaborators/liuftuci HTTP/1.1" 201 7407
+2026-01-15 08:19:53,486 - DEBUG - [SUCCESS] Invited liuftuci
+2026-01-15 08:19:53,487 - DEBUG - Inviting liuftuci to klefstad-teaching/cs141-w26-lab2c-wdrobish...
+2026-01-15 08:19:53,487 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:53,986 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-wdrobish/collaborators/liuftuci HTTP/1.1" 201 7489
+2026-01-15 08:19:53,987 - DEBUG - [SUCCESS] Invited liuftuci
+2026-01-15 08:19:53,987 - DEBUG - Inviting Dhivyno to klefstad-teaching/cs141-w26-lab2c-haoqp1...
+2026-01-15 08:19:53,988 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:54,564 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-haoqp1/collaborators/Dhivyno HTTP/1.1" 201 7401
+2026-01-15 08:19:54,565 - DEBUG - [SUCCESS] Invited Dhivyno
+2026-01-15 08:19:54,565 - DEBUG - Inviting Dhivyno to klefstad-teaching/cs141-w26-lab2c-20chino05...
+2026-01-15 08:19:54,566 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:55,054 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-20chino05/collaborators/Dhivyno HTTP/1.1" 201 7524
+2026-01-15 08:19:55,055 - DEBUG - [SUCCESS] Invited Dhivyno
+2026-01-15 08:19:55,055 - DEBUG - Inviting Jthoeung to klefstad-teaching/cs141-w26-lab2b-sasha-oconnor...
+2026-01-15 08:19:55,056 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:55,544 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sasha-oconnor/collaborators/Jthoeung HTTP/1.1" 201 7694
+2026-01-15 08:19:55,545 - DEBUG - [SUCCESS] Invited Jthoeung
+2026-01-15 08:19:55,545 - DEBUG - Inviting Jthoeung to klefstad-teaching/cs141-w26-lab2b-techsgithub...
+2026-01-15 08:19:55,546 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:56,114 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-techsgithub/collaborators/Jthoeung HTTP/1.1" 201 7612
+2026-01-15 08:19:56,115 - DEBUG - [SUCCESS] Invited Jthoeung
+2026-01-15 08:19:56,115 - DEBUG - Inviting charcod-jpg to klefstad-teaching/cs141-w26-lab2c-w4h009...
+2026-01-15 08:19:56,115 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:56,755 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-w4h009/collaborators/charcod-jpg HTTP/1.1" 201 7443
+2026-01-15 08:19:56,756 - DEBUG - [SUCCESS] Invited charcod-jpg
+2026-01-15 08:19:56,757 - DEBUG - Inviting charcod-jpg to klefstad-teaching/cs141-w26-lab2b-heechy33...
+2026-01-15 08:19:56,758 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:57,254 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-heechy33/collaborators/charcod-jpg HTTP/1.1" 201 7525
+2026-01-15 08:19:57,255 - DEBUG - [SUCCESS] Invited charcod-jpg
+2026-01-15 08:19:57,256 - DEBUG - Inviting KayleTruong to klefstad-teaching/cs141-w26-lab2b-nyelgireddy...
+2026-01-15 08:19:57,256 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:57,862 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nyelgireddy/collaborators/KayleTruong HTTP/1.1" 201 7648
+2026-01-15 08:19:57,863 - DEBUG - [SUCCESS] Invited KayleTruong
+2026-01-15 08:19:57,864 - DEBUG - Inviting KayleTruong to klefstad-teaching/cs141-w26-lab2c-MichaelP222...
+2026-01-15 08:19:57,865 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:58,420 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-MichaelP222/collaborators/KayleTruong HTTP/1.1" 201 7648
+2026-01-15 08:19:58,422 - DEBUG - [SUCCESS] Invited KayleTruong
+2026-01-15 08:19:58,422 - DEBUG - Inviting pjtsearch to klefstad-teaching/cs141-w26-lab2b-alvarov17...
+2026-01-15 08:19:58,423 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:58,879 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alvarov17/collaborators/pjtsearch HTTP/1.1" 201 7548
+2026-01-15 08:19:58,880 - DEBUG - [SUCCESS] Invited pjtsearch
+2026-01-15 08:19:58,880 - DEBUG - Inviting pjtsearch to klefstad-teaching/cs141-w26-lab2c-sunjaelee3...
+2026-01-15 08:19:58,881 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:19:59,434 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-sunjaelee3/collaborators/pjtsearch HTTP/1.1" 201 7589
+2026-01-15 08:19:59,435 - DEBUG - [SUCCESS] Invited pjtsearch
+2026-01-15 08:19:59,435 - DEBUG - Inviting Tiffannyy to klefstad-teaching/cs141-w26-lab2b-HsuAustin...
+2026-01-15 08:19:59,436 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:00,039 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-HsuAustin/collaborators/Tiffannyy HTTP/1.1" 201 7542
+2026-01-15 08:20:00,040 - DEBUG - [SUCCESS] Invited Tiffannyy
+2026-01-15 08:20:00,040 - DEBUG - Inviting Tiffannyy to klefstad-teaching/cs141-w26-lab2b-triminhta1207...
+2026-01-15 08:20:00,041 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:00,603 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-triminhta1207/collaborators/Tiffannyy HTTP/1.1" 201 7706
+2026-01-15 08:20:00,604 - DEBUG - [SUCCESS] Invited Tiffannyy
+2026-01-15 08:20:00,604 - DEBUG - Inviting Jajavon to klefstad-teaching/cs141-w26-lab2c-myn13...
+2026-01-15 08:20:00,605 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:01,086 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-myn13/collaborators/Jajavon HTTP/1.1" 201 7352
+2026-01-15 08:20:01,087 - DEBUG - [SUCCESS] Invited Jajavon
+2026-01-15 08:20:01,088 - DEBUG - Inviting Jajavon to klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum...
+2026-01-15 08:20:01,088 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:01,741 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum/collaborators/Jajavon HTTP/1.1" 201 7803
+2026-01-15 08:20:01,742 - DEBUG - [SUCCESS] Invited Jajavon
+2026-01-15 08:20:01,742 - DEBUG - Inviting axelwennerlund to klefstad-teaching/cs141-w26-lab2b-christinne-n...
+2026-01-15 08:20:01,743 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:02,256 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-christinne-n/collaborators/axelwennerlund HTTP/1.1" 201 7725
+2026-01-15 08:20:02,256 - DEBUG - [SUCCESS] Invited axelwennerlund
+2026-01-15 08:20:02,257 - DEBUG - Inviting axelwennerlund to klefstad-teaching/cs141-w26-lab2c-ethnvo...
+2026-01-15 08:20:02,257 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:02,834 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ethnvo/collaborators/axelwennerlund HTTP/1.1" 201 7479
+2026-01-15 08:20:02,835 - DEBUG - [SUCCESS] Invited axelwennerlund
+2026-01-15 08:20:02,836 - DEBUG - Inviting jordan-m-finn to klefstad-teaching/cs141-w26-lab2c-LittleLion930...
+2026-01-15 08:20:02,836 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:03,516 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-LittleLion930/collaborators/jordan-m-finn HTTP/1.1" 201 7754
+2026-01-15 08:20:03,516 - DEBUG - [SUCCESS] Invited jordan-m-finn
+2026-01-15 08:20:03,516 - DEBUG - Inviting jordan-m-finn to klefstad-teaching/cs141-w26-lab2c-mjliu5...
+2026-01-15 08:20:03,517 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:04,106 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-mjliu5/collaborators/jordan-m-finn HTTP/1.1" 201 7467
+2026-01-15 08:20:04,108 - DEBUG - [SUCCESS] Invited jordan-m-finn
+2026-01-15 08:20:04,108 - DEBUG - Inviting QuocTrinh-hub to klefstad-teaching/cs141-w26-lab2c-marcusl07...
+2026-01-15 08:20:04,108 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:04,705 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-marcusl07/collaborators/QuocTrinh-hub HTTP/1.1" 201 7590
+2026-01-15 08:20:04,706 - DEBUG - [SUCCESS] Invited QuocTrinh-hub
+2026-01-15 08:20:04,706 - DEBUG - Inviting QuocTrinh-hub to klefstad-teaching/cs141-w26-lab2c-MNUQUI...
+2026-01-15 08:20:04,707 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:05,267 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-MNUQUI/collaborators/QuocTrinh-hub HTTP/1.1" 201 7467
+2026-01-15 08:20:05,268 - DEBUG - [SUCCESS] Invited QuocTrinh-hub
+2026-01-15 08:20:05,268 - DEBUG - Inviting NvyGreen to klefstad-teaching/cs141-w26-lab2b-itsmandrew...
+2026-01-15 08:20:05,268 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:05,804 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-itsmandrew/collaborators/NvyGreen HTTP/1.1" 201 7571
+2026-01-15 08:20:05,805 - DEBUG - [SUCCESS] Invited NvyGreen
+2026-01-15 08:20:05,806 - DEBUG - Inviting NvyGreen to klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd...
+2026-01-15 08:20:05,806 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:06,367 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd/collaborators/NvyGreen HTTP/1.1" 201 7571
+2026-01-15 08:20:06,368 - DEBUG - [SUCCESS] Invited NvyGreen
+2026-01-15 08:20:06,368 - DEBUG - Inviting BradyCason to klefstad-teaching/cs141-w26-lab2c-ganeevsinghs...
+2026-01-15 08:20:06,368 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:06,828 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ganeevsinghs/collaborators/BradyCason HTTP/1.1" 201 7683
+2026-01-15 08:20:06,829 - DEBUG - [SUCCESS] Invited BradyCason
+2026-01-15 08:20:06,829 - DEBUG - Inviting BradyCason to klefstad-teaching/cs141-w26-lab2b-riyapanche...
+2026-01-15 08:20:06,830 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:07,392 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-riyapanche/collaborators/BradyCason HTTP/1.1" 201 7601
+2026-01-15 08:20:07,393 - DEBUG - [SUCCESS] Invited BradyCason
+2026-01-15 08:20:07,393 - DEBUG - Inviting JustinLi212 to klefstad-teaching/cs141-w26-lab2b-brandog2039...
+2026-01-15 08:20:07,394 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:07,946 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-brandog2039/collaborators/JustinLi212 HTTP/1.1" 201 7648
+2026-01-15 08:20:07,947 - DEBUG - [SUCCESS] Invited JustinLi212
+2026-01-15 08:20:07,948 - DEBUG - Inviting JustinLi212 to klefstad-teaching/cs141-w26-lab2b-bqtquach...
+2026-01-15 08:20:07,948 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:08,543 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-bqtquach/collaborators/JustinLi212 HTTP/1.1" 201 7525
+2026-01-15 08:20:08,544 - DEBUG - [SUCCESS] Invited JustinLi212
+2026-01-15 08:20:08,544 - DEBUG - Inviting nxphan-uci to klefstad-teaching/cs141-w26-lab2c-eshahrestany...
+2026-01-15 08:20:08,545 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:09,133 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-eshahrestany/collaborators/nxphan-uci HTTP/1.1" 201 7677
+2026-01-15 08:20:09,134 - DEBUG - [SUCCESS] Invited nxphan-uci
+2026-01-15 08:20:09,135 - DEBUG - Inviting nxphan-uci to klefstad-teaching/cs141-w26-lab2c-1JunHuang...
+2026-01-15 08:20:09,135 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:09,664 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-1JunHuang/collaborators/nxphan-uci HTTP/1.1" 201 7554
+2026-01-15 08:20:09,665 - DEBUG - [SUCCESS] Invited nxphan-uci
+2026-01-15 08:20:09,666 - DEBUG - Inviting laggycomputer to klefstad-teaching/cs141-w26-lab2b-ninal11...
+2026-01-15 08:20:09,666 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:10,219 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-ninal11/collaborators/laggycomputer HTTP/1.1" 201 7514
+2026-01-15 08:20:10,221 - DEBUG - [SUCCESS] Invited laggycomputer
+2026-01-15 08:20:10,221 - DEBUG - Inviting laggycomputer to klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103...
+2026-01-15 08:20:10,222 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:10,749 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103/collaborators/laggycomputer HTTP/1.1" 201 7842
+2026-01-15 08:20:10,750 - DEBUG - [SUCCESS] Invited laggycomputer
+2026-01-15 08:20:10,751 - DEBUG - Inviting JordanPham2002 to klefstad-teaching/cs141-w26-lab2b-nathanlcheng...
+2026-01-15 08:20:10,751 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:11,343 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nathanlcheng/collaborators/JordanPham2002 HTTP/1.1" 201 7725
+2026-01-15 08:20:11,343 - DEBUG - [SUCCESS] Invited JordanPham2002
+2026-01-15 08:20:11,343 - DEBUG - Inviting JordanPham2002 to klefstad-teaching/cs141-w26-lab2c-anthon12-uci...
+2026-01-15 08:20:11,344 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:11,946 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-anthon12-uci/collaborators/JordanPham2002 HTTP/1.1" 201 7725
+2026-01-15 08:20:11,947 - DEBUG - [SUCCESS] Invited JordanPham2002
+2026-01-15 08:20:11,947 - DEBUG - Inviting PNZ-z to klefstad-teaching/cs141-w26-lab2c-Jinseyam...
+2026-01-15 08:20:11,948 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:12,428 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Jinseyam/collaborators/PNZ-z HTTP/1.1" 201 7453
+2026-01-15 08:20:12,429 - DEBUG - [SUCCESS] Invited PNZ-z
+2026-01-15 08:20:12,430 - DEBUG - Inviting PNZ-z to klefstad-teaching/cs141-w26-lab2c-AntonioCuan...
+2026-01-15 08:20:12,430 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:13,013 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-AntonioCuan/collaborators/PNZ-z HTTP/1.1" 201 7576
+2026-01-15 08:20:13,014 - DEBUG - [SUCCESS] Invited PNZ-z
+2026-01-15 08:20:13,015 - DEBUG - Inviting kristerduster to klefstad-teaching/cs141-w26-lab2c-spencerleaf...
+2026-01-15 08:20:13,015 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:13,701 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-spencerleaf/collaborators/kristerduster HTTP/1.1" 201 7678
+2026-01-15 08:20:13,702 - DEBUG - [SUCCESS] Invited kristerduster
+2026-01-15 08:20:13,702 - DEBUG - Inviting kristerduster to klefstad-teaching/cs141-w26-lab2c-sasakip-uci-edu...
+2026-01-15 08:20:13,703 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:14,274 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-sasakip-uci-edu/collaborators/kristerduster HTTP/1.1" 201 7842
+2026-01-15 08:20:14,275 - DEBUG - [SUCCESS] Invited kristerduster
+2026-01-15 08:20:14,275 - DEBUG - Inviting ermmre to klefstad-teaching/cs141-w26-lab2b-LentKe...
+2026-01-15 08:20:14,275 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:14,805 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-LentKe/collaborators/ermmre HTTP/1.1" 201 7383
+2026-01-15 08:20:14,805 - DEBUG - [SUCCESS] Invited ermmre
+2026-01-15 08:20:14,806 - DEBUG - Inviting ermmre to klefstad-teaching/cs141-w26-lab2b-Ranoldt...
+2026-01-15 08:20:14,806 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:15,345 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Ranoldt/collaborators/ermmre HTTP/1.1" 201 7424
+2026-01-15 08:20:15,346 - DEBUG - [SUCCESS] Invited ermmre
+2026-01-15 08:20:15,346 - DEBUG - Inviting mtranfie to klefstad-teaching/cs141-w26-lab2b-avanaaap...
+2026-01-15 08:20:15,347 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:15,917 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/collaborators/mtranfie HTTP/1.1" 201 7489
+2026-01-15 08:20:15,918 - DEBUG - [SUCCESS] Invited mtranfie
+2026-01-15 08:20:15,918 - DEBUG - Inviting mtranfie to klefstad-teaching/cs141-w26-lab2c-Lekzs...
+2026-01-15 08:20:15,919 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:16,454 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Lekzs/collaborators/mtranfie HTTP/1.1" 201 7366
+2026-01-15 08:20:16,455 - DEBUG - [SUCCESS] Invited mtranfie
+2026-01-15 08:20:16,455 - DEBUG - Inviting ebangerz to klefstad-teaching/cs141-w26-lab2b-CyanAnteater...
+2026-01-15 08:20:16,456 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:17,066 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-CyanAnteater/collaborators/ebangerz HTTP/1.1" 201 7653
+2026-01-15 08:20:17,067 - DEBUG - [SUCCESS] Invited ebangerz
+2026-01-15 08:20:17,067 - DEBUG - Inviting ebangerz to klefstad-teaching/cs141-w26-lab2c-DylanVuong3...
+2026-01-15 08:20:17,068 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:17,645 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-DylanVuong3/collaborators/ebangerz HTTP/1.1" 201 7612
+2026-01-15 08:20:17,646 - DEBUG - [SUCCESS] Invited ebangerz
+2026-01-15 08:20:17,646 - DEBUG - Inviting AndrewShim0428 to klefstad-teaching/cs141-w26-lab2c-wendiiiiii...
+2026-01-15 08:20:17,647 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:18,182 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-wendiiiiii/collaborators/AndrewShim0428 HTTP/1.1" 201 7649
+2026-01-15 08:20:18,184 - DEBUG - [SUCCESS] Invited AndrewShim0428
+2026-01-15 08:20:18,184 - DEBUG - Inviting AndrewShim0428 to klefstad-teaching/cs141-w26-lab2c-agamvirmandair...
+2026-01-15 08:20:18,185 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:18,702 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-agamvirmandair/collaborators/AndrewShim0428 HTTP/1.1" 201 7813
+2026-01-15 08:20:18,703 - DEBUG - [SUCCESS] Invited AndrewShim0428
+2026-01-15 08:20:18,703 - DEBUG - Inviting clairdelunesolace to klefstad-teaching/cs141-w26-lab2c-CHAdinna...
+2026-01-15 08:20:18,704 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:19,245 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-CHAdinna/collaborators/clairdelunesolace HTTP/1.1" 201 7597
+2026-01-15 08:20:19,246 - DEBUG - [SUCCESS] Invited clairdelunesolace
+2026-01-15 08:20:19,246 - DEBUG - Inviting clairdelunesolace to klefstad-teaching/cs141-w26-lab2b-AllyBeary...
+2026-01-15 08:20:19,247 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:19,833 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-AllyBeary/collaborators/clairdelunesolace HTTP/1.1" 201 7638
+2026-01-15 08:20:19,834 - DEBUG - [SUCCESS] Invited clairdelunesolace
+2026-01-15 08:20:19,834 - DEBUG - Inviting 6LEON8 to klefstad-teaching/cs141-w26-lab2b-joolenn...
+2026-01-15 08:20:19,835 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:20,469 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-joolenn/collaborators/6LEON8 HTTP/1.1" 201 7424
+2026-01-15 08:20:20,470 - DEBUG - [SUCCESS] Invited 6LEON8
+2026-01-15 08:20:20,471 - DEBUG - Inviting 6LEON8 to klefstad-teaching/cs141-w26-lab2c-EatKFCinMc...
+2026-01-15 08:20:20,471 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:21,145 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-EatKFCinMc/collaborators/6LEON8 HTTP/1.1" 201 7547
+2026-01-15 08:20:21,146 - DEBUG - [SUCCESS] Invited 6LEON8
+2026-01-15 08:20:21,146 - DEBUG - Inviting hivgundamss to klefstad-teaching/cs141-w26-lab2b-joshngn...
+2026-01-15 08:20:21,147 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:21,727 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-joshngn/collaborators/hivgundamss HTTP/1.1" 201 7484
+2026-01-15 08:20:21,728 - DEBUG - [SUCCESS] Invited hivgundamss
+2026-01-15 08:20:21,728 - DEBUG - Inviting hivgundamss to klefstad-teaching/cs141-w26-lab2b-achakka24...
+2026-01-15 08:20:21,728 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:22,233 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-achakka24/collaborators/hivgundamss HTTP/1.1" 201 7566
+2026-01-15 08:20:22,234 - DEBUG - [SUCCESS] Invited hivgundamss
+2026-01-15 08:20:22,234 - DEBUG - Inviting cessar3 to klefstad-teaching/cs141-w26-lab2b-lukes4-uci...
+2026-01-15 08:20:22,235 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:22,809 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-lukes4-uci/collaborators/cessar3 HTTP/1.1" 201 7559
+2026-01-15 08:20:22,810 - DEBUG - [SUCCESS] Invited cessar3
+2026-01-15 08:20:22,810 - DEBUG - Inviting cessar3 to klefstad-teaching/cs141-w26-lab2c-aresalvarado...
+2026-01-15 08:20:22,810 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:23,335 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-aresalvarado/collaborators/cessar3 HTTP/1.1" 201 7641
+2026-01-15 08:20:23,336 - DEBUG - [SUCCESS] Invited cessar3
+2026-01-15 08:20:23,336 - DEBUG - Inviting laurajacint0 to klefstad-teaching/cs141-w26-lab2c-varunia2...
+2026-01-15 08:20:23,337 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:23,973 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-varunia2/collaborators/laurajacint0 HTTP/1.1" 201 7537
+2026-01-15 08:20:23,974 - DEBUG - [SUCCESS] Invited laurajacint0
+2026-01-15 08:20:23,974 - DEBUG - Inviting laurajacint0 to klefstad-teaching/cs141-w26-lab2b-sahirss...
+2026-01-15 08:20:23,975 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:24,550 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sahirss/collaborators/laurajacint0 HTTP/1.1" 201 7496
+2026-01-15 08:20:24,551 - DEBUG - [SUCCESS] Invited laurajacint0
+2026-01-15 08:20:24,551 - DEBUG - Inviting pr1vatestaticfinal to klefstad-teaching/cs141-w26-lab2c-arjunk76...
+2026-01-15 08:20:24,552 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:25,074 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-arjunk76/collaborators/pr1vatestaticfinal HTTP/1.1" 201 7609
+2026-01-15 08:20:25,075 - DEBUG - [SUCCESS] Invited pr1vatestaticfinal
+2026-01-15 08:20:25,076 - DEBUG - Inviting pr1vatestaticfinal to klefstad-teaching/cs141-w26-lab2c-kevinh-a...
+2026-01-15 08:20:25,077 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:25,654 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-kevinh-a/collaborators/pr1vatestaticfinal HTTP/1.1" 201 7609
+2026-01-15 08:20:25,655 - DEBUG - [SUCCESS] Invited pr1vatestaticfinal
+2026-01-15 08:20:25,655 - DEBUG - Inviting ethanvotran20 to klefstad-teaching/cs141-w26-lab2c-sim-hub1...
+2026-01-15 08:20:25,655 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:26,301 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-sim-hub1/collaborators/ethanvotran20 HTTP/1.1" 201 7549
+2026-01-15 08:20:26,302 - DEBUG - [SUCCESS] Invited ethanvotran20
+2026-01-15 08:20:26,302 - DEBUG - Inviting ethanvotran20 to klefstad-teaching/cs141-w26-lab2c-ariyagowda...
+2026-01-15 08:20:26,303 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:26,908 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ariyagowda/collaborators/ethanvotran20 HTTP/1.1" 201 7631
+2026-01-15 08:20:26,909 - DEBUG - [SUCCESS] Invited ethanvotran20
+2026-01-15 08:20:26,909 - DEBUG - Inviting pub1icstaticvoid to klefstad-teaching/cs141-w26-lab2b-yilis15...
+2026-01-15 08:20:26,910 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:27,436 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-yilis15/collaborators/pub1icstaticvoid HTTP/1.1" 201 7544
+2026-01-15 08:20:27,438 - DEBUG - [SUCCESS] Invited pub1icstaticvoid
+2026-01-15 08:20:27,438 - DEBUG - Inviting pub1icstaticvoid to klefstad-teaching/cs141-w26-lab2c-ArchieSeh...
+2026-01-15 08:20:27,439 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:28,040 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ArchieSeh/collaborators/pub1icstaticvoid HTTP/1.1" 201 7626
+2026-01-15 08:20:28,041 - DEBUG - [SUCCESS] Invited pub1icstaticvoid
+2026-01-15 08:20:28,041 - DEBUG - Inviting lukashauge to klefstad-teaching/cs141-w26-lab2b-firewuf...
+2026-01-15 08:20:28,042 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:28,569 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-firewuf/collaborators/lukashauge HTTP/1.1" 201 7472
+2026-01-15 08:20:28,571 - DEBUG - [SUCCESS] Invited lukashauge
+2026-01-15 08:20:28,571 - DEBUG - Inviting lukashauge to klefstad-teaching/cs141-w26-lab2c-dsilluci...
+2026-01-15 08:20:28,572 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:29,230 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-dsilluci/collaborators/lukashauge HTTP/1.1" 201 7513
+2026-01-15 08:20:29,231 - DEBUG - [SUCCESS] Invited lukashauge
+2026-01-15 08:20:29,232 - DEBUG - Inviting KunGeng to klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom...
+2026-01-15 08:20:29,233 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:29,724 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom/collaborators/KunGeng HTTP/1.1" 201 7682
+2026-01-15 08:20:29,726 - DEBUG - [SUCCESS] Invited KunGeng
+2026-01-15 08:20:29,726 - DEBUG - Inviting KunGeng to klefstad-teaching/cs141-w26-lab2b-lenat05...
+2026-01-15 08:20:29,726 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:30,392 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-lenat05/collaborators/KunGeng HTTP/1.1" 201 7436
+2026-01-15 08:20:30,394 - DEBUG - [SUCCESS] Invited KunGeng
+2026-01-15 08:20:30,394 - DEBUG - Inviting Atif-Ahmad to klefstad-teaching/cs141-w26-lab2b-TonyYao8271...
+2026-01-15 08:20:30,395 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:30,966 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-TonyYao8271/collaborators/Atif-Ahmad HTTP/1.1" 201 7642
+2026-01-15 08:20:30,968 - DEBUG - [SUCCESS] Invited Atif-Ahmad
+2026-01-15 08:20:30,968 - DEBUG - Inviting Atif-Ahmad to klefstad-teaching/cs141-w26-lab2c-AdiAnteater...
+2026-01-15 08:20:30,969 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:31,543 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-AdiAnteater/collaborators/Atif-Ahmad HTTP/1.1" 201 7642
+2026-01-15 08:20:31,544 - DEBUG - [SUCCESS] Invited Atif-Ahmad
+2026-01-15 08:20:31,544 - DEBUG - Inviting esivorap to klefstad-teaching/cs141-w26-lab2c-jy8liu...
+2026-01-15 08:20:31,545 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:32,116 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jy8liu/collaborators/esivorap HTTP/1.1" 201 7413
+2026-01-15 08:20:32,117 - DEBUG - [SUCCESS] Invited esivorap
+2026-01-15 08:20:32,117 - DEBUG - Inviting esivorap to klefstad-teaching/cs141-w26-lab2b-zhcaury2...
+2026-01-15 08:20:32,117 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:32,681 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-zhcaury2/collaborators/esivorap HTTP/1.1" 201 7495
+2026-01-15 08:20:32,682 - DEBUG - [SUCCESS] Invited esivorap
+2026-01-15 08:20:32,682 - DEBUG - Inviting emiliolim to klefstad-teaching/cs141-w26-lab2c-Ava-Kopecky...
+2026-01-15 08:20:32,683 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:33,271 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Ava-Kopecky/collaborators/emiliolim HTTP/1.1" 201 7622
+2026-01-15 08:20:33,272 - DEBUG - [SUCCESS] Invited emiliolim
+2026-01-15 08:20:33,272 - DEBUG - Inviting emiliolim to klefstad-teaching/cs141-w26-lab2c-lucasli2...
+2026-01-15 08:20:33,273 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:33,810 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-lucasli2/collaborators/emiliolim HTTP/1.1" 201 7499
+2026-01-15 08:20:33,811 - DEBUG - [SUCCESS] Invited emiliolim
+2026-01-15 08:20:33,811 - DEBUG - Inviting smuretta16 to klefstad-teaching/cs141-w26-lab2c-devg1ics...
+2026-01-15 08:20:33,812 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:34,892 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-devg1ics/collaborators/smuretta16 HTTP/1.1" 201 7513
+2026-01-15 08:20:34,893 - DEBUG - [SUCCESS] Invited smuretta16
+2026-01-15 08:20:34,893 - DEBUG - Inviting smuretta16 to klefstad-teaching/cs141-w26-lab2c-willm326...
+2026-01-15 08:20:34,894 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:35,508 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-willm326/collaborators/smuretta16 HTTP/1.1" 201 7513
+2026-01-15 08:20:35,510 - DEBUG - [SUCCESS] Invited smuretta16
+2026-01-15 08:20:35,510 - DEBUG - Inviting AnviM1 to klefstad-teaching/cs141-w26-lab2b-AlvinAKTran...
+2026-01-15 08:20:35,511 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:36,104 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-AlvinAKTran/collaborators/AnviM1 HTTP/1.1" 201 7588
+2026-01-15 08:20:36,105 - DEBUG - [SUCCESS] Invited AnviM1
+2026-01-15 08:20:36,106 - DEBUG - Inviting AnviM1 to klefstad-teaching/cs141-w26-lab2c-QNDang...
+2026-01-15 08:20:36,106 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:36,731 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-QNDang/collaborators/AnviM1 HTTP/1.1" 201 7383
+2026-01-15 08:20:36,732 - DEBUG - [SUCCESS] Invited AnviM1
+2026-01-15 08:20:36,732 - DEBUG - Inviting Nicol-U to klefstad-teaching/cs141-w26-lab2c-gcjong030...
+2026-01-15 08:20:36,733 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:37,360 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-gcjong030/collaborators/Nicol-U HTTP/1.1" 201 7518
+2026-01-15 08:20:37,361 - DEBUG - [SUCCESS] Invited Nicol-U
+2026-01-15 08:20:37,361 - DEBUG - Inviting Nicol-U to klefstad-teaching/cs141-w26-lab2c-Frank808-Git...
+2026-01-15 08:20:37,362 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:37,864 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Frank808-Git/collaborators/Nicol-U HTTP/1.1" 201 7641
+2026-01-15 08:20:37,865 - DEBUG - [SUCCESS] Invited Nicol-U
+2026-01-15 08:20:37,865 - DEBUG - Inviting moonluno to klefstad-teaching/cs141-w26-lab2c-apoolla114...
+2026-01-15 08:20:37,866 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:38,365 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-apoolla114/collaborators/moonluno HTTP/1.1" 201 7571
+2026-01-15 08:20:38,366 - DEBUG - [SUCCESS] Invited moonluno
+2026-01-15 08:20:38,367 - DEBUG - Inviting moonluno to klefstad-teaching/cs141-w26-lab2b-EliranAvigani...
+2026-01-15 08:20:38,367 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:38,989 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-EliranAvigani/collaborators/moonluno HTTP/1.1" 201 7694
+2026-01-15 08:20:38,991 - DEBUG - [SUCCESS] Invited moonluno
+2026-01-15 08:20:38,991 - DEBUG - Inviting noahk004 to klefstad-teaching/cs141-w26-lab2c-jjdonckels...
+2026-01-15 08:20:38,992 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:39,508 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/collaborators/noahk004 HTTP/1.1" 201 7571
+2026-01-15 08:20:39,510 - DEBUG - [SUCCESS] Invited noahk004
+2026-01-15 08:20:39,510 - DEBUG - Inviting noahk004 to klefstad-teaching/cs141-w26-lab2c-aputty11...
+2026-01-15 08:20:39,511 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:40,091 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-aputty11/collaborators/noahk004 HTTP/1.1" 201 7489
+2026-01-15 08:20:40,092 - DEBUG - [SUCCESS] Invited noahk004
+2026-01-15 08:20:40,093 - DEBUG - Inviting dpappachan to klefstad-teaching/cs141-w26-lab2c-nctam2...
+2026-01-15 08:20:40,093 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:40,565 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-nctam2/collaborators/dpappachan HTTP/1.1" 201 7429
+2026-01-15 08:20:40,566 - DEBUG - [SUCCESS] Invited dpappachan
+2026-01-15 08:20:40,566 - DEBUG - Inviting dpappachan to klefstad-teaching/cs141-w26-lab2b-Dpoin23...
+2026-01-15 08:20:40,567 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:41,065 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Dpoin23/collaborators/dpappachan HTTP/1.1" 201 7470
+2026-01-15 08:20:41,067 - DEBUG - [SUCCESS] Invited dpappachan
+2026-01-15 08:20:41,067 - DEBUG - Inviting kamyyywang to klefstad-teaching/cs141-w26-lab2c-iiBooque...
+2026-01-15 08:20:41,068 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:41,582 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-iiBooque/collaborators/kamyyywang HTTP/1.1" 201 7513
+2026-01-15 08:20:41,583 - DEBUG - [SUCCESS] Invited kamyyywang
+2026-01-15 08:20:41,584 - DEBUG - Inviting kamyyywang to klefstad-teaching/cs141-w26-lab2b-abhinavuppala...
+2026-01-15 08:20:41,584 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:42,259 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-abhinavuppala/collaborators/kamyyywang HTTP/1.1" 201 7718
+2026-01-15 08:20:42,260 - DEBUG - [SUCCESS] Invited kamyyywang
+2026-01-15 08:20:42,261 - DEBUG - Inviting HarryS561 to klefstad-teaching/cs141-w26-lab2b-andrewwsou...
+2026-01-15 08:20:42,261 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:42,834 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-andrewwsou/collaborators/HarryS561 HTTP/1.1" 201 7589
+2026-01-15 08:20:42,835 - DEBUG - [SUCCESS] Invited HarryS561
+2026-01-15 08:20:42,835 - DEBUG - Inviting HarryS561 to klefstad-teaching/cs141-w26-lab2c-gymPotato-1...
+2026-01-15 08:20:42,836 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:43,393 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-gymPotato-1/collaborators/HarryS561 HTTP/1.1" 201 7630
+2026-01-15 08:20:43,395 - DEBUG - [SUCCESS] Invited HarryS561
+2026-01-15 08:20:43,395 - DEBUG - Inviting daviddeng0smm to klefstad-teaching/cs141-w26-lab2c-aditkantak...
+2026-01-15 08:20:43,396 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:43,970 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-aditkantak/collaborators/daviddeng0smm HTTP/1.1" 201 7631
+2026-01-15 08:20:43,971 - DEBUG - [SUCCESS] Invited daviddeng0smm
+2026-01-15 08:20:43,972 - DEBUG - Inviting daviddeng0smm to klefstad-teaching/cs141-w26-lab2c-MubaiLi222...
+2026-01-15 08:20:43,972 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:44,525 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-MubaiLi222/collaborators/daviddeng0smm HTTP/1.1" 201 7631
+2026-01-15 08:20:44,526 - DEBUG - [SUCCESS] Invited daviddeng0smm
+2026-01-15 08:20:44,526 - DEBUG - Inviting EliranAvigani to klefstad-teaching/cs141-w26-lab2a-KunGeng...
+2026-01-15 08:20:44,527 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:45,142 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-KunGeng/collaborators/EliranAvigani HTTP/1.1" 201 7509
+2026-01-15 08:20:45,143 - DEBUG - [SUCCESS] Invited EliranAvigani
+2026-01-15 08:20:45,143 - DEBUG - Inviting EliranAvigani to klefstad-teaching/cs141-w26-lab2a-lukashauge...
+2026-01-15 08:20:45,144 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:45,856 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-lukashauge/collaborators/EliranAvigani HTTP/1.1" 201 7632
+2026-01-15 08:20:45,857 - DEBUG - [SUCCESS] Invited EliranAvigani
+2026-01-15 08:20:45,858 - DEBUG - Inviting TonyYao8271 to klefstad-teaching/cs141-w26-lab2a-ermmre...
+2026-01-15 08:20:45,859 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:46,466 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/collaborators/TonyYao8271 HTTP/1.1" 201 7442
+2026-01-15 08:20:46,468 - DEBUG - [SUCCESS] Invited TonyYao8271
+2026-01-15 08:20:46,468 - DEBUG - Inviting TonyYao8271 to klefstad-teaching/cs141-w26-lab2a-cessar3...
+2026-01-15 08:20:46,469 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:47,102 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-cessar3/collaborators/TonyYao8271 HTTP/1.1" 201 7483
+2026-01-15 08:20:47,104 - DEBUG - [SUCCESS] Invited TonyYao8271
+2026-01-15 08:20:47,104 - DEBUG - Inviting elizabethmwatkins to klefstad-teaching/cs141-w26-lab2c-duyaj...
+2026-01-15 08:20:47,105 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:47,795 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-duyaj/collaborators/elizabethmwatkins HTTP/1.1" 201 7480
+2026-01-15 08:20:47,795 - DEBUG - [SUCCESS] Invited elizabethmwatkins
+2026-01-15 08:20:47,796 - DEBUG - Inviting elizabethmwatkins to klefstad-teaching/cs141-w26-lab2a-pjtsearch...
+2026-01-15 08:20:47,796 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:48,460 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pjtsearch/collaborators/elizabethmwatkins HTTP/1.1" 201 7645
+2026-01-15 08:20:48,461 - DEBUG - [SUCCESS] Invited elizabethmwatkins
+2026-01-15 08:20:48,461 - DEBUG - Inviting christianacho to klefstad-teaching/cs141-w26-lab2c-JimmyZzz30...
+2026-01-15 08:20:48,461 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:50,457 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-JimmyZzz30/collaborators/christianacho HTTP/1.1" 201 7631
+2026-01-15 08:20:50,459 - DEBUG - [SUCCESS] Invited christianacho
+2026-01-15 08:20:50,459 - DEBUG - Inviting christianacho to klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS...
+2026-01-15 08:20:50,459 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:51,054 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS/collaborators/christianacho HTTP/1.1" 201 7795
+2026-01-15 08:20:51,055 - DEBUG - [SUCCESS] Invited christianacho
+2026-01-15 08:20:51,055 - DEBUG - Inviting Ranoldt to klefstad-teaching/cs141-w26-lab2c-kbattson...
+2026-01-15 08:20:51,056 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:51,558 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-kbattson/collaborators/Ranoldt HTTP/1.1" 201 7477
+2026-01-15 08:20:51,560 - DEBUG - [SUCCESS] Invited Ranoldt
+2026-01-15 08:20:51,560 - DEBUG - Inviting Ranoldt to klefstad-teaching/cs141-w26-lab2c-Accelerator050717...
+2026-01-15 08:20:51,561 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:52,233 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Accelerator050717/collaborators/Ranoldt HTTP/1.1" 201 7846
+2026-01-15 08:20:52,234 - DEBUG - [SUCCESS] Invited Ranoldt
+2026-01-15 08:20:52,234 - DEBUG - Inviting jasonbm2 to klefstad-teaching/cs141-w26-lab2a-charcod-jpg...
+2026-01-15 08:20:52,235 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:52,842 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-charcod-jpg/collaborators/jasonbm2 HTTP/1.1" 201 7613
+2026-01-15 08:20:52,843 - DEBUG - [SUCCESS] Invited jasonbm2
+2026-01-15 08:20:52,844 - DEBUG - Inviting jasonbm2 to klefstad-teaching/cs141-w26-lab2c-vmrenter-code...
+2026-01-15 08:20:52,845 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:53,510 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-vmrenter-code/collaborators/jasonbm2 HTTP/1.1" 201 7694
+2026-01-15 08:20:53,511 - DEBUG - [SUCCESS] Invited jasonbm2
+2026-01-15 08:20:53,511 - DEBUG - Inviting Alexander-Tu2 to klefstad-teaching/cs141-w26-lab2a-JordanPham2002...
+2026-01-15 08:20:53,512 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:54,065 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-JordanPham2002/collaborators/Alexander-Tu2 HTTP/1.1" 201 7796
+2026-01-15 08:20:54,067 - DEBUG - [SUCCESS] Invited Alexander-Tu2
+2026-01-15 08:20:54,067 - DEBUG - Inviting Alexander-Tu2 to klefstad-teaching/cs141-w26-lab2a-kristerduster...
+2026-01-15 08:20:54,068 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:54,616 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/collaborators/Alexander-Tu2 HTTP/1.1" 201 7755
+2026-01-15 08:20:54,617 - DEBUG - [SUCCESS] Invited Alexander-Tu2
+2026-01-15 08:20:54,617 - DEBUG - Inviting yuchuehw to klefstad-teaching/cs141-w26-lab2c-Neilk1021...
+2026-01-15 08:20:54,618 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:55,197 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Neilk1021/collaborators/yuchuehw HTTP/1.1" 201 7530
+2026-01-15 08:20:55,197 - DEBUG - [SUCCESS] Invited yuchuehw
+2026-01-15 08:20:55,198 - DEBUG - Inviting yuchuehw to klefstad-teaching/cs141-w26-lab2a-dpappachan...
+2026-01-15 08:20:55,198 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:55,804 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-dpappachan/collaborators/yuchuehw HTTP/1.1" 201 7572
+2026-01-15 08:20:55,805 - DEBUG - [SUCCESS] Invited yuchuehw
+2026-01-15 08:20:55,805 - DEBUG - Inviting ryanrT27 to klefstad-teaching/cs141-w26-lab2c-thomasn05...
+2026-01-15 08:20:55,805 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:56,480 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-thomasn05/collaborators/ryanrT27 HTTP/1.1" 201 7530
+2026-01-15 08:20:56,481 - DEBUG - [SUCCESS] Invited ryanrT27
+2026-01-15 08:20:56,481 - DEBUG - Inviting ryanrT27 to klefstad-teaching/cs141-w26-lab2a-Dhivyno...
+2026-01-15 08:20:56,481 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:57,043 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Dhivyno/collaborators/ryanrT27 HTTP/1.1" 201 7449
+2026-01-15 08:20:57,044 - DEBUG - [SUCCESS] Invited ryanrT27
+2026-01-15 08:20:57,044 - DEBUG - Inviting mvttjb to klefstad-teaching/cs141-w26-lab2c-Mr-Merp...
+2026-01-15 08:20:57,045 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:57,515 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Mr-Merp/collaborators/mvttjb HTTP/1.1" 201 7422
+2026-01-15 08:20:57,516 - DEBUG - [SUCCESS] Invited mvttjb
+2026-01-15 08:20:57,516 - DEBUG - Inviting mvttjb to klefstad-teaching/cs141-w26-lab2a-Nicol-U...
+2026-01-15 08:20:57,517 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:58,882 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/collaborators/mvttjb HTTP/1.1" 201 7423
+2026-01-15 08:20:58,883 - DEBUG - [SUCCESS] Invited mvttjb
+2026-01-15 08:20:58,883 - DEBUG - Inviting alvarov17 to klefstad-teaching/cs141-w26-lab2a-JustinLi212...
+2026-01-15 08:20:58,883 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:20:59,422 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-JustinLi212/collaborators/alvarov17 HTTP/1.1" 201 7625
+2026-01-15 08:20:59,423 - DEBUG - [SUCCESS] Invited alvarov17
+2026-01-15 08:20:59,423 - DEBUG - Inviting alvarov17 to klefstad-teaching/cs141-w26-lab2a-6LEON8...
+2026-01-15 08:20:59,424 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:00,012 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-6LEON8/collaborators/alvarov17 HTTP/1.1" 201 7420
+2026-01-15 08:21:00,013 - DEBUG - [SUCCESS] Invited alvarov17
+2026-01-15 08:21:00,013 - DEBUG - Inviting firewuf to klefstad-teaching/cs141-w26-lab2a-noahk004...
+2026-01-15 08:21:00,013 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:00,568 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-noahk004/collaborators/firewuf HTTP/1.1" 201 7478
+2026-01-15 08:21:00,569 - DEBUG - [SUCCESS] Invited firewuf
+2026-01-15 08:21:00,569 - DEBUG - Inviting firewuf to klefstad-teaching/cs141-w26-lab2a-moonluno...
+2026-01-15 08:21:00,570 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:01,175 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-moonluno/collaborators/firewuf HTTP/1.1" 201 7478
+2026-01-15 08:21:01,177 - DEBUG - [SUCCESS] Invited firewuf
+2026-01-15 08:21:01,177 - DEBUG - Inviting lukes4-uci to klefstad-teaching/cs141-w26-lab2a-kamyyywang...
+2026-01-15 08:21:01,177 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:01,677 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-kamyyywang/collaborators/lukes4-uci HTTP/1.1" 201 7596
+2026-01-15 08:21:01,678 - DEBUG - [SUCCESS] Invited lukes4-uci
+2026-01-15 08:21:01,678 - DEBUG - Inviting lukes4-uci to klefstad-teaching/cs141-w26-lab2a-AndrewShim0428...
+2026-01-15 08:21:01,679 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:02,253 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-AndrewShim0428/collaborators/lukes4-uci HTTP/1.1" 201 7760
+2026-01-15 08:21:02,254 - DEBUG - [SUCCESS] Invited lukes4-uci
+2026-01-15 08:21:02,254 - DEBUG - Inviting sasha-oconnor to klefstad-teaching/cs141-w26-lab2a-BradyCason...
+2026-01-15 08:21:02,255 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:02,939 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-BradyCason/collaborators/sasha-oconnor HTTP/1.1" 201 7630
+2026-01-15 08:21:02,940 - DEBUG - [SUCCESS] Invited sasha-oconnor
+2026-01-15 08:21:02,941 - DEBUG - Inviting sasha-oconnor to klefstad-teaching/cs141-w26-lab2a-HarryS561...
+2026-01-15 08:21:02,941 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:03,612 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-HarryS561/collaborators/sasha-oconnor HTTP/1.1" 201 7589
+2026-01-15 08:21:03,613 - DEBUG - [SUCCESS] Invited sasha-oconnor
+2026-01-15 08:21:03,613 - DEBUG - Inviting HsuAustin to klefstad-teaching/cs141-w26-lab2a-NvyGreen...
+2026-01-15 08:21:03,614 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:04,132 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-NvyGreen/collaborators/HsuAustin HTTP/1.1" 201 7502
+2026-01-15 08:21:04,134 - DEBUG - [SUCCESS] Invited HsuAustin
+2026-01-15 08:21:04,134 - DEBUG - Inviting HsuAustin to klefstad-teaching/cs141-w26-lab2a-axelwennerlund...
+2026-01-15 08:21:04,135 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:04,751 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-axelwennerlund/collaborators/HsuAustin HTTP/1.1" 201 7748
+2026-01-15 08:21:04,752 - DEBUG - [SUCCESS] Invited HsuAustin
+2026-01-15 08:21:04,753 - DEBUG - Inviting joshngn to klefstad-teaching/cs141-w26-lab2c-cusianovic...
+2026-01-15 08:21:04,753 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:05,846 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-cusianovic/collaborators/joshngn HTTP/1.1" 201 7559
+2026-01-15 08:21:05,847 - DEBUG - [SUCCESS] Invited joshngn
+2026-01-15 08:21:05,847 - DEBUG - Inviting joshngn to klefstad-teaching/cs141-w26-lab2c-ZhouhengTao...
+2026-01-15 08:21:05,847 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:06,407 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ZhouhengTao/collaborators/joshngn HTTP/1.1" 201 7600
+2026-01-15 08:21:06,407 - DEBUG - [SUCCESS] Invited joshngn
+2026-01-15 08:21:06,408 - DEBUG - Inviting sehop1-source to klefstad-teaching/cs141-w26-lab2c-supanice-uci...
+2026-01-15 08:21:06,408 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:07,046 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-supanice-uci/collaborators/sehop1-source HTTP/1.1" 201 7713
+2026-01-15 08:21:07,047 - DEBUG - [SUCCESS] Invited sehop1-source
+2026-01-15 08:21:07,047 - DEBUG - Inviting sehop1-source to klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad...
+2026-01-15 08:21:07,048 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:07,581 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad/collaborators/sehop1-source HTTP/1.1" 201 7632
+2026-01-15 08:21:07,582 - DEBUG - [SUCCESS] Invited sehop1-source
+2026-01-15 08:21:07,582 - DEBUG - Inviting jifanf1 to klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal...
+2026-01-15 08:21:07,583 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:08,114 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal/collaborators/jifanf1 HTTP/1.1" 201 7888
+2026-01-15 08:21:08,115 - DEBUG - [SUCCESS] Invited jifanf1
+2026-01-15 08:21:08,115 - DEBUG - Inviting jifanf1 to klefstad-teaching/cs141-w26-lab2a-ethanvotran20...
+2026-01-15 08:21:08,116 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:08,779 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ethanvotran20/collaborators/jifanf1 HTTP/1.1" 201 7683
+2026-01-15 08:21:08,780 - DEBUG - [SUCCESS] Invited jifanf1
+2026-01-15 08:21:08,781 - DEBUG - Inviting riyapanche to klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid...
+2026-01-15 08:21:08,781 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:09,375 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid/collaborators/riyapanche HTTP/1.1" 201 7840
+2026-01-15 08:21:09,376 - DEBUG - [SUCCESS] Invited riyapanche
+2026-01-15 08:21:09,377 - DEBUG - Inviting riyapanche to klefstad-teaching/cs141-w26-lab2c-PartiNoone...
+2026-01-15 08:21:09,377 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:09,987 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-PartiNoone/collaborators/riyapanche HTTP/1.1" 201 7593
+2026-01-15 08:21:09,988 - DEBUG - [SUCCESS] Invited riyapanche
+2026-01-15 08:21:09,988 - DEBUG - Inviting drewreed2005 to klefstad-teaching/cs141-w26-lab2c-rsljhns...
+2026-01-15 08:21:09,989 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:10,571 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-rsljhns/collaborators/drewreed2005 HTTP/1.1" 201 7496
+2026-01-15 08:21:10,572 - DEBUG - [SUCCESS] Invited drewreed2005
+2026-01-15 08:21:10,573 - DEBUG - Inviting drewreed2005 to klefstad-teaching/cs141-w26-lab2a-mtranfie...
+2026-01-15 08:21:10,573 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:11,123 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-mtranfie/collaborators/drewreed2005 HTTP/1.1" 201 7538
+2026-01-15 08:21:11,124 - DEBUG - [SUCCESS] Invited drewreed2005
+2026-01-15 08:21:11,124 - DEBUG - Inviting AlvinAKTran to klefstad-teaching/cs141-w26-lab2c-vatsag-06...
+2026-01-15 08:21:11,125 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:11,800 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-vatsag-06/collaborators/AlvinAKTran HTTP/1.1" 201 7566
+2026-01-15 08:21:11,801 - DEBUG - [SUCCESS] Invited AlvinAKTran
+2026-01-15 08:21:11,802 - DEBUG - Inviting AlvinAKTran to klefstad-teaching/cs141-w26-lab2a-liuftuci...
+2026-01-15 08:21:11,802 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:12,430 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-liuftuci/collaborators/AlvinAKTran HTTP/1.1" 201 7526
+2026-01-15 08:21:12,431 - DEBUG - [SUCCESS] Invited AlvinAKTran
+2026-01-15 08:21:12,432 - DEBUG - Inviting nathanlcheng to klefstad-teaching/cs141-w26-lab2a-smuretta16...
+2026-01-15 08:21:12,433 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:12,983 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-smuretta16/collaborators/nathanlcheng HTTP/1.1" 201 7620
+2026-01-15 08:21:12,984 - DEBUG - [SUCCESS] Invited nathanlcheng
+2026-01-15 08:21:12,984 - DEBUG - Inviting nathanlcheng to klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub...
+2026-01-15 08:21:12,985 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:13,619 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub/collaborators/nathanlcheng HTTP/1.1" 201 7743
+2026-01-15 08:21:13,620 - DEBUG - [SUCCESS] Invited nathanlcheng
+2026-01-15 08:21:13,620 - DEBUG - Inviting abhinavuppala to klefstad-teaching/cs141-w26-lab2c-rheajethvani...
+2026-01-15 08:21:13,621 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:14,128 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-rheajethvani/collaborators/abhinavuppala HTTP/1.1" 201 7719
+2026-01-15 08:21:14,129 - DEBUG - [SUCCESS] Invited abhinavuppala
+2026-01-15 08:21:14,130 - DEBUG - Inviting abhinavuppala to klefstad-teaching/cs141-w26-lab2a-jordan-m-finn...
+2026-01-15 08:21:14,130 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:14,663 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-jordan-m-finn/collaborators/abhinavuppala HTTP/1.1" 201 7761
+2026-01-15 08:21:14,664 - DEBUG - [SUCCESS] Invited abhinavuppala
+2026-01-15 08:21:14,664 - DEBUG - Inviting Dpoin23 to klefstad-teaching/cs141-w26-lab2a-laurajacint0...
+2026-01-15 08:21:14,665 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:15,281 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-laurajacint0/collaborators/Dpoin23 HTTP/1.1" 201 7642
+2026-01-15 08:21:15,283 - DEBUG - [SUCCESS] Invited Dpoin23
+2026-01-15 08:21:15,283 - DEBUG - Inviting Dpoin23 to klefstad-teaching/cs141-w26-lab2a-emiliolim...
+2026-01-15 08:21:15,284 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:15,865 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-emiliolim/collaborators/Dpoin23 HTTP/1.1" 201 7519
+2026-01-15 08:21:15,866 - DEBUG - [SUCCESS] Invited Dpoin23
+2026-01-15 08:21:15,866 - DEBUG - Inviting techsgithub to klefstad-teaching/cs141-w26-lab2a-ebangerz...
+2026-01-15 08:21:15,867 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:16,630 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/collaborators/techsgithub HTTP/1.1" 201 7526
+2026-01-15 08:21:16,631 - DEBUG - [SUCCESS] Invited techsgithub
+2026-01-15 08:21:16,632 - DEBUG - Inviting techsgithub to klefstad-teaching/cs141-w26-lab2c-seungl25...
+2026-01-15 08:21:16,632 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:17,198 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-seungl25/collaborators/techsgithub HTTP/1.1" 201 7525
+2026-01-15 08:21:17,199 - DEBUG - [SUCCESS] Invited techsgithub
+2026-01-15 08:21:17,200 - DEBUG - Inviting oglantz to klefstad-teaching/cs141-w26-lab2a-Jthoeung...
+2026-01-15 08:21:17,201 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:17,973 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Jthoeung/collaborators/oglantz HTTP/1.1" 201 7478
+2026-01-15 08:21:17,974 - DEBUG - [SUCCESS] Invited oglantz
+2026-01-15 08:21:17,974 - DEBUG - Inviting oglantz to klefstad-teaching/cs141-w26-lab2c-EpicToastTM...
+2026-01-15 08:21:17,975 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:18,580 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-EpicToastTM/collaborators/oglantz HTTP/1.1" 201 7600
+2026-01-15 08:21:18,581 - DEBUG - [SUCCESS] Invited oglantz
+2026-01-15 08:21:18,581 - DEBUG - Inviting nyelgireddy to klefstad-teaching/cs141-w26-lab2c-NotJonny1...
+2026-01-15 08:21:18,582 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:19,077 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-NotJonny1/collaborators/nyelgireddy HTTP/1.1" 201 7572
+2026-01-15 08:21:19,078 - DEBUG - [SUCCESS] Invited nyelgireddy
+2026-01-15 08:21:19,079 - DEBUG - Inviting nyelgireddy to klefstad-teaching/cs141-w26-lab2a-clairdelunesolace...
+2026-01-15 08:21:19,080 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:19,666 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-clairdelunesolace/collaborators/nyelgireddy HTTP/1.1" 201 7901
+2026-01-15 08:21:19,667 - DEBUG - [SUCCESS] Invited nyelgireddy
+2026-01-15 08:21:19,667 - DEBUG - Inviting andrewwsou to klefstad-teaching/cs141-w26-lab2c-iamshauryag...
+2026-01-15 08:21:19,668 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:20,277 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-iamshauryag/collaborators/andrewwsou HTTP/1.1" 201 7636
+2026-01-15 08:21:20,278 - DEBUG - [SUCCESS] Invited andrewwsou
+2026-01-15 08:21:20,278 - DEBUG - Inviting andrewwsou to klefstad-teaching/cs141-w26-lab2c-ImRayyaan...
+2026-01-15 08:21:20,279 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:20,884 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ImRayyaan/collaborators/andrewwsou HTTP/1.1" 201 7554
+2026-01-15 08:21:20,885 - DEBUG - [SUCCESS] Invited andrewwsou
+2026-01-15 08:21:20,885 - DEBUG - Inviting Karbite to klefstad-teaching/cs141-w26-lab2a-PNZ-z...
+2026-01-15 08:21:20,885 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:21,539 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-PNZ-z/collaborators/Karbite HTTP/1.1" 201 7361
+2026-01-15 08:21:21,540 - DEBUG - [SUCCESS] Invited Karbite
+2026-01-15 08:21:21,540 - DEBUG - Inviting Karbite to klefstad-teaching/cs141-w26-lab2a-laggycomputer...
+2026-01-15 08:21:21,541 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:22,069 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-laggycomputer/collaborators/Karbite HTTP/1.1" 201 7689
+2026-01-15 08:21:22,071 - DEBUG - [SUCCESS] Invited Karbite
+2026-01-15 08:21:22,071 - DEBUG - Inviting lenat05 to klefstad-teaching/cs141-w26-lab2a-esivorap...
+2026-01-15 08:21:22,072 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:22,570 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-esivorap/collaborators/lenat05 HTTP/1.1" 201 7478
+2026-01-15 08:21:22,571 - DEBUG - [SUCCESS] Invited lenat05
+2026-01-15 08:21:22,572 - DEBUG - Inviting lenat05 to klefstad-teaching/cs141-w26-lab2c-Ewuman...
+2026-01-15 08:21:22,572 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:23,157 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Ewuman/collaborators/lenat05 HTTP/1.1" 201 7395
+2026-01-15 08:21:23,158 - DEBUG - [SUCCESS] Invited lenat05
+2026-01-15 08:21:23,158 - DEBUG - Inviting echennau to klefstad-teaching/cs141-w26-lab2a-Tiffannyy...
+2026-01-15 08:21:23,158 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:23,790 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Tiffannyy/collaborators/echennau HTTP/1.1" 201 7537
+2026-01-15 08:21:23,791 - DEBUG - [SUCCESS] Invited echennau
+2026-01-15 08:21:23,791 - DEBUG - Inviting echennau to klefstad-teaching/cs141-w26-lab2a-nxphan-uci...
+2026-01-15 08:21:23,791 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:24,549 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-nxphan-uci/collaborators/echennau HTTP/1.1" 201 7578
+2026-01-15 08:21:24,549 - DEBUG - [SUCCESS] Invited echennau
+2026-01-15 08:21:24,549 - DEBUG - Inviting ninal11 to klefstad-teaching/cs141-w26-lab2a-Jajavon...
+2026-01-15 08:21:24,550 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:25,109 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Jajavon/collaborators/ninal11 HTTP/1.1" 201 7437
+2026-01-15 08:21:25,110 - DEBUG - [SUCCESS] Invited ninal11
+2026-01-15 08:21:25,110 - DEBUG - Inviting ninal11 to klefstad-teaching/cs141-w26-lab2c-jaack4...
+2026-01-15 08:21:25,111 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:25,864 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jaack4/collaborators/ninal11 HTTP/1.1" 201 7395
+2026-01-15 08:21:25,865 - DEBUG - [SUCCESS] Invited ninal11
+2026-01-15 08:21:25,865 - DEBUG - Inviting twleochao to klefstad-teaching/cs141-w26-lab2a-AnviM1...
+2026-01-15 08:21:25,865 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:26,474 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-AnviM1/collaborators/twleochao HTTP/1.1" 201 7418
+2026-01-15 08:21:26,475 - DEBUG - [SUCCESS] Invited twleochao
+2026-01-15 08:21:26,475 - DEBUG - Inviting twleochao to klefstad-teaching/cs141-w26-lab2c-maburto19...
+2026-01-15 08:21:26,476 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:27,037 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-maburto19/collaborators/twleochao HTTP/1.1" 201 7540
+2026-01-15 08:21:27,038 - DEBUG - [SUCCESS] Invited twleochao
+2026-01-15 08:21:27,039 - DEBUG - Inviting achakka24 to klefstad-teaching/cs141-w26-lab2c-jiyu02...
+2026-01-15 08:21:27,039 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:27,542 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jiyu02/collaborators/achakka24 HTTP/1.1" 201 7419
+2026-01-15 08:21:27,544 - DEBUG - [SUCCESS] Invited achakka24
+2026-01-15 08:21:27,544 - DEBUG - Inviting achakka24 to klefstad-teaching/cs141-w26-lab2a-hivgundamss...
+2026-01-15 08:21:27,545 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:28,198 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-hivgundamss/collaborators/achakka24 HTTP/1.1" 201 7625
+2026-01-15 08:21:28,199 - DEBUG - [SUCCESS] Invited achakka24
+2026-01-15 08:21:28,199 - DEBUG - Inviting sahirss to klefstad-teaching/cs141-w26-lab2c-sahirsh...
+2026-01-15 08:21:28,199 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:28,820 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-sahirsh/collaborators/sahirss HTTP/1.1" 201 7434
+2026-01-15 08:21:28,822 - DEBUG - [SUCCESS] Invited sahirss
+2026-01-15 08:21:28,822 - DEBUG - Inviting sahirss to klefstad-teaching/cs141-w26-lab2c-Benny237...
+2026-01-15 08:21:28,823 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:29,337 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Benny237/collaborators/sahirss HTTP/1.1" 201 7475
+2026-01-15 08:21:29,338 - DEBUG - [SUCCESS] Invited sahirss
+2026-01-15 08:21:29,338 - DEBUG - Inviting avanaaap to klefstad-teaching/cs141-w26-lab2a-KayleTruong...
+2026-01-15 08:21:29,339 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:29,896 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-KayleTruong/collaborators/avanaaap HTTP/1.1" 201 7619
+2026-01-15 08:21:29,897 - DEBUG - [SUCCESS] Invited avanaaap
+2026-01-15 08:21:29,897 - DEBUG - Inviting avanaaap to klefstad-teaching/cs141-w26-lab2c-chriscc5...
+2026-01-15 08:21:29,898 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:30,368 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-chriscc5/collaborators/avanaaap HTTP/1.1" 201 7495
+2026-01-15 08:21:30,369 - DEBUG - [SUCCESS] Invited avanaaap
+2026-01-15 08:21:30,369 - DEBUG - Inviting itsmandrew to klefstad-teaching/cs141-w26-lab2c-wendiiiiii...
+2026-01-15 08:21:30,370 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:30,934 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-wendiiiiii/collaborators/itsmandrew HTTP/1.1" 201 7601
+2026-01-15 08:21:30,935 - DEBUG - [SUCCESS] Invited itsmandrew
+2026-01-15 08:21:30,935 - DEBUG - Inviting itsmandrew to klefstad-teaching/cs141-w26-lab2c-jaack4...
+2026-01-15 08:21:30,936 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:31,644 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jaack4/collaborators/itsmandrew HTTP/1.1" 201 7437
+2026-01-15 08:21:31,646 - DEBUG - [SUCCESS] Invited itsmandrew
+2026-01-15 08:21:31,646 - DEBUG - Inviting christinne-n to klefstad-teaching/cs141-w26-lab2c-supanice-uci...
+2026-01-15 08:21:31,647 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:32,212 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-supanice-uci/collaborators/christinne-n HTTP/1.1" 201 7701
+2026-01-15 08:21:32,213 - DEBUG - [SUCCESS] Invited christinne-n
+2026-01-15 08:21:32,213 - DEBUG - Inviting christinne-n to klefstad-teaching/cs141-w26-lab2c-ganeevsinghs...
+2026-01-15 08:21:32,213 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:32,827 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ganeevsinghs/collaborators/christinne-n HTTP/1.1" 201 7701
+2026-01-15 08:21:32,828 - DEBUG - [SUCCESS] Invited christinne-n
+2026-01-15 08:21:32,829 - DEBUG - Inviting Wheeledparasite to klefstad-teaching/cs141-w26-lab2c-eshahrestany...
+2026-01-15 08:21:32,830 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:33,431 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-eshahrestany/collaborators/Wheeledparasite HTTP/1.1" 201 7743
+2026-01-15 08:21:33,432 - DEBUG - [SUCCESS] Invited Wheeledparasite
+2026-01-15 08:21:33,433 - DEBUG - Inviting Wheeledparasite to klefstad-teaching/cs141-w26-lab2a-hivgundamss...
+2026-01-15 08:21:33,433 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:34,300 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-hivgundamss/collaborators/Wheeledparasite HTTP/1.1" 201 7703
+2026-01-15 08:21:34,301 - DEBUG - [SUCCESS] Invited Wheeledparasite
+2026-01-15 08:21:34,301 - DEBUG - Inviting edenradulescu to klefstad-teaching/cs141-w26-lab2c-duyaj...
+2026-01-15 08:21:34,302 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:34,877 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-duyaj/collaborators/edenradulescu HTTP/1.1" 201 7426
+2026-01-15 08:21:34,878 - DEBUG - [SUCCESS] Invited edenradulescu
+2026-01-15 08:21:34,878 - DEBUG - Inviting edenradulescu to klefstad-teaching/cs141-w26-lab2a-pjtsearch...
+2026-01-15 08:21:34,879 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:35,535 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pjtsearch/collaborators/edenradulescu HTTP/1.1" 201 7591
+2026-01-15 08:21:35,536 - DEBUG - [SUCCESS] Invited edenradulescu
+2026-01-15 08:21:35,536 - DEBUG - Inviting zhcaury2 to klefstad-teaching/cs141-w26-lab2c-Frank808-Git...
+2026-01-15 08:21:35,537 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:36,152 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Frank808-Git/collaborators/zhcaury2 HTTP/1.1" 201 7653
+2026-01-15 08:21:36,153 - DEBUG - [SUCCESS] Invited zhcaury2
+2026-01-15 08:21:36,153 - DEBUG - Inviting zhcaury2 to klefstad-teaching/cs141-w26-lab2c-Jinseyam...
+2026-01-15 08:21:36,153 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:36,707 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Jinseyam/collaborators/zhcaury2 HTTP/1.1" 201 7489
+2026-01-15 08:21:36,709 - DEBUG - [SUCCESS] Invited zhcaury2
+2026-01-15 08:21:36,709 - DEBUG - Inviting alexpetro47 to klefstad-teaching/cs141-w26-lab2a-Dhivyno...
+2026-01-15 08:21:36,710 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:37,425 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Dhivyno/collaborators/alexpetro47 HTTP/1.1" 201 7491
+2026-01-15 08:21:37,426 - DEBUG - [SUCCESS] Invited alexpetro47
+2026-01-15 08:21:37,426 - DEBUG - Inviting alexpetro47 to klefstad-teaching/cs141-w26-lab2c-dsilluci...
+2026-01-15 08:21:37,427 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:37,920 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-dsilluci/collaborators/alexpetro47 HTTP/1.1" 201 7531
+2026-01-15 08:21:37,921 - DEBUG - [SUCCESS] Invited alexpetro47
+2026-01-15 08:21:37,922 - DEBUG - Inviting BrittenEtchison to klefstad-teaching/cs141-w26-lab2c-MNUQUI...
+2026-01-15 08:21:37,922 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:38,521 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-MNUQUI/collaborators/BrittenEtchison HTTP/1.1" 201 7491
+2026-01-15 08:21:38,523 - DEBUG - [SUCCESS] Invited BrittenEtchison
+2026-01-15 08:21:38,523 - DEBUG - Inviting BrittenEtchison to klefstad-teaching/cs141-w26-lab2a-emiliolim...
+2026-01-15 08:21:38,524 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:39,127 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-emiliolim/collaborators/BrittenEtchison HTTP/1.1" 201 7615
+2026-01-15 08:21:39,128 - DEBUG - [SUCCESS] Invited BrittenEtchison
+2026-01-15 08:21:39,129 - DEBUG - Inviting joolenn to klefstad-teaching/cs141-w26-lab2c-Ewuman...
+2026-01-15 08:21:39,129 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:39,648 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Ewuman/collaborators/joolenn HTTP/1.1" 201 7395
+2026-01-15 08:21:39,649 - DEBUG - [SUCCESS] Invited joolenn
+2026-01-15 08:21:39,649 - DEBUG - Inviting joolenn to klefstad-teaching/cs141-w26-lab2c-willm326...
+2026-01-15 08:21:39,650 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:40,227 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-willm326/collaborators/joolenn HTTP/1.1" 201 7477
+2026-01-15 08:21:40,229 - DEBUG - [SUCCESS] Invited joolenn
+2026-01-15 08:21:40,229 - DEBUG - Inviting AllyBeary to klefstad-teaching/cs141-w26-lab2c-1JunHuang...
+2026-01-15 08:21:40,230 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:40,777 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-1JunHuang/collaborators/AllyBeary HTTP/1.1" 201 7542
+2026-01-15 08:21:40,778 - DEBUG - [SUCCESS] Invited AllyBeary
+2026-01-15 08:21:40,778 - DEBUG - Inviting AllyBeary to klefstad-teaching/cs141-w26-lab2c-jjdonckels...
+2026-01-15 08:21:40,778 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:41,357 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jjdonckels/collaborators/AllyBeary HTTP/1.1" 201 7583
+2026-01-15 08:21:41,359 - DEBUG - [SUCCESS] Invited AllyBeary
+2026-01-15 08:21:41,359 - DEBUG - Inviting Epic-Mushroom to klefstad-teaching/cs141-w26-lab2c-CHAdinna...
+2026-01-15 08:21:41,360 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:42,033 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-CHAdinna/collaborators/Epic-Mushroom HTTP/1.1" 201 7549
+2026-01-15 08:21:42,034 - DEBUG - [SUCCESS] Invited Epic-Mushroom
+2026-01-15 08:21:42,034 - DEBUG - Inviting Epic-Mushroom to klefstad-teaching/cs141-w26-lab2c-DylanVuong3...
+2026-01-15 08:21:42,035 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:42,631 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-DylanVuong3/collaborators/Epic-Mushroom HTTP/1.1" 201 7672
+2026-01-15 08:21:42,633 - DEBUG - [SUCCESS] Invited Epic-Mushroom
+2026-01-15 08:21:42,633 - DEBUG - Inviting LentKe to klefstad-teaching/cs141-w26-lab2c-NotJonny1...
+2026-01-15 08:21:42,634 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:43,253 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-NotJonny1/collaborators/LentKe HTTP/1.1" 201 7506
+2026-01-15 08:21:43,254 - DEBUG - [SUCCESS] Invited LentKe
+2026-01-15 08:21:43,254 - DEBUG - Inviting LentKe to klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103...
+2026-01-15 08:21:43,255 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:43,825 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-charlesyeh-1103/collaborators/LentKe HTTP/1.1" 201 7752
+2026-01-15 08:21:43,827 - DEBUG - [SUCCESS] Invited LentKe
+2026-01-15 08:21:43,827 - DEBUG - Inviting bqtquach to klefstad-teaching/cs141-w26-lab2c-jy8liu...
+2026-01-15 08:21:43,828 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:44,492 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-jy8liu/collaborators/bqtquach HTTP/1.1" 201 7407
+2026-01-15 08:21:44,493 - DEBUG - [SUCCESS] Invited bqtquach
+2026-01-15 08:21:44,493 - DEBUG - Inviting bqtquach to klefstad-teaching/cs141-w26-lab2a-AndrewShim0428...
+2026-01-15 08:21:44,494 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:45,033 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-AndrewShim0428/collaborators/bqtquach HTTP/1.1" 201 7736
+2026-01-15 08:21:45,034 - DEBUG - [SUCCESS] Invited bqtquach
+2026-01-15 08:21:45,034 - DEBUG - Inviting Kraufdeen to klefstad-teaching/cs141-w26-lab2a-6LEON8...
+2026-01-15 08:21:45,035 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:45,620 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-6LEON8/collaborators/Kraufdeen HTTP/1.1" 201 7420
+2026-01-15 08:21:45,621 - DEBUG - [SUCCESS] Invited Kraufdeen
+2026-01-15 08:21:45,622 - DEBUG - Inviting Kraufdeen to klefstad-teaching/cs141-w26-lab2c-JimmyZzz30...
+2026-01-15 08:21:45,622 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:46,254 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-JimmyZzz30/collaborators/Kraufdeen HTTP/1.1" 201 7583
+2026-01-15 08:21:46,255 - DEBUG - [SUCCESS] Invited Kraufdeen
+2026-01-15 08:21:46,256 - DEBUG - Inviting nkimogpig to klefstad-teaching/cs141-w26-lab2c-gymPotato-1...
+2026-01-15 08:21:46,257 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:46,880 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-gymPotato-1/collaborators/nkimogpig HTTP/1.1" 201 7630
+2026-01-15 08:21:46,881 - DEBUG - [SUCCESS] Invited nkimogpig
+2026-01-15 08:21:46,881 - DEBUG - Inviting nkimogpig to klefstad-teaching/cs141-w26-lab2c-Neilk1021...
+2026-01-15 08:21:46,881 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:47,953 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-Neilk1021/collaborators/nkimogpig HTTP/1.1" 201 7548
+2026-01-15 08:21:47,954 - DEBUG - [SUCCESS] Invited nkimogpig
+2026-01-15 08:21:47,955 - DEBUG - Inviting GreasySponge to klefstad-teaching/cs141-w26-lab2a-BradyCason...
+2026-01-15 08:21:47,956 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:48,586 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-BradyCason/collaborators/GreasySponge HTTP/1.1" 201 7620
+2026-01-15 08:21:48,588 - DEBUG - [SUCCESS] Invited GreasySponge
+2026-01-15 08:21:48,588 - DEBUG - Inviting GreasySponge to klefstad-teaching/cs141-w26-lab2c-mjliu5...
+2026-01-15 08:21:48,589 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:49,293 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-mjliu5/collaborators/GreasySponge HTTP/1.1" 201 7455
+2026-01-15 08:21:49,295 - DEBUG - [SUCCESS] Invited GreasySponge
+2026-01-15 08:21:49,295 - DEBUG - Inviting dragonkeon to klefstad-teaching/cs141-w26-lab2c-yeqiw1...
+2026-01-15 08:21:49,295 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:50,016 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-yeqiw1/collaborators/dragonkeon HTTP/1.1" 201 7431
+2026-01-15 08:21:50,017 - DEBUG - [SUCCESS] Invited dragonkeon
+2026-01-15 08:21:50,017 - DEBUG - Inviting dragonkeon to klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad...
+2026-01-15 08:21:50,017 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:50,576 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad/collaborators/dragonkeon HTTP/1.1" 201 7596
+2026-01-15 08:21:50,577 - DEBUG - [SUCCESS] Invited dragonkeon
+2026-01-15 08:21:50,578 - DEBUG - Inviting AidenFavish to klefstad-teaching/cs141-w26-lab2c-rheajethvani...
+2026-01-15 08:21:50,578 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:51,197 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-rheajethvani/collaborators/AidenFavish HTTP/1.1" 201 7687
+2026-01-15 08:21:51,198 - DEBUG - [SUCCESS] Invited AidenFavish
+2026-01-15 08:21:51,198 - DEBUG - Inviting AidenFavish to klefstad-teaching/cs141-w26-lab2c-EpicToastTM...
+2026-01-15 08:21:51,199 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:51,778 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-EpicToastTM/collaborators/AidenFavish HTTP/1.1" 201 7646
+2026-01-15 08:21:51,781 - DEBUG - [SUCCESS] Invited AidenFavish
+2026-01-15 08:21:51,781 - DEBUG - Inviting timkim0106 to klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd...
+2026-01-15 08:21:51,782 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:53,464 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-xsjsgfdysd/collaborators/timkim0106 HTTP/1.1" 201 7595
+2026-01-15 08:21:53,464 - DEBUG - [SUCCESS] Invited timkim0106
+2026-01-15 08:21:53,465 - DEBUG - Inviting timkim0106 to klefstad-teaching/cs141-w26-lab2a-PNZ-z...
+2026-01-15 08:21:53,465 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:53,936 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-PNZ-z/collaborators/timkim0106 HTTP/1.1" 201 7391
+2026-01-15 08:21:53,937 - DEBUG - [SUCCESS] Invited timkim0106
+2026-01-15 08:21:53,937 - DEBUG - Inviting rykubota to klefstad-teaching/cs141-w26-lab2c-LittleLion930...
+2026-01-15 08:21:53,938 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:54,536 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-LittleLion930/collaborators/rykubota HTTP/1.1" 201 7694
+2026-01-15 08:21:54,537 - DEBUG - [SUCCESS] Invited rykubota
+2026-01-15 08:21:54,537 - DEBUG - Inviting rykubota to klefstad-teaching/cs141-w26-lab2c-wdrobish...
+2026-01-15 08:21:54,537 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:55,125 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-wdrobish/collaborators/rykubota HTTP/1.1" 201 7489
+2026-01-15 08:21:55,126 - DEBUG - [SUCCESS] Invited rykubota
+2026-01-15 08:21:55,127 - DEBUG - Inviting CyanAnteater to klefstad-teaching/cs141-w26-lab2c-ArchieSeh...
+2026-01-15 08:21:55,127 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:55,645 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ArchieSeh/collaborators/CyanAnteater HTTP/1.1" 201 7578
+2026-01-15 08:21:55,646 - DEBUG - [SUCCESS] Invited CyanAnteater
+2026-01-15 08:21:55,647 - DEBUG - Inviting CyanAnteater to klefstad-teaching/cs141-w26-lab2a-liuftuci...
+2026-01-15 08:21:55,647 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:56,219 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-liuftuci/collaborators/CyanAnteater HTTP/1.1" 201 7538
+2026-01-15 08:21:56,220 - DEBUG - [SUCCESS] Invited CyanAnteater
+2026-01-15 08:21:56,220 - DEBUG - Inviting x1d1 to klefstad-teaching/cs141-w26-lab2c-nctam2...
+2026-01-15 08:21:56,220 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:56,726 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-nctam2/collaborators/x1d1 HTTP/1.1" 201 7357
+2026-01-15 08:21:56,726 - DEBUG - [SUCCESS] Invited x1d1
+2026-01-15 08:21:56,727 - DEBUG - Inviting x1d1 to klefstad-teaching/cs141-w26-lab2c-kevinh-a...
+2026-01-15 08:21:56,727 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:57,241 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-kevinh-a/collaborators/x1d1 HTTP/1.1" 201 7439
+2026-01-15 08:21:57,242 - DEBUG - [SUCCESS] Invited x1d1
+2026-01-15 08:21:57,242 - DEBUG - Inviting fruitsaladyumyum to klefstad-teaching/cs141-w26-lab2a-cessar3...
+2026-01-15 08:21:57,243 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:58,011 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-cessar3/collaborators/fruitsaladyumyum HTTP/1.1" 201 7545
+2026-01-15 08:21:58,012 - DEBUG - [SUCCESS] Invited fruitsaladyumyum
+2026-01-15 08:21:58,012 - DEBUG - Inviting fruitsaladyumyum to klefstad-teaching/cs141-w26-lab2c-PartiNoone...
+2026-01-15 08:21:58,013 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:58,754 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-PartiNoone/collaborators/fruitsaladyumyum HTTP/1.1" 201 7667
+2026-01-15 08:21:58,756 - DEBUG - [SUCCESS] Invited fruitsaladyumyum
+2026-01-15 08:21:58,756 - DEBUG - Inviting manihomafar to klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS...
+2026-01-15 08:21:58,757 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:59,215 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-AshGasparyanCS/collaborators/manihomafar HTTP/1.1" 201 7771
+2026-01-15 08:21:59,216 - DEBUG - [SUCCESS] Invited manihomafar
+2026-01-15 08:21:59,216 - DEBUG - Inviting manihomafar to klefstad-teaching/cs141-w26-lab2c-AntonioCuan...
+2026-01-15 08:21:59,217 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:21:59,816 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-AntonioCuan/collaborators/manihomafar HTTP/1.1" 201 7648
+2026-01-15 08:21:59,818 - DEBUG - [SUCCESS] Invited manihomafar
+2026-01-15 08:21:59,818 - DEBUG - Inviting yilis15 to klefstad-teaching/cs141-w26-lab2a-laurajacint0...
+2026-01-15 08:21:59,819 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:00,344 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-laurajacint0/collaborators/yilis15 HTTP/1.1" 201 7642
+2026-01-15 08:22:00,345 - DEBUG - [SUCCESS] Invited yilis15
+2026-01-15 08:22:00,346 - DEBUG - Inviting yilis15 to klefstad-teaching/cs141-w26-lab2c-vmrenter-code...
+2026-01-15 08:22:00,346 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:00,918 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-vmrenter-code/collaborators/yilis15 HTTP/1.1" 201 7682
+2026-01-15 08:22:00,919 - DEBUG - [SUCCESS] Invited yilis15
+2026-01-15 08:22:00,919 - DEBUG - Inviting sradisay to klefstad-teaching/cs141-w26-lab2c-EatKFCinMc...
+2026-01-15 08:22:00,920 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:01,838 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-EatKFCinMc/collaborators/sradisay HTTP/1.1" 201 7571
+2026-01-15 08:22:01,839 - DEBUG - [SUCCESS] Invited sradisay
+2026-01-15 08:22:01,840 - DEBUG - Inviting sradisay to klefstad-teaching/cs141-w26-lab2a-laggycomputer...
+2026-01-15 08:22:01,841 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:02,405 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-laggycomputer/collaborators/sradisay HTTP/1.1" 201 7695
+2026-01-15 08:22:02,406 - DEBUG - [SUCCESS] Invited sradisay
+2026-01-15 08:22:02,406 - DEBUG - Inviting noraessam to klefstad-teaching/cs141-w26-lab2c-seungl25...
+2026-01-15 08:22:02,407 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:03,004 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-seungl25/collaborators/noraessam HTTP/1.1" 201 7501
+2026-01-15 08:22:03,005 - DEBUG - [SUCCESS] Invited noraessam
+2026-01-15 08:22:03,006 - DEBUG - Inviting noraessam to klefstad-teaching/cs141-w26-lab2a-HarryS561...
+2026-01-15 08:22:03,006 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:03,652 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-HarryS561/collaborators/noraessam HTTP/1.1" 201 7543
+2026-01-15 08:22:03,653 - DEBUG - [SUCCESS] Invited noraessam
+2026-01-15 08:22:03,654 - DEBUG - Inviting heechy33 to klefstad-teaching/cs141-w26-lab2c-maburto19...
+2026-01-15 08:22:03,654 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:04,211 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-maburto19/collaborators/heechy33 HTTP/1.1" 201 7530
+2026-01-15 08:22:04,212 - DEBUG - [SUCCESS] Invited heechy33
+2026-01-15 08:22:04,212 - DEBUG - Inviting heechy33 to klefstad-teaching/cs141-w26-lab2a-mtranfie...
+2026-01-15 08:22:04,213 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:04,828 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-mtranfie/collaborators/heechy33 HTTP/1.1" 201 7490
+2026-01-15 08:22:04,830 - DEBUG - [SUCCESS] Invited heechy33
+2026-01-15 08:22:04,830 - DEBUG - Inviting TJHomeworkHub to klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub...
+2026-01-15 08:22:04,831 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:05,457 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-QuocTrinh-hub/collaborators/TJHomeworkHub HTTP/1.1" 201 7755
+2026-01-15 08:22:05,459 - DEBUG - [SUCCESS] Invited TJHomeworkHub
+2026-01-15 08:22:05,459 - DEBUG - Inviting TJHomeworkHub to klefstad-teaching/cs141-w26-lab2a-JustinLi212...
+2026-01-15 08:22:05,460 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:06,038 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-JustinLi212/collaborators/TJHomeworkHub HTTP/1.1" 201 7673
+2026-01-15 08:22:06,039 - DEBUG - [SUCCESS] Invited TJHomeworkHub
+2026-01-15 08:22:06,040 - DEBUG - Inviting triminhta1207 to klefstad-teaching/cs141-w26-lab2c-rsljhns...
+2026-01-15 08:22:06,041 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:06,686 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-rsljhns/collaborators/triminhta1207 HTTP/1.1" 201 7514
+2026-01-15 08:22:06,688 - DEBUG - [SUCCESS] Invited triminhta1207
+2026-01-15 08:22:06,688 - DEBUG - Inviting triminhta1207 to klefstad-teaching/cs141-w26-lab2a-charcod-jpg...
+2026-01-15 08:22:06,689 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:07,227 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-charcod-jpg/collaborators/triminhta1207 HTTP/1.1" 201 7679
+2026-01-15 08:22:07,228 - DEBUG - [SUCCESS] Invited triminhta1207
+2026-01-15 08:22:07,228 - DEBUG - Inviting brandog2039 to klefstad-teaching/cs141-w26-lab2c-ZhouhengTao...
+2026-01-15 08:22:07,229 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:07,742 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ZhouhengTao/collaborators/brandog2039 HTTP/1.1" 201 7648
+2026-01-15 08:22:07,742 - DEBUG - [SUCCESS] Invited brandog2039
+2026-01-15 08:22:07,743 - DEBUG - Inviting brandog2039 to klefstad-teaching/cs141-w26-lab2c-arjunk76...
+2026-01-15 08:22:07,743 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:08,418 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-arjunk76/collaborators/brandog2039 HTTP/1.1" 201 7525
+2026-01-15 08:22:08,420 - DEBUG - [SUCCESS] Invited brandog2039
+2026-01-15 08:22:08,420 - DEBUG - Inviting alemg2004 to klefstad-teaching/cs141-w26-lab2c-ethnvo...
+2026-01-15 08:22:08,421 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:09,225 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-ethnvo/collaborators/alemg2004 HTTP/1.1" 201 7419
+2026-01-15 08:22:09,226 - DEBUG - [SUCCESS] Invited alemg2004
+2026-01-15 08:22:09,226 - DEBUG - Inviting alemg2004 to klefstad-teaching/cs141-w26-lab2a-clairdelunesolace...
+2026-01-15 08:22:09,226 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:09,735 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-clairdelunesolace/collaborators/alemg2004 HTTP/1.1" 201 7871
+2026-01-15 08:22:09,736 - DEBUG - [SUCCESS] Invited alemg2004
+2026-01-15 08:22:09,736 - DEBUG - Inviting winstonjgiang to klefstad-teaching/cs141-w26-lab2c-thomasn05...
+2026-01-15 08:22:09,737 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:10,313 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2c-thomasn05/collaborators/winstonjgiang HTTP/1.1" 201 7590
+2026-01-15 08:22:10,314 - DEBUG - [SUCCESS] Invited winstonjgiang
+2026-01-15 08:22:10,315 - DEBUG - Inviting winstonjgiang to klefstad-teaching/cs141-w26-lab2a-JordanPham2002...
+2026-01-15 08:22:10,315 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:10,820 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-JordanPham2002/collaborators/winstonjgiang HTTP/1.1" 201 7796
+2026-01-15 08:22:10,821 - DEBUG - [SUCCESS] Invited winstonjgiang
+2026-01-15 08:22:10,822 - DEBUG - Inviting maburto19 to klefstad-teaching/cs141-w26-lab2b-jasonbm2...
+2026-01-15 08:22:10,822 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:11,495 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-jasonbm2/collaborators/maburto19 HTTP/1.1" 201 7501
+2026-01-15 08:22:11,496 - DEBUG - [SUCCESS] Invited maburto19
+2026-01-15 08:22:11,496 - DEBUG - Inviting maburto19 to klefstad-teaching/cs141-w26-lab2b-AidenFavish...
+2026-01-15 08:22:11,497 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:12,148 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-AidenFavish/collaborators/maburto19 HTTP/1.1" 201 7624
+2026-01-15 08:22:12,149 - DEBUG - [SUCCESS] Invited maburto19
+2026-01-15 08:22:12,149 - DEBUG - Inviting ganeevsinghs to klefstad-teaching/cs141-w26-lab2b-dragonkeon...
+2026-01-15 08:22:12,150 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:12,639 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-dragonkeon/collaborators/ganeevsinghs HTTP/1.1" 201 7625
+2026-01-15 08:22:12,640 - DEBUG - [SUCCESS] Invited ganeevsinghs
+2026-01-15 08:22:12,641 - DEBUG - Inviting ganeevsinghs to klefstad-teaching/cs141-w26-lab2b-oglantz...
+2026-01-15 08:22:12,641 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:13,270 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-oglantz/collaborators/ganeevsinghs HTTP/1.1" 201 7502
+2026-01-15 08:22:13,271 - DEBUG - [SUCCESS] Invited ganeevsinghs
+2026-01-15 08:22:13,271 - DEBUG - Inviting PartiNoone to klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub...
+2026-01-15 08:22:13,271 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:14,051 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub/collaborators/PartiNoone HTTP/1.1" 201 7718
+2026-01-15 08:22:14,052 - DEBUG - [SUCCESS] Invited PartiNoone
+2026-01-15 08:22:14,052 - DEBUG - Inviting PartiNoone to klefstad-teaching/cs141-w26-lab2b-Karbite...
+2026-01-15 08:22:14,053 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:14,882 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Karbite/collaborators/PartiNoone HTTP/1.1" 201 7472
+2026-01-15 08:22:14,883 - DEBUG - [SUCCESS] Invited PartiNoone
+2026-01-15 08:22:14,883 - DEBUG - Inviting kevinh-a to klefstad-teaching/cs141-w26-lab2b-BrittenEtchison...
+2026-01-15 08:22:14,884 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:15,403 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-BrittenEtchison/collaborators/kevinh-a HTTP/1.1" 201 7776
+2026-01-15 08:22:15,404 - DEBUG - [SUCCESS] Invited kevinh-a
+2026-01-15 08:22:15,405 - DEBUG - Inviting kevinh-a to klefstad-teaching/cs141-w26-lab2b-christianacho...
+2026-01-15 08:22:15,405 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:15,960 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-christianacho/collaborators/kevinh-a HTTP/1.1" 201 7694
+2026-01-15 08:22:15,961 - DEBUG - [SUCCESS] Invited kevinh-a
+2026-01-15 08:22:15,961 - DEBUG - Inviting DylanVuong3 to klefstad-teaching/cs141-w26-lab2b-sehop1-source...
+2026-01-15 08:22:15,962 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:16,637 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sehop1-source/collaborators/DylanVuong3 HTTP/1.1" 201 7730
+2026-01-15 08:22:16,638 - DEBUG - [SUCCESS] Invited DylanVuong3
+2026-01-15 08:22:16,638 - DEBUG - Inviting DylanVuong3 to klefstad-teaching/cs141-w26-lab2b-nkimogpig...
+2026-01-15 08:22:16,639 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:17,281 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nkimogpig/collaborators/DylanVuong3 HTTP/1.1" 201 7566
+2026-01-15 08:22:17,283 - DEBUG - [SUCCESS] Invited DylanVuong3
+2026-01-15 08:22:17,283 - DEBUG - Inviting nctam2 to klefstad-teaching/cs141-w26-lab2b-alemg2004...
+2026-01-15 08:22:17,284 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:17,919 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alemg2004/collaborators/nctam2 HTTP/1.1" 201 7506
+2026-01-15 08:22:17,920 - DEBUG - [SUCCESS] Invited nctam2
+2026-01-15 08:22:17,920 - DEBUG - Inviting nctam2 to klefstad-teaching/cs141-w26-lab2b-timkim0106...
+2026-01-15 08:22:17,921 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:18,590 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/collaborators/nctam2 HTTP/1.1" 201 7547
+2026-01-15 08:22:18,591 - DEBUG - [SUCCESS] Invited nctam2
+2026-01-15 08:22:18,592 - DEBUG - Inviting EatKFCinMc to klefstad-teaching/cs141-w26-lab2b-sradisay...
+2026-01-15 08:22:18,593 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:19,195 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sradisay/collaborators/EatKFCinMc HTTP/1.1" 201 7519
+2026-01-15 08:22:19,196 - DEBUG - [SUCCESS] Invited EatKFCinMc
+2026-01-15 08:22:19,196 - DEBUG - Inviting EatKFCinMc to klefstad-teaching/cs141-w26-lab2b-mvttjb...
+2026-01-15 08:22:19,197 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:19,799 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-mvttjb/collaborators/EatKFCinMc HTTP/1.1" 201 7437
+2026-01-15 08:22:19,800 - DEBUG - [SUCCESS] Invited EatKFCinMc
+2026-01-15 08:22:19,801 - DEBUG - Inviting Accelerator050717 to klefstad-teaching/cs141-w26-lab2b-Wheeledparasite...
+2026-01-15 08:22:19,801 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:20,351 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Wheeledparasite/collaborators/Accelerator050717 HTTP/1.1" 201 7884
+2026-01-15 08:22:20,352 - DEBUG - [SUCCESS] Invited Accelerator050717
+2026-01-15 08:22:20,352 - DEBUG - Inviting Accelerator050717 to klefstad-teaching/cs141-w26-lab2b-x1d1...
+2026-01-15 08:22:20,353 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:20,997 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-x1d1/collaborators/Accelerator050717 HTTP/1.1" 201 7433
+2026-01-15 08:22:20,998 - DEBUG - [SUCCESS] Invited Accelerator050717
+2026-01-15 08:22:20,998 - DEBUG - Inviting QNDang to klefstad-teaching/cs141-w26-lab2b-daviddeng0smm...
+2026-01-15 08:22:20,999 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:21,619 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-daviddeng0smm/collaborators/QNDang HTTP/1.1" 201 7670
+2026-01-15 08:22:21,620 - DEBUG - [SUCCESS] Invited QNDang
+2026-01-15 08:22:21,621 - DEBUG - Inviting QNDang to klefstad-teaching/cs141-w26-lab2b-edenradulescu...
+2026-01-15 08:22:21,621 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:22,194 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-edenradulescu/collaborators/QNDang HTTP/1.1" 201 7670
+2026-01-15 08:22:22,195 - DEBUG - [SUCCESS] Invited QNDang
+2026-01-15 08:22:22,196 - DEBUG - Inviting iiBooque to klefstad-teaching/cs141-w26-lab2b-rykubota...
+2026-01-15 08:22:22,196 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:22,770 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-rykubota/collaborators/iiBooque HTTP/1.1" 201 7489
+2026-01-15 08:22:22,771 - DEBUG - [SUCCESS] Invited iiBooque
+2026-01-15 08:22:22,772 - DEBUG - Inviting iiBooque to klefstad-teaching/cs141-w26-lab2b-drewreed2005...
+2026-01-15 08:22:22,772 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:23,310 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-drewreed2005/collaborators/iiBooque HTTP/1.1" 201 7653
+2026-01-15 08:22:23,312 - DEBUG - [SUCCESS] Invited iiBooque
+2026-01-15 08:22:23,312 - DEBUG - Inviting dsilluci to klefstad-teaching/cs141-w26-lab2b-Kraufdeen...
+2026-01-15 08:22:23,313 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:23,787 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Kraufdeen/collaborators/dsilluci HTTP/1.1" 201 7530
+2026-01-15 08:22:23,788 - DEBUG - [SUCCESS] Invited dsilluci
+2026-01-15 08:22:23,788 - DEBUG - Inviting dsilluci to klefstad-teaching/cs141-w26-lab2b-ryanrT27...
+2026-01-15 08:22:23,789 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:24,371 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-ryanrT27/collaborators/dsilluci HTTP/1.1" 201 7489
+2026-01-15 08:22:24,372 - DEBUG - [SUCCESS] Invited dsilluci
+2026-01-15 08:22:24,372 - DEBUG - Inviting LittleLion930 to klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins...
+2026-01-15 08:22:24,373 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:24,883 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins/collaborators/LittleLion930 HTTP/1.1" 201 7924
+2026-01-15 08:22:24,884 - DEBUG - [SUCCESS] Invited LittleLion930
+2026-01-15 08:22:24,884 - DEBUG - Inviting LittleLion930 to klefstad-teaching/cs141-w26-lab2b-manihomafar...
+2026-01-15 08:22:24,885 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:25,496 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-manihomafar/collaborators/LittleLion930 HTTP/1.1" 201 7678
+2026-01-15 08:22:25,498 - DEBUG - [SUCCESS] Invited LittleLion930
+2026-01-15 08:22:25,498 - DEBUG - Inviting EpicToastTM to klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2...
+2026-01-15 08:22:25,499 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:26,210 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2/collaborators/EpicToastTM HTTP/1.1" 201 7736
+2026-01-15 08:22:26,211 - DEBUG - [SUCCESS] Invited EpicToastTM
+2026-01-15 08:22:26,211 - DEBUG - Inviting EpicToastTM to klefstad-teaching/cs141-w26-lab2b-echennau...
+2026-01-15 08:22:26,212 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:26,854 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-echennau/collaborators/EpicToastTM HTTP/1.1" 201 7531
+2026-01-15 08:22:26,855 - DEBUG - [SUCCESS] Invited EpicToastTM
+2026-01-15 08:22:26,855 - DEBUG - Inviting Mr-Merp to klefstad-teaching/cs141-w26-lab2b-noraessam...
+2026-01-15 08:22:26,856 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:27,485 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-noraessam/collaborators/Mr-Merp HTTP/1.1" 201 7524
+2026-01-15 08:22:27,486 - DEBUG - [SUCCESS] Invited Mr-Merp
+2026-01-15 08:22:27,487 - DEBUG - Inviting Mr-Merp to klefstad-teaching/cs141-w26-lab2b-jifanf1...
+2026-01-15 08:22:27,487 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:28,134 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-jifanf1/collaborators/Mr-Merp HTTP/1.1" 201 7442
+2026-01-15 08:22:28,135 - DEBUG - [SUCCESS] Invited Mr-Merp
+2026-01-15 08:22:28,135 - DEBUG - Inviting ZhouhengTao to klefstad-teaching/cs141-w26-lab2b-winstonjgiang...
+2026-01-15 08:22:28,136 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:28,799 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-winstonjgiang/collaborators/ZhouhengTao HTTP/1.1" 201 7730
+2026-01-15 08:22:28,801 - DEBUG - [SUCCESS] Invited ZhouhengTao
+2026-01-15 08:22:28,801 - DEBUG - Inviting ZhouhengTao to klefstad-teaching/cs141-w26-lab2b-alexpetro47...
+2026-01-15 08:22:28,802 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:29,420 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alexpetro47/collaborators/ZhouhengTao HTTP/1.1" 201 7648
+2026-01-15 08:22:29,422 - DEBUG - [SUCCESS] Invited ZhouhengTao
+2026-01-15 08:22:29,422 - DEBUG - Inviting jaack4 to klefstad-teaching/cs141-w26-lab2b-GreasySponge...
+2026-01-15 08:22:29,423 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:29,964 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-GreasySponge/collaborators/jaack4 HTTP/1.1" 201 7629
+2026-01-15 08:22:29,965 - DEBUG - [SUCCESS] Invited jaack4
+2026-01-15 08:22:29,966 - DEBUG - Inviting jaack4 to klefstad-teaching/cs141-w26-lab2b-yuchuehw...
+2026-01-15 08:22:29,966 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:30,596 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-yuchuehw/collaborators/jaack4 HTTP/1.1" 201 7465
+2026-01-15 08:22:30,597 - DEBUG - [SUCCESS] Invited jaack4
+2026-01-15 08:22:30,598 - DEBUG - Inviting ArchieSeh to klefstad-teaching/cs141-w26-lab2b-twleochao...
+2026-01-15 08:22:30,598 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:31,353 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-twleochao/collaborators/ArchieSeh HTTP/1.1" 201 7542
+2026-01-15 08:22:31,354 - DEBUG - [SUCCESS] Invited ArchieSeh
+2026-01-15 08:22:31,355 - DEBUG - Inviting ArchieSeh to klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum...
+2026-01-15 08:22:31,355 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:31,913 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-fruitsaladyumyum/collaborators/ArchieSeh HTTP/1.1" 201 7829
+2026-01-15 08:22:31,915 - DEBUG - [SUCCESS] Invited ArchieSeh
+2026-01-15 08:22:31,915 - DEBUG - Inviting wdrobish to klefstad-teaching/cs141-w26-lab2b-ryanrT27...
+2026-01-15 08:22:31,916 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:32,561 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-ryanrT27/collaborators/wdrobish HTTP/1.1" 201 7489
+2026-01-15 08:22:32,562 - DEBUG - [SUCCESS] Invited wdrobish
+2026-01-15 08:22:32,562 - DEBUG - Inviting wdrobish to klefstad-teaching/cs141-w26-lab2b-Dpoin23...
+2026-01-15 08:22:32,562 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:33,178 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Dpoin23/collaborators/wdrobish HTTP/1.1" 201 7448
+2026-01-15 08:22:33,179 - DEBUG - [SUCCESS] Invited wdrobish
+2026-01-15 08:22:33,179 - DEBUG - Inviting sahirsh to klefstad-teaching/cs141-w26-lab2a-Nicol-U...
+2026-01-15 08:22:33,179 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:33,847 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/collaborators/sahirsh HTTP/1.1" 201 7437
+2026-01-15 08:22:33,848 - DEBUG - [SUCCESS] Invited sahirsh
+2026-01-15 08:22:33,848 - DEBUG - Inviting sahirsh to klefstad-teaching/cs141-w26-lab2a-Tiffannyy...
+2026-01-15 08:22:33,848 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:34,339 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Tiffannyy/collaborators/sahirsh HTTP/1.1" 201 7519
+2026-01-15 08:22:34,340 - DEBUG - [SUCCESS] Invited sahirsh
+2026-01-15 08:22:34,340 - DEBUG - Inviting myn13 to klefstad-teaching/cs141-w26-lab2b-manihomafar...
+2026-01-15 08:22:34,340 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:34,935 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-manihomafar/collaborators/myn13 HTTP/1.1" 201 7576
+2026-01-15 08:22:34,936 - DEBUG - [SUCCESS] Invited myn13
+2026-01-15 08:22:34,936 - DEBUG - Inviting myn13 to klefstad-teaching/cs141-w26-lab2b-nkimogpig...
+2026-01-15 08:22:34,937 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:35,435 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nkimogpig/collaborators/myn13 HTTP/1.1" 201 7494
+2026-01-15 08:22:35,436 - DEBUG - [SUCCESS] Invited myn13
+2026-01-15 08:22:35,437 - DEBUG - Inviting arjunk76 to klefstad-teaching/cs141-w26-lab2b-joshngn...
+2026-01-15 08:22:35,437 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:36,022 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-joshngn/collaborators/arjunk76 HTTP/1.1" 201 7448
+2026-01-15 08:22:36,023 - DEBUG - [SUCCESS] Invited arjunk76
+2026-01-15 08:22:36,023 - DEBUG - Inviting arjunk76 to klefstad-teaching/cs141-w26-lab2b-CyanAnteater...
+2026-01-15 08:22:36,024 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:36,676 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-CyanAnteater/collaborators/arjunk76 HTTP/1.1" 201 7653
+2026-01-15 08:22:36,677 - DEBUG - [SUCCESS] Invited arjunk76
+2026-01-15 08:22:36,677 - DEBUG - Inviting Ava-Kopecky to klefstad-teaching/cs141-w26-lab2b-LentKe...
+2026-01-15 08:22:36,678 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:37,218 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-LentKe/collaborators/Ava-Kopecky HTTP/1.1" 201 7443
+2026-01-15 08:22:37,219 - DEBUG - [SUCCESS] Invited Ava-Kopecky
+2026-01-15 08:22:37,220 - DEBUG - Inviting Ava-Kopecky to klefstad-teaching/cs141-w26-lab2a-moonluno...
+2026-01-15 08:22:37,221 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:37,807 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-moonluno/collaborators/Ava-Kopecky HTTP/1.1" 201 7526
+2026-01-15 08:22:37,808 - DEBUG - [SUCCESS] Invited Ava-Kopecky
+2026-01-15 08:22:37,809 - DEBUG - Inviting supanice-uci to klefstad-teaching/cs141-w26-lab2b-yuchuehw...
+2026-01-15 08:22:37,809 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:38,299 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-yuchuehw/collaborators/supanice-uci HTTP/1.1" 201 7537
+2026-01-15 08:22:38,300 - DEBUG - [SUCCESS] Invited supanice-uci
+2026-01-15 08:22:38,301 - DEBUG - Inviting supanice-uci to klefstad-teaching/cs141-w26-lab2a-AnviM1...
+2026-01-15 08:22:38,301 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:38,916 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-AnviM1/collaborators/supanice-uci HTTP/1.1" 201 7456
+2026-01-15 08:22:38,917 - DEBUG - [SUCCESS] Invited supanice-uci
+2026-01-15 08:22:38,918 - DEBUG - Inviting MichaelP222 to klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins...
+2026-01-15 08:22:38,918 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:39,436 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-elizabethmwatkins/collaborators/MichaelP222 HTTP/1.1" 201 7894
+2026-01-15 08:22:39,436 - DEBUG - [SUCCESS] Invited MichaelP222
+2026-01-15 08:22:39,437 - DEBUG - Inviting MichaelP222 to klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2...
+2026-01-15 08:22:39,437 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:39,967 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2/collaborators/MichaelP222 HTTP/1.1" 201 7730
+2026-01-15 08:22:39,968 - DEBUG - [SUCCESS] Invited MichaelP222
+2026-01-15 08:22:39,968 - DEBUG - Inviting jjdonckels to klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub...
+2026-01-15 08:22:39,969 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:40,587 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-TJHomeworkHub/collaborators/jjdonckels HTTP/1.1" 201 7718
+2026-01-15 08:22:40,588 - DEBUG - [SUCCESS] Invited jjdonckels
+2026-01-15 08:22:40,588 - DEBUG - Inviting jjdonckels to klefstad-teaching/cs141-w26-lab2b-yilis15...
+2026-01-15 08:22:40,589 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:41,161 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-yilis15/collaborators/jjdonckels HTTP/1.1" 201 7472
+2026-01-15 08:22:41,162 - DEBUG - [SUCCESS] Invited jjdonckels
+2026-01-15 08:22:41,162 - DEBUG - Inviting eshahrestany to klefstad-teaching/cs141-w26-lab2b-christianacho...
+2026-01-15 08:22:41,162 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:41,714 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-christianacho/collaborators/eshahrestany HTTP/1.1" 201 7742
+2026-01-15 08:22:41,715 - DEBUG - [SUCCESS] Invited eshahrestany
+2026-01-15 08:22:41,715 - DEBUG - Inviting eshahrestany to klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid...
+2026-01-15 08:22:41,716 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:42,262 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid/collaborators/eshahrestany HTTP/1.1" 201 7866
+2026-01-15 08:22:42,263 - DEBUG - [SUCCESS] Invited eshahrestany
+2026-01-15 08:22:42,264 - DEBUG - Inviting sasakip-uci-edu to klefstad-teaching/cs141-w26-lab2b-itsmandrew...
+2026-01-15 08:22:42,265 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:42,787 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-itsmandrew/collaborators/sasakip-uci-edu HTTP/1.1" 201 7655
+2026-01-15 08:22:42,789 - DEBUG - [SUCCESS] Invited sasakip-uci-edu
+2026-01-15 08:22:42,789 - DEBUG - Inviting sasakip-uci-edu to klefstad-teaching/cs141-w26-lab2b-sasha-oconnor...
+2026-01-15 08:22:42,790 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:43,369 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sasha-oconnor/collaborators/sasakip-uci-edu HTTP/1.1" 201 7778
+2026-01-15 08:22:43,370 - DEBUG - [SUCCESS] Invited sasakip-uci-edu
+2026-01-15 08:22:43,370 - DEBUG - Inviting Benny237 to klefstad-teaching/cs141-w26-lab2b-zhcaury2...
+2026-01-15 08:22:43,371 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:43,983 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-zhcaury2/collaborators/Benny237 HTTP/1.1" 201 7489
+2026-01-15 08:22:43,984 - DEBUG - [SUCCESS] Invited Benny237
+2026-01-15 08:22:43,984 - DEBUG - Inviting Benny237 to klefstad-teaching/cs141-w26-lab2a-nxphan-uci...
+2026-01-15 08:22:43,985 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:44,568 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-nxphan-uci/collaborators/Benny237 HTTP/1.1" 201 7572
+2026-01-15 08:22:44,569 - DEBUG - [SUCCESS] Invited Benny237
+2026-01-15 08:22:44,569 - DEBUG - Inviting anthon12-uci to klefstad-teaching/cs141-w26-lab2b-Karbite...
+2026-01-15 08:22:44,570 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:45,126 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Karbite/collaborators/anthon12-uci HTTP/1.1" 201 7496
+2026-01-15 08:22:45,128 - DEBUG - [SUCCESS] Invited anthon12-uci
+2026-01-15 08:22:45,128 - DEBUG - Inviting anthon12-uci to klefstad-teaching/cs141-w26-lab2b-dragonkeon...
+2026-01-15 08:22:45,129 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:45,747 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-dragonkeon/collaborators/anthon12-uci HTTP/1.1" 201 7619
+2026-01-15 08:22:45,747 - DEBUG - [SUCCESS] Invited anthon12-uci
+2026-01-15 08:22:45,748 - DEBUG - Inviting gcjong030 to klefstad-teaching/cs141-w26-lab2b-joolenn...
+2026-01-15 08:22:45,748 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:46,201 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-joolenn/collaborators/gcjong030 HTTP/1.1" 201 7460
+2026-01-15 08:22:46,202 - DEBUG - [SUCCESS] Invited gcjong030
+2026-01-15 08:22:46,203 - DEBUG - Inviting gcjong030 to klefstad-teaching/cs141-w26-lab2b-echennau...
+2026-01-15 08:22:46,203 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:46,747 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-echennau/collaborators/gcjong030 HTTP/1.1" 201 7501
+2026-01-15 08:22:46,749 - DEBUG - [SUCCESS] Invited gcjong030
+2026-01-15 08:22:46,749 - DEBUG - Inviting jiyu02 to klefstad-teaching/cs141-w26-lab2a-NvyGreen...
+2026-01-15 08:22:46,750 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:47,400 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-NvyGreen/collaborators/jiyu02 HTTP/1.1" 201 7466
+2026-01-15 08:22:47,401 - DEBUG - [SUCCESS] Invited jiyu02
+2026-01-15 08:22:47,401 - DEBUG - Inviting jiyu02 to klefstad-teaching/cs141-w26-lab2a-ermmre...
+2026-01-15 08:22:47,401 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:48,146 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ermmre/collaborators/jiyu02 HTTP/1.1" 201 7384
+2026-01-15 08:22:48,147 - DEBUG - [SUCCESS] Invited jiyu02
+2026-01-15 08:22:48,148 - DEBUG - Inviting Frank808-Git to klefstad-teaching/cs141-w26-lab2a-esivorap...
+2026-01-15 08:22:48,148 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:48,675 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-esivorap/collaborators/Frank808-Git HTTP/1.1" 201 7544
+2026-01-15 08:22:48,677 - DEBUG - [SUCCESS] Invited Frank808-Git
+2026-01-15 08:22:48,677 - DEBUG - Inviting Frank808-Git to klefstad-teaching/cs141-w26-lab2a-Jthoeung...
+2026-01-15 08:22:48,678 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:49,269 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Jthoeung/collaborators/Frank808-Git HTTP/1.1" 201 7544
+2026-01-15 08:22:49,271 - DEBUG - [SUCCESS] Invited Frank808-Git
+2026-01-15 08:22:49,271 - DEBUG - Inviting sunjaelee3 to klefstad-teaching/cs141-w26-lab2b-riyapanche...
+2026-01-15 08:22:49,271 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:49,825 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-riyapanche/collaborators/sunjaelee3 HTTP/1.1" 201 7595
+2026-01-15 08:22:49,826 - DEBUG - [SUCCESS] Invited sunjaelee3
+2026-01-15 08:22:49,826 - DEBUG - Inviting sunjaelee3 to klefstad-teaching/cs141-w26-lab2b-oglantz...
+2026-01-15 08:22:49,826 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:50,437 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-oglantz/collaborators/sunjaelee3 HTTP/1.1" 201 7472
+2026-01-15 08:22:50,437 - DEBUG - [SUCCESS] Invited sunjaelee3
+2026-01-15 08:22:50,438 - DEBUG - Inviting w4h009 to klefstad-teaching/cs141-w26-lab2b-AidenFavish...
+2026-01-15 08:22:50,438 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:51,104 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-AidenFavish/collaborators/w4h009 HTTP/1.1" 201 7588
+2026-01-15 08:22:51,105 - DEBUG - [SUCCESS] Invited w4h009
+2026-01-15 08:22:51,105 - DEBUG - Inviting w4h009 to klefstad-teaching/cs141-w26-lab2b-GreasySponge...
+2026-01-15 08:22:51,105 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:51,761 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-GreasySponge/collaborators/w4h009 HTTP/1.1" 201 7629
+2026-01-15 08:22:51,762 - DEBUG - [SUCCESS] Invited w4h009
+2026-01-15 08:22:51,762 - DEBUG - Inviting MubaiLi222 to klefstad-teaching/cs141-w26-lab2b-noraessam...
+2026-01-15 08:22:51,763 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:52,419 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-noraessam/collaborators/MubaiLi222 HTTP/1.1" 201 7560
+2026-01-15 08:22:52,420 - DEBUG - [SUCCESS] Invited MubaiLi222
+2026-01-15 08:22:52,420 - DEBUG - Inviting MubaiLi222 to klefstad-teaching/cs141-w26-lab2b-daviddeng0smm...
+2026-01-15 08:22:52,421 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:52,953 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-daviddeng0smm/collaborators/MubaiLi222 HTTP/1.1" 201 7724
+2026-01-15 08:22:52,954 - DEBUG - [SUCCESS] Invited MubaiLi222
+2026-01-15 08:22:52,954 - DEBUG - Inviting rsljhns to klefstad-teaching/cs141-w26-lab2b-x1d1...
+2026-01-15 08:22:52,955 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:53,555 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-x1d1/collaborators/rsljhns HTTP/1.1" 201 7313
+2026-01-15 08:22:53,556 - DEBUG - [SUCCESS] Invited rsljhns
+2026-01-15 08:22:53,557 - DEBUG - Inviting rsljhns to klefstad-teaching/cs141-w26-lab2b-drewreed2005...
+2026-01-15 08:22:53,557 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:54,129 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-drewreed2005/collaborators/rsljhns HTTP/1.1" 201 7641
+2026-01-15 08:22:54,131 - DEBUG - [SUCCESS] Invited rsljhns
+2026-01-15 08:22:54,131 - DEBUG - Inviting lucasli2 to klefstad-teaching/cs141-w26-lab2a-noahk004...
+2026-01-15 08:22:54,132 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:54,750 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-noahk004/collaborators/lucasli2 HTTP/1.1" 201 7490
+2026-01-15 08:22:54,751 - DEBUG - [SUCCESS] Invited lucasli2
+2026-01-15 08:22:54,751 - DEBUG - Inviting lucasli2 to klefstad-teaching/cs141-w26-lab2b-bqtquach...
+2026-01-15 08:22:54,752 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:55,311 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-bqtquach/collaborators/lucasli2 HTTP/1.1" 201 7489
+2026-01-15 08:22:55,312 - DEBUG - [SUCCESS] Invited lucasli2
+2026-01-15 08:22:55,312 - DEBUG - Inviting aditkantak to klefstad-teaching/cs141-w26-lab2a-KayleTruong...
+2026-01-15 08:22:55,313 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:55,908 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-KayleTruong/collaborators/aditkantak HTTP/1.1" 201 7643
+2026-01-15 08:22:55,909 - DEBUG - [SUCCESS] Invited aditkantak
+2026-01-15 08:22:55,909 - DEBUG - Inviting aditkantak to klefstad-teaching/cs141-w26-lab2b-avanaaap...
+2026-01-15 08:22:55,910 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:56,459 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/collaborators/aditkantak HTTP/1.1" 201 7519
+2026-01-15 08:22:56,460 - DEBUG - [SUCCESS] Invited aditkantak
+2026-01-15 08:22:56,460 - DEBUG - Inviting kbattson to klefstad-teaching/cs141-w26-lab2a-KunGeng...
+2026-01-15 08:22:56,461 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:57,018 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-KunGeng/collaborators/kbattson HTTP/1.1" 201 7449
+2026-01-15 08:22:57,019 - DEBUG - [SUCCESS] Invited kbattson
+2026-01-15 08:22:57,020 - DEBUG - Inviting kbattson to klefstad-teaching/cs141-w26-lab2b-rykubota...
+2026-01-15 08:22:57,021 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:57,495 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-rykubota/collaborators/kbattson HTTP/1.1" 201 7489
+2026-01-15 08:22:57,497 - DEBUG - [SUCCESS] Invited kbattson
+2026-01-15 08:22:57,497 - DEBUG - Inviting chriscc5 to klefstad-teaching/cs141-w26-lab2b-edenradulescu...
+2026-01-15 08:22:57,498 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:58,133 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-edenradulescu/collaborators/chriscc5 HTTP/1.1" 201 7694
+2026-01-15 08:22:58,134 - DEBUG - [SUCCESS] Invited chriscc5
+2026-01-15 08:22:58,134 - DEBUG - Inviting chriscc5 to klefstad-teaching/cs141-w26-lab2b-brandog2039...
+2026-01-15 08:22:58,135 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:58,737 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-brandog2039/collaborators/chriscc5 HTTP/1.1" 201 7612
+2026-01-15 08:22:58,738 - DEBUG - [SUCCESS] Invited chriscc5
+2026-01-15 08:22:58,739 - DEBUG - Inviting marcusl07 to klefstad-teaching/cs141-w26-lab2b-nyelgireddy...
+2026-01-15 08:22:58,739 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:59,521 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nyelgireddy/collaborators/marcusl07 HTTP/1.1" 201 7624
+2026-01-15 08:22:59,522 - DEBUG - [SUCCESS] Invited marcusl07
+2026-01-15 08:22:59,522 - DEBUG - Inviting marcusl07 to klefstad-teaching/cs141-w26-lab2a-smuretta16...
+2026-01-15 08:22:59,522 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:22:59,973 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-smuretta16/collaborators/marcusl07 HTTP/1.1" 201 7584
+2026-01-15 08:22:59,975 - DEBUG - [SUCCESS] Invited marcusl07
+2026-01-15 08:22:59,975 - DEBUG - Inviting 1JunHuang to klefstad-teaching/cs141-w26-lab2b-alvarov17...
+2026-01-15 08:22:59,976 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:00,529 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alvarov17/collaborators/1JunHuang HTTP/1.1" 201 7542
+2026-01-15 08:23:00,530 - DEBUG - [SUCCESS] Invited 1JunHuang
+2026-01-15 08:23:00,531 - DEBUG - Inviting 1JunHuang to klefstad-teaching/cs141-w26-lab2b-sehop1-source...
+2026-01-15 08:23:00,531 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:01,073 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sehop1-source/collaborators/1JunHuang HTTP/1.1" 201 7706
+2026-01-15 08:23:01,075 - DEBUG - [SUCCESS] Invited 1JunHuang
+2026-01-15 08:23:01,075 - DEBUG - Inviting rheajethvani to klefstad-teaching/cs141-w26-lab2b-christinne-n...
+2026-01-15 08:23:01,076 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:01,560 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-christinne-n/collaborators/rheajethvani HTTP/1.1" 201 7701
+2026-01-15 08:23:01,561 - DEBUG - [SUCCESS] Invited rheajethvani
+2026-01-15 08:23:01,561 - DEBUG - Inviting rheajethvani to klefstad-teaching/cs141-w26-lab2a-axelwennerlund...
+2026-01-15 08:23:01,562 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:02,267 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-axelwennerlund/collaborators/rheajethvani HTTP/1.1" 201 7784
+2026-01-15 08:23:02,268 - DEBUG - [SUCCESS] Invited rheajethvani
+2026-01-15 08:23:02,268 - DEBUG - Inviting NotJonny1 to klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom...
+2026-01-15 08:23:02,269 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:02,766 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Epic-Mushroom/collaborators/NotJonny1 HTTP/1.1" 201 7706
+2026-01-15 08:23:02,767 - DEBUG - [SUCCESS] Invited NotJonny1
+2026-01-15 08:23:02,767 - DEBUG - Inviting NotJonny1 to klefstad-teaching/cs141-w26-lab2b-BrittenEtchison...
+2026-01-15 08:23:02,768 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:03,330 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-BrittenEtchison/collaborators/NotJonny1 HTTP/1.1" 201 7788
+2026-01-15 08:23:03,331 - DEBUG - [SUCCESS] Invited NotJonny1
+2026-01-15 08:23:03,332 - DEBUG - Inviting vatsag-06 to klefstad-teaching/cs141-w26-lab2b-Kraufdeen...
+2026-01-15 08:23:03,332 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:04,285 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Kraufdeen/collaborators/vatsag-06 HTTP/1.1" 201 7542
+2026-01-15 08:23:04,286 - DEBUG - [SUCCESS] Invited vatsag-06
+2026-01-15 08:23:04,286 - DEBUG - Inviting vatsag-06 to klefstad-teaching/cs141-w26-lab2a-jordan-m-finn...
+2026-01-15 08:23:04,286 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:04,939 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-jordan-m-finn/collaborators/vatsag-06 HTTP/1.1" 201 7707
+2026-01-15 08:23:04,939 - DEBUG - [SUCCESS] Invited vatsag-06
+2026-01-15 08:23:04,940 - DEBUG - Inviting xsjsgfdysd to klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal...
+2026-01-15 08:23:04,940 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:05,538 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pr1vatestaticfinal/collaborators/xsjsgfdysd HTTP/1.1" 201 7924
+2026-01-15 08:23:05,540 - DEBUG - [SUCCESS] Invited xsjsgfdysd
+2026-01-15 08:23:05,540 - DEBUG - Inviting xsjsgfdysd to klefstad-teaching/cs141-w26-lab2b-ninal11...
+2026-01-15 08:23:05,541 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:06,024 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-ninal11/collaborators/xsjsgfdysd HTTP/1.1" 201 7472
+2026-01-15 08:23:06,025 - DEBUG - [SUCCESS] Invited xsjsgfdysd
+2026-01-15 08:23:06,026 - DEBUG - Inviting varunia2 to klefstad-teaching/cs141-w26-lab2b-alemg2004...
+2026-01-15 08:23:06,027 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:06,508 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alemg2004/collaborators/varunia2 HTTP/1.1" 201 7530
+2026-01-15 08:23:06,508 - DEBUG - [SUCCESS] Invited varunia2
+2026-01-15 08:23:06,509 - DEBUG - Inviting varunia2 to klefstad-teaching/cs141-w26-lab2b-mvttjb...
+2026-01-15 08:23:06,509 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:07,135 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-mvttjb/collaborators/varunia2 HTTP/1.1" 201 7407
+2026-01-15 08:23:07,136 - DEBUG - [SUCCESS] Invited varunia2
+2026-01-15 08:23:07,136 - DEBUG - Inviting spencerleaf to klefstad-teaching/cs141-w26-lab2b-EliranAvigani...
+2026-01-15 08:23:07,136 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:07,709 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-EliranAvigani/collaborators/spencerleaf HTTP/1.1" 201 7730
+2026-01-15 08:23:07,710 - DEBUG - [SUCCESS] Invited spencerleaf
+2026-01-15 08:23:07,710 - DEBUG - Inviting spencerleaf to klefstad-teaching/cs141-w26-lab2b-nathanlcheng...
+2026-01-15 08:23:07,711 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:08,225 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nathanlcheng/collaborators/spencerleaf HTTP/1.1" 201 7689
+2026-01-15 08:23:08,226 - DEBUG - [SUCCESS] Invited spencerleaf
+2026-01-15 08:23:08,226 - DEBUG - Inviting aputty11 to klefstad-teaching/cs141-w26-lab2a-Jajavon...
+2026-01-15 08:23:08,227 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:08,874 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Jajavon/collaborators/aputty11 HTTP/1.1" 201 7449
+2026-01-15 08:23:08,875 - DEBUG - [SUCCESS] Invited aputty11
+2026-01-15 08:23:08,875 - DEBUG - Inviting aputty11 to klefstad-teaching/cs141-w26-lab2b-timkim0106...
+2026-01-15 08:23:08,875 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:09,460 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/collaborators/aputty11 HTTP/1.1" 201 7571
+2026-01-15 08:23:09,461 - DEBUG - [SUCCESS] Invited aputty11
+2026-01-15 08:23:09,462 - DEBUG - Inviting cusianovic to klefstad-teaching/cs141-w26-lab2b-jasonbm2...
+2026-01-15 08:23:09,462 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:10,243 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-jasonbm2/collaborators/cusianovic HTTP/1.1" 201 7519
+2026-01-15 08:23:10,244 - DEBUG - [SUCCESS] Invited cusianovic
+2026-01-15 08:23:10,245 - DEBUG - Inviting cusianovic to klefstad-teaching/cs141-w26-lab2a-ethanvotran20...
+2026-01-15 08:23:10,245 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:10,881 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ethanvotran20/collaborators/cusianovic HTTP/1.1" 201 7725
+2026-01-15 08:23:10,882 - DEBUG - [SUCCESS] Invited cusianovic
+2026-01-15 08:23:10,882 - DEBUG - Inviting ImRayyaan to klefstad-teaching/cs141-w26-lab2b-triminhta1207...
+2026-01-15 08:23:10,883 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:11,863 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-triminhta1207/collaborators/ImRayyaan HTTP/1.1" 201 7706
+2026-01-15 08:23:11,864 - DEBUG - [SUCCESS] Invited ImRayyaan
+2026-01-15 08:23:11,864 - DEBUG - Inviting ImRayyaan to klefstad-teaching/cs141-w26-lab2b-lukes4-uci...
+2026-01-15 08:23:11,865 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:12,457 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-lukes4-uci/collaborators/ImRayyaan HTTP/1.1" 201 7583
+2026-01-15 08:23:12,458 - DEBUG - [SUCCESS] Invited ImRayyaan
+2026-01-15 08:23:12,458 - DEBUG - Inviting yeqiw1 to klefstad-teaching/cs141-w26-lab2b-Wheeledparasite...
+2026-01-15 08:23:12,459 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:13,043 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Wheeledparasite/collaborators/yeqiw1 HTTP/1.1" 201 7752
+2026-01-15 08:23:13,044 - DEBUG - [SUCCESS] Invited yeqiw1
+2026-01-15 08:23:13,045 - DEBUG - Inviting yeqiw1 to klefstad-teaching/cs141-w26-lab2b-TonyYao8271...
+2026-01-15 08:23:13,045 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:13,580 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-TonyYao8271/collaborators/yeqiw1 HTTP/1.1" 201 7588
+2026-01-15 08:23:13,582 - DEBUG - [SUCCESS] Invited yeqiw1
+2026-01-15 08:23:13,582 - DEBUG - Inviting AntonioCuan to klefstad-teaching/cs141-w26-lab2b-sradisay...
+2026-01-15 08:23:13,583 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:14,146 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sradisay/collaborators/AntonioCuan HTTP/1.1" 201 7531
+2026-01-15 08:23:14,147 - DEBUG - [SUCCESS] Invited AntonioCuan
+2026-01-15 08:23:14,148 - DEBUG - Inviting AntonioCuan to klefstad-teaching/cs141-w26-lab2b-achakka24...
+2026-01-15 08:23:14,148 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:15,037 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-achakka24/collaborators/AntonioCuan HTTP/1.1" 201 7572
+2026-01-15 08:23:15,037 - DEBUG - [SUCCESS] Invited AntonioCuan
+2026-01-15 08:23:15,038 - DEBUG - Inviting vmrenter-code to klefstad-teaching/cs141-w26-lab2b-lenat05...
+2026-01-15 08:23:15,038 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:15,562 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-lenat05/collaborators/vmrenter-code HTTP/1.1" 201 7508
+2026-01-15 08:23:15,563 - DEBUG - [SUCCESS] Invited vmrenter-code
+2026-01-15 08:23:15,563 - DEBUG - Inviting vmrenter-code to klefstad-teaching/cs141-w26-lab2b-Ranoldt...
+2026-01-15 08:23:15,564 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:16,302 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Ranoldt/collaborators/vmrenter-code HTTP/1.1" 201 7508
+2026-01-15 08:23:16,303 - DEBUG - [SUCCESS] Invited vmrenter-code
+2026-01-15 08:23:16,303 - DEBUG - Inviting ethnvo to klefstad-teaching/cs141-w26-lab2b-andrewwsou...
+2026-01-15 08:23:16,303 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:17,699 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-andrewwsou/collaborators/ethnvo HTTP/1.1" 201 7547
+2026-01-15 08:23:17,700 - DEBUG - [SUCCESS] Invited ethnvo
+2026-01-15 08:23:17,700 - DEBUG - Inviting ethnvo to klefstad-teaching/cs141-w26-lab2b-AllyBeary...
+2026-01-15 08:23:17,700 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:18,280 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-AllyBeary/collaborators/ethnvo HTTP/1.1" 201 7506
+2026-01-15 08:23:18,281 - DEBUG - [SUCCESS] Invited ethnvo
+2026-01-15 08:23:18,281 - DEBUG - Inviting sim-hub1 to klefstad-teaching/cs141-w26-lab2b-AlvinAKTran...
+2026-01-15 08:23:18,282 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:18,824 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-AlvinAKTran/collaborators/sim-hub1 HTTP/1.1" 201 7612
+2026-01-15 08:23:18,825 - DEBUG - [SUCCESS] Invited sim-hub1
+2026-01-15 08:23:18,825 - DEBUG - Inviting sim-hub1 to klefstad-teaching/cs141-w26-lab2b-jifanf1...
+2026-01-15 08:23:18,826 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:19,440 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-jifanf1/collaborators/sim-hub1 HTTP/1.1" 201 7448
+2026-01-15 08:23:19,442 - DEBUG - [SUCCESS] Invited sim-hub1
+2026-01-15 08:23:19,442 - DEBUG - Inviting seungl25 to klefstad-teaching/cs141-w26-lab2b-twleochao...
+2026-01-15 08:23:19,443 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:19,984 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-twleochao/collaborators/seungl25 HTTP/1.1" 201 7530
+2026-01-15 08:23:19,985 - DEBUG - [SUCCESS] Invited seungl25
+2026-01-15 08:23:19,985 - DEBUG - Inviting seungl25 to klefstad-teaching/cs141-w26-lab2a-kamyyywang...
+2026-01-15 08:23:19,986 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:20,796 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-kamyyywang/collaborators/seungl25 HTTP/1.1" 201 7572
+2026-01-15 08:23:20,797 - DEBUG - [SUCCESS] Invited seungl25
+2026-01-15 08:23:20,797 - DEBUG - Inviting haoqp1 to klefstad-teaching/cs141-w26-lab2b-sahirss...
+2026-01-15 08:23:20,798 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:21,438 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sahirss/collaborators/haoqp1 HTTP/1.1" 201 7424
+2026-01-15 08:23:21,439 - DEBUG - [SUCCESS] Invited haoqp1
+2026-01-15 08:23:21,439 - DEBUG - Inviting haoqp1 to klefstad-teaching/cs141-w26-lab2a-ebangerz...
+2026-01-15 08:23:21,440 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:21,930 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/collaborators/haoqp1 HTTP/1.1" 201 7466
+2026-01-15 08:23:21,931 - DEBUG - [SUCCESS] Invited haoqp1
+2026-01-15 08:23:21,932 - DEBUG - Inviting gymPotato-1 to klefstad-teaching/cs141-w26-lab2b-firewuf...
+2026-01-15 08:23:21,933 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:22,488 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-firewuf/collaborators/gymPotato-1 HTTP/1.1" 201 7484
+2026-01-15 08:23:22,489 - DEBUG - [SUCCESS] Invited gymPotato-1
+2026-01-15 08:23:22,489 - DEBUG - Inviting gymPotato-1 to klefstad-teaching/cs141-w26-lab2b-abhinavuppala...
+2026-01-15 08:23:22,490 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:22,994 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-abhinavuppala/collaborators/gymPotato-1 HTTP/1.1" 201 7730
+2026-01-15 08:23:22,995 - DEBUG - [SUCCESS] Invited gymPotato-1
+2026-01-15 08:23:22,995 - DEBUG - Inviting 20chino05 to klefstad-teaching/cs141-w26-lab2b-alexpetro47...
+2026-01-15 08:23:22,996 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:23,574 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alexpetro47/collaborators/20chino05 HTTP/1.1" 201 7624
+2026-01-15 08:23:23,575 - DEBUG - [SUCCESS] Invited 20chino05
+2026-01-15 08:23:23,575 - DEBUG - Inviting 20chino05 to klefstad-teaching/cs141-w26-lab2b-heechy33...
+2026-01-15 08:23:23,576 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:24,268 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-heechy33/collaborators/20chino05 HTTP/1.1" 201 7501
+2026-01-15 08:23:24,269 - DEBUG - [SUCCESS] Invited 20chino05
+2026-01-15 08:23:24,270 - DEBUG - Inviting jy8liu to klefstad-teaching/cs141-w26-lab2b-HsuAustin...
+2026-01-15 08:23:24,270 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:25,060 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-HsuAustin/collaborators/jy8liu HTTP/1.1" 201 7506
+2026-01-15 08:23:25,061 - DEBUG - [SUCCESS] Invited jy8liu
+2026-01-15 08:23:25,061 - DEBUG - Inviting jy8liu to klefstad-teaching/cs141-w26-lab2a-dpappachan...
+2026-01-15 08:23:25,062 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:25,667 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-dpappachan/collaborators/jy8liu HTTP/1.1" 201 7548
+2026-01-15 08:23:25,668 - DEBUG - [SUCCESS] Invited jy8liu
+2026-01-15 08:23:25,668 - DEBUG - Inviting Ewuman to klefstad-teaching/cs141-w26-lab2b-techsgithub...
+2026-01-15 08:23:25,668 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:26,342 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-techsgithub/collaborators/Ewuman HTTP/1.1" 201 7588
+2026-01-15 08:23:26,343 - DEBUG - [SUCCESS] Invited Ewuman
+2026-01-15 08:23:26,343 - DEBUG - Inviting Ewuman to klefstad-teaching/cs141-w26-lab2a-kristerduster...
+2026-01-15 08:23:26,343 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:27,138 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/collaborators/Ewuman HTTP/1.1" 201 7671
+2026-01-15 08:23:27,139 - DEBUG - [SUCCESS] Invited Ewuman
+2026-01-15 08:23:27,139 - DEBUG - Inviting willm326 to klefstad-teaching/cs141-w26-lab2b-winstonjgiang...
+2026-01-15 08:23:27,139 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:27,753 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-winstonjgiang/collaborators/willm326 HTTP/1.1" 201 7694
+2026-01-15 08:23:27,755 - DEBUG - [SUCCESS] Invited willm326
+2026-01-15 08:23:27,755 - DEBUG - Inviting willm326 to klefstad-teaching/cs141-w26-lab2a-lukashauge...
+2026-01-15 08:23:27,755 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:28,276 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-lukashauge/collaborators/willm326 HTTP/1.1" 201 7572
+2026-01-15 08:23:28,277 - DEBUG - [SUCCESS] Invited willm326
+2026-01-15 08:23:28,278 - DEBUG - Inviting Lekzs to klefstad-teaching/cs141-w26-lab2b-timkim0106...
+2026-01-15 08:23:28,278 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:28,716 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-timkim0106/collaborators/Lekzs HTTP/1.1" 201 7541
+2026-01-15 08:23:28,717 - DEBUG - [SUCCESS] Invited Lekzs
+2026-01-15 08:23:28,718 - DEBUG - Inviting Lekzs to klefstad-teaching/cs141-w26-lab2a-PNZ-z...
+2026-01-15 08:23:28,718 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:29,513 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-PNZ-z/collaborators/Lekzs HTTP/1.1" 201 7337
+2026-01-15 08:23:29,514 - DEBUG - [SUCCESS] Invited Lekzs
+2026-01-15 08:23:29,515 - DEBUG - Inviting AdiAnteater to klefstad-teaching/cs141-w26-lab2b-ryanrT27...
+2026-01-15 08:23:29,516 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:30,250 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-ryanrT27/collaborators/AdiAnteater HTTP/1.1" 201 7525
+2026-01-15 08:23:30,251 - DEBUG - [SUCCESS] Invited AdiAnteater
+2026-01-15 08:23:30,252 - DEBUG - Inviting AdiAnteater to klefstad-teaching/cs141-w26-lab2b-CyanAnteater...
+2026-01-15 08:23:30,252 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:31,282 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-CyanAnteater/collaborators/AdiAnteater HTTP/1.1" 201 7689
+2026-01-15 08:23:31,283 - DEBUG - [SUCCESS] Invited AdiAnteater
+2026-01-15 08:23:31,284 - DEBUG - Inviting JimmyZzz30 to klefstad-teaching/cs141-w26-lab2a-cessar3...
+2026-01-15 08:23:31,284 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:31,772 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-cessar3/collaborators/JimmyZzz30 HTTP/1.1" 201 7473
+2026-01-15 08:23:31,773 - DEBUG - [SUCCESS] Invited JimmyZzz30
+2026-01-15 08:23:31,773 - DEBUG - Inviting JimmyZzz30 to klefstad-teaching/cs141-w26-lab2b-nkimogpig...
+2026-01-15 08:23:31,773 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:32,332 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-nkimogpig/collaborators/JimmyZzz30 HTTP/1.1" 201 7554
+2026-01-15 08:23:32,333 - DEBUG - [SUCCESS] Invited JimmyZzz30
+2026-01-15 08:23:32,333 - DEBUG - Inviting ariyagowda to klefstad-teaching/cs141-w26-lab2b-jifanf1...
+2026-01-15 08:23:32,334 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:32,901 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-jifanf1/collaborators/ariyagowda HTTP/1.1" 201 7472
+2026-01-15 08:23:32,902 - DEBUG - [SUCCESS] Invited ariyagowda
+2026-01-15 08:23:32,903 - DEBUG - Inviting ariyagowda to klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2...
+2026-01-15 08:23:32,903 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:33,484 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Alexander-Tu2/collaborators/ariyagowda HTTP/1.1" 201 7718
+2026-01-15 08:23:33,485 - DEBUG - [SUCCESS] Invited ariyagowda
+2026-01-15 08:23:33,486 - DEBUG - Inviting duyaj to klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid...
+2026-01-15 08:23:33,486 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:34,070 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-pub1icstaticvoid/collaborators/duyaj HTTP/1.1" 201 7782
+2026-01-15 08:23:34,071 - DEBUG - [SUCCESS] Invited duyaj
+2026-01-15 08:23:34,072 - DEBUG - Inviting duyaj to klefstad-teaching/cs141-w26-lab2b-oglantz...
+2026-01-15 08:23:34,073 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:35,693 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-oglantz/collaborators/duyaj HTTP/1.1" 201 7412
+2026-01-15 08:23:35,694 - DEBUG - [SUCCESS] Invited duyaj
+2026-01-15 08:23:35,695 - DEBUG - Inviting aresalvarado to klefstad-teaching/cs141-w26-lab2a-dpappachan...
+2026-01-15 08:23:35,695 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:36,302 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-dpappachan/collaborators/aresalvarado HTTP/1.1" 201 7620
+2026-01-15 08:23:36,304 - DEBUG - [SUCCESS] Invited aresalvarado
+2026-01-15 08:23:36,304 - DEBUG - Inviting aresalvarado to klefstad-teaching/cs141-w26-lab2b-rykubota...
+2026-01-15 08:23:36,305 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:36,884 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-rykubota/collaborators/aresalvarado HTTP/1.1" 201 7537
+2026-01-15 08:23:36,885 - DEBUG - [SUCCESS] Invited aresalvarado
+2026-01-15 08:23:36,885 - DEBUG - Inviting thomasn05 to klefstad-teaching/cs141-w26-lab2a-6LEON8...
+2026-01-15 08:23:36,886 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:37,537 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-6LEON8/collaborators/thomasn05 HTTP/1.1" 201 7426
+2026-01-15 08:23:37,538 - DEBUG - [SUCCESS] Invited thomasn05
+2026-01-15 08:23:37,538 - DEBUG - Inviting thomasn05 to klefstad-teaching/cs141-w26-lab2b-LentKe...
+2026-01-15 08:23:37,539 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:38,100 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-LentKe/collaborators/thomasn05 HTTP/1.1" 201 7425
+2026-01-15 08:23:38,101 - DEBUG - [SUCCESS] Invited thomasn05
+2026-01-15 08:23:38,101 - DEBUG - Inviting CHAdinna to klefstad-teaching/cs141-w26-lab2a-smuretta16...
+2026-01-15 08:23:38,102 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:38,858 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-smuretta16/collaborators/CHAdinna HTTP/1.1" 201 7572
+2026-01-15 08:23:38,859 - DEBUG - [SUCCESS] Invited CHAdinna
+2026-01-15 08:23:38,860 - DEBUG - Inviting CHAdinna to klefstad-teaching/cs141-w26-lab2b-GreasySponge...
+2026-01-15 08:23:38,860 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:39,681 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-GreasySponge/collaborators/CHAdinna HTTP/1.1" 201 7653
+2026-01-15 08:23:39,682 - DEBUG - [SUCCESS] Invited CHAdinna
+2026-01-15 08:23:39,683 - DEBUG - Inviting AshGasparyanCS to klefstad-teaching/cs141-w26-lab2a-ebangerz...
+2026-01-15 08:23:39,683 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:40,433 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-ebangerz/collaborators/AshGasparyanCS HTTP/1.1" 201 7562
+2026-01-15 08:23:40,434 - DEBUG - [SUCCESS] Invited AshGasparyanCS
+2026-01-15 08:23:40,435 - DEBUG - Inviting AshGasparyanCS to klefstad-teaching/cs141-w26-lab2b-sehop1-source...
+2026-01-15 08:23:40,435 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:41,094 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-sehop1-source/collaborators/AshGasparyanCS HTTP/1.1" 201 7766
+2026-01-15 08:23:41,095 - DEBUG - [SUCCESS] Invited AshGasparyanCS
+2026-01-15 08:23:41,095 - DEBUG - Inviting Neilk1021 to klefstad-teaching/cs141-w26-lab2b-avanaaap...
+2026-01-15 08:23:41,096 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:41,693 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-avanaaap/collaborators/Neilk1021 HTTP/1.1" 201 7507
+2026-01-15 08:23:41,694 - DEBUG - [SUCCESS] Invited Neilk1021
+2026-01-15 08:23:41,694 - DEBUG - Inviting Neilk1021 to klefstad-teaching/cs141-w26-lab2b-Wheeledparasite...
+2026-01-15 08:23:41,695 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:42,319 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Wheeledparasite/collaborators/Neilk1021 HTTP/1.1" 201 7794
+2026-01-15 08:23:42,320 - DEBUG - [SUCCESS] Invited Neilk1021
+2026-01-15 08:23:42,321 - DEBUG - Inviting MNUQUI to klefstad-teaching/cs141-w26-lab2b-christianacho...
+2026-01-15 08:23:42,322 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:43,225 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-christianacho/collaborators/MNUQUI HTTP/1.1" 201 7670
+2026-01-15 08:23:43,226 - DEBUG - [SUCCESS] Invited MNUQUI
+2026-01-15 08:23:43,226 - DEBUG - Inviting MNUQUI to klefstad-teaching/cs141-w26-lab2b-techsgithub...
+2026-01-15 08:23:43,227 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:43,926 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-techsgithub/collaborators/MNUQUI HTTP/1.1" 201 7588
+2026-01-15 08:23:43,927 - DEBUG - [SUCCESS] Invited MNUQUI
+2026-01-15 08:23:43,927 - DEBUG - Inviting iamshauryag to klefstad-teaching/cs141-w26-lab2b-EliranAvigani...
+2026-01-15 08:23:43,928 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:44,606 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-EliranAvigani/collaborators/iamshauryag HTTP/1.1" 201 7730
+2026-01-15 08:23:44,607 - DEBUG - [SUCCESS] Invited iamshauryag
+2026-01-15 08:23:44,608 - DEBUG - Inviting iamshauryag to klefstad-teaching/cs141-w26-lab2b-yuchuehw...
+2026-01-15 08:23:44,608 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:45,210 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-yuchuehw/collaborators/iamshauryag HTTP/1.1" 201 7525
+2026-01-15 08:23:45,211 - DEBUG - [SUCCESS] Invited iamshauryag
+2026-01-15 08:23:45,212 - DEBUG - Inviting apoolla114 to klefstad-teaching/cs141-w26-lab2a-esivorap...
+2026-01-15 08:23:45,212 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:46,143 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-esivorap/collaborators/apoolla114 HTTP/1.1" 201 7514
+2026-01-15 08:23:46,144 - DEBUG - [SUCCESS] Invited apoolla114
+2026-01-15 08:23:46,144 - DEBUG - Inviting apoolla114 to klefstad-teaching/cs141-w26-lab2a-noahk004...
+2026-01-15 08:23:46,145 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:46,811 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-noahk004/collaborators/apoolla114 HTTP/1.1" 201 7514
+2026-01-15 08:23:46,811 - DEBUG - [SUCCESS] Invited apoolla114
+2026-01-15 08:23:46,812 - DEBUG - Inviting agamvirmandair to klefstad-teaching/cs141-w26-lab2a-laurajacint0...
+2026-01-15 08:23:46,812 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:47,392 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-laurajacint0/collaborators/agamvirmandair HTTP/1.1" 201 7726
+2026-01-15 08:23:47,393 - DEBUG - [SUCCESS] Invited agamvirmandair
+2026-01-15 08:23:47,393 - DEBUG - Inviting agamvirmandair to klefstad-teaching/cs141-w26-lab2b-alvarov17...
+2026-01-15 08:23:47,393 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:48,052 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-alvarov17/collaborators/agamvirmandair HTTP/1.1" 201 7602
+2026-01-15 08:23:48,053 - DEBUG - [SUCCESS] Invited agamvirmandair
+2026-01-15 08:23:48,054 - DEBUG - Inviting Jinseyam to klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad...
+2026-01-15 08:23:48,054 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:48,712 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Atif-Ahmad/collaborators/Jinseyam HTTP/1.1" 201 7572
+2026-01-15 08:23:48,713 - DEBUG - [SUCCESS] Invited Jinseyam
+2026-01-15 08:23:48,713 - DEBUG - Inviting Jinseyam to klefstad-teaching/cs141-w26-lab2a-Nicol-U...
+2026-01-15 08:23:48,714 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:49,311 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-Nicol-U/collaborators/Jinseyam HTTP/1.1" 201 7449
+2026-01-15 08:23:49,312 - DEBUG - [SUCCESS] Invited Jinseyam
+2026-01-15 08:23:49,312 - DEBUG - Inviting wendiiiiii to klefstad-teaching/cs141-w26-lab2a-kristerduster...
+2026-01-15 08:23:49,313 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:49,876 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-kristerduster/collaborators/wendiiiiii HTTP/1.1" 201 7719
+2026-01-15 08:23:49,877 - DEBUG - [SUCCESS] Invited wendiiiiii
+2026-01-15 08:23:49,877 - DEBUG - Inviting wendiiiiii to klefstad-teaching/cs141-w26-lab2a-KunGeng...
+2026-01-15 08:23:49,878 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:50,479 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-KunGeng/collaborators/wendiiiiii HTTP/1.1" 201 7473
+2026-01-15 08:23:50,480 - DEBUG - [SUCCESS] Invited wendiiiiii
+2026-01-15 08:23:50,480 - DEBUG - Inviting mjliu5 to klefstad-teaching/cs141-w26-lab2b-Kraufdeen...
+2026-01-15 08:23:50,480 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:51,407 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Kraufdeen/collaborators/mjliu5 HTTP/1.1" 201 7506
+2026-01-15 08:23:51,408 - DEBUG - [SUCCESS] Invited mjliu5
+2026-01-15 08:23:51,408 - DEBUG - Inviting mjliu5 to klefstad-teaching/cs141-w26-lab2b-joshngn...
+2026-01-15 08:23:51,409 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:52,082 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-joshngn/collaborators/mjliu5 HTTP/1.1" 201 7424
+2026-01-15 08:23:52,084 - DEBUG - [SUCCESS] Invited mjliu5
+2026-01-15 08:23:52,084 - DEBUG - Inviting charlesyeh-1103 to klefstad-teaching/cs141-w26-lab2b-mvttjb...
+2026-01-15 08:23:52,085 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:52,894 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-mvttjb/collaborators/charlesyeh-1103 HTTP/1.1" 201 7491
+2026-01-15 08:23:52,896 - DEBUG - [SUCCESS] Invited charlesyeh-1103
+2026-01-15 08:23:52,896 - DEBUG - Inviting charlesyeh-1103 to klefstad-teaching/cs141-w26-lab2b-Ranoldt...
+2026-01-15 08:23:52,897 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:53,676 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2b-Ranoldt/collaborators/charlesyeh-1103 HTTP/1.1" 201 7532
+2026-01-15 08:23:53,677 - DEBUG - [SUCCESS] Invited charlesyeh-1103
+2026-01-15 08:23:53,678 - DEBUG - Inviting devg1ics to klefstad-teaching/cs141-w26-lab2a-clairdelunesolace...
+2026-01-15 08:23:53,678 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:54,228 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-clairdelunesolace/collaborators/devg1ics HTTP/1.1" 201 7859
+2026-01-15 08:23:54,230 - DEBUG - [SUCCESS] Invited devg1ics
+2026-01-15 08:23:54,230 - DEBUG - Inviting devg1ics to klefstad-teaching/cs141-w26-lab2a-JordanPham2002...
+2026-01-15 08:23:54,231 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2026-01-15 08:23:54,927 - DEBUG - https://api.github.com:443 "PUT /repos/klefstad-teaching/cs141-w26-lab2a-JordanPham2002/collaborators/devg1ics HTTP/1.1" 201 7736
+2026-01-15 08:23:54,928 - DEBUG - [SUCCESS] Invited devg1ics
