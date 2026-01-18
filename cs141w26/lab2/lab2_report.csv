@@ -1,0 +1,464 @@
+Student,ID,SIS User ID,SIS Login ID,Section,Email Address,GitHub Username,Submitted,Reviews Assigned,Reviews Completed,Reactions,Notes
+,,,,,,,,,,,
+    Points Possible,,,,,,,,,,,
+"Aburto, Mia Desiree",409398,2435872,maburto,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),miadesiree190@gmail.com,maburto19,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-jasonbm2
+Missing ['reaction'] for cs141-w26-lab2b-AidenFavish"
+"Adinna, Chidubem Henry",414549,2448854,adinnac,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),adinnac@uci.edu,CHAdinna,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-smuretta16
+Missing ['reaction'] for cs141-w26-lab2b-GreasySponge"
+"Agrawal, Varuni",378585,2182472,varunia,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),varunia@uci.edu,varunia2,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-alemg2004
+Missing ['comment', 'reply'] for cs141-w26-lab2b-mvttjb
+Missing ['reaction'] for cs141-w26-lab2b-alemg2004
+Missing ['reaction'] for cs141-w26-lab2b-mvttjb"
+"Ahmad, Atif",415656,2464172,atifa2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),atifa2@uci.edu,Atif-Ahmad,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-TonyYao8271
+Missing ['reaction'] for cs141-w26-lab2c-AdiAnteater"
+"Ajavon, Jonathan Yannick Emanuel",351487,2135886,jajavon,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),,,,,,,
+"Alem, Ghalib Nezar",379855,2288129,alemg,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),alemg@uci.edu,alemg2004,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-ethnvo
+Missing ['reaction'] for cs141-w26-lab2c-ethnvo
+Missing ['reaction'] for cs141-w26-lab2a-clairdelunesolace"
+"Alhamdani, Ghassan",412820,2431853,galhamda,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),galhamda@uci.edu,galhamda-create,True,0.0,0.0,0.0,
+"Alvarado, Ares Ronaldo",375253,2207581,aresa,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aresa@uci.edu,aresalvarado,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-dpappachan
+Missing ['reaction'] for cs141-w26-lab2b-rykubota"
+"Aravindmali, Nivedha",447899,2514838,naravind,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),naravind@uci.edu,NvyGreen,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-itsmandrew
+Missing ['reaction'] for cs141-w26-lab2c-xsjsgfdysd"
+"Avigani, Eliran",450209,2579147,eavigani,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),eavigani@uci.edu,EliranAvigani,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-KunGeng
+Missing ['reaction'] for cs141-w26-lab2a-lukashauge"
+"Battson, Kalani Samuel",412258,2441837,kbattson,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kbattson@uci.edu,kbattson,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-KunGeng
+Missing ['comment', 'reply'] for cs141-w26-lab2b-rykubota
+Missing ['reaction'] for cs141-w26-lab2a-KunGeng
+Missing ['reaction'] for cs141-w26-lab2b-rykubota"
+"Bautista, Matthew Joseph",409412,2414878,matthjb2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),matthjb2@uci.edu,mvttjb,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-Mr-Merp
+Missing ['reaction'] for cs141-w26-lab2a-Nicol-U"
+"Breeden, Lucas William",413489,2435479,lbreeden,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lbreeden@uci.edu,x1d1,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-nctam2
+Missing ['reaction'] for cs141-w26-lab2c-kevinh-a"
+"Bukhamseen, Nora Essam",379380,2278317,nbukhams,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nbukhams@uci.edu,noraessam,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-HarryS561
+Missing ['reaction'] for cs141-w26-lab2c-seungl25
+Missing ['reaction'] for cs141-w26-lab2a-HarryS561"
+"Cason, Brady Rockwell",406947,2337504,brcason,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),brcason@uci.edu,BradyCason,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-ganeevsinghs
+Missing ['reaction'] for cs141-w26-lab2b-riyapanche"
+"Chakka, Aditya",415542,2459393,achakka1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),achakka1@uci.edu,achakka24,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-jiyu02
+Missing ['reaction'] for cs141-w26-lab2a-hivgundamss"
+"Chang, Andrew",312010,1868607,changa17,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),changa17@uci.edu,itsmandrew,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-wendiiiiii
+Missing ['comment', 'reply'] for cs141-w26-lab2c-jaack4
+Missing ['reaction'] for cs141-w26-lab2c-wendiiiiii
+Missing ['reaction'] for cs141-w26-lab2c-jaack4"
+"Chang, Christopher Che-Kai",407175,2351413,chriscc5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chriscc5@uci.edu,chriscc5,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-edenradulescu
+Missing ['reaction'] for cs141-w26-lab2b-brandog2039"
+"Chao, Leo",413924,2337833,ychao13,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ychao13@uci.edu,twleochao,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-AnviM1
+Missing ['reaction'] for cs141-w26-lab2c-maburto19"
+"Charco, Diego Jr.",414063,2353255,charcod,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),charcod@uci.edu,charcod-jpg,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-w4h009
+Missing ['reaction'] for cs141-w26-lab2b-heechy33"
+"Chen Jiang, Victor Jian",408084,2384551,vchenjia,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),vchenjia@uci.edu,VictorChen26,True,0.0,0.0,0.0,
+"Chen, Kristen Abigail",414940,2344718,chenka3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chenka3@uci.edu,kristerduster,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-spencerleaf
+Missing ['reaction'] for cs141-w26-lab2c-sasakip-uci-edu"
+"Chen, Kungeng",375618,2233257,kungengc,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kungengc@uci.edu,KunGeng,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Epic-Mushroom
+Missing ['reaction'] for cs141-w26-lab2b-lenat05"
+"Cheng, Nathan Lee",445001,2586591,chengnl2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chengnl2@uci.edu,nathanlcheng,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-smuretta16
+Missing ['reaction'] for cs141-w26-lab2a-QuocTrinh-hub"
+"Chennault, Ethan Daniel",414225,2359997,echennau,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),echennau@uci.edu,echennau,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-Tiffannyy
+Missing ['reaction'] for cs141-w26-lab2a-nxphan-uci"
+"Cho, Christiana Haeun",412137,2428298,choch4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),choch4@uci.edu,christianacho,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-JimmyZzz30
+Missing ['comment', 'reply'] for cs141-w26-lab2c-AshGasparyanCS
+Missing ['reaction'] for cs141-w26-lab2c-JimmyZzz30
+Missing ['reaction'] for cs141-w26-lab2c-AshGasparyanCS"
+"Cuan, Antonio Joel",385993,2322795,cuana,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),cuana@uci.edu,AntonioCuan,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-sradisay
+Missing ['reaction'] for cs141-w26-lab2b-achakka24"
+"Cusianovic, Sebastian",455929,2214118,scusiano,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),scusiano@uci.edu,cusianovic,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-jasonbm2
+Missing ['comment', 'reply'] for cs141-w26-lab2a-ethanvotran20
+Missing ['reaction'] for cs141-w26-lab2b-jasonbm2
+Missing ['reaction'] for cs141-w26-lab2a-ethanvotran20"
+"Dam, Dante",456721,2624976,ddam1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ddam1@uci.edu,laggycomputer,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-ninal11
+Missing ['reaction'] for cs141-w26-lab2c-charlesyeh-1103"
+"Dang, Nam Pham",447949,1870006,dangqp,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dangqp@uci.edu,QNDang,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-daviddeng0smm
+Missing ['comment', 'reply'] for cs141-w26-lab2b-edenradulescu
+Missing ['reaction'] for cs141-w26-lab2b-daviddeng0smm
+Missing ['reaction'] for cs141-w26-lab2b-edenradulescu"
+"Deng, David",410169,2243857,jiahad3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jiahad3@uci.edu,daviddeng0smm,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-aditkantak
+Missing ['reaction'] for cs141-w26-lab2c-MubaiLi222"
+"Donckels, James Joseph",449813,2303741,donckelj,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),donckelj@uci.edu,jjdonckels,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-TJHomeworkHub
+Missing ['reaction'] for cs141-w26-lab2b-yilis15"
+"Drobish, Liam",415278,2456278,wdrobish,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wdrobish@uci.edu,wdrobish,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-ryanrT27
+Missing ['reaction'] for cs141-w26-lab2b-Dpoin23"
+"Duya, Jonathan",379247,2275766,duyaj,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),duyaj@uci.edu,duyaj,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-pub1icstaticvoid
+Missing ['reaction'] for cs141-w26-lab2b-oglantz"
+"Etchison, Britten Kenneth",408626,2404085,betchiso,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),betchiso@uci.edu,BrittenEtchison,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-MNUQUI
+Missing ['comment', 'reply'] for cs141-w26-lab2a-emiliolim
+Missing ['reaction'] for cs141-w26-lab2c-MNUQUI
+Missing ['reaction'] for cs141-w26-lab2a-emiliolim"
+"Fang, Jifan",456425,2628348,jifanf1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jifanf1@uci.edu,jifanf1,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-pr1vatestaticfinal
+Missing ['reaction'] for cs141-w26-lab2a-ethanvotran20"
+"Favish, Aiden Michael",443763,2500953,afavish,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aidenfavish@gmail.com,AidenFavish,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-rheajethvani
+Missing ['reaction'] for cs141-w26-lab2c-EpicToastTM"
+"Finn, Jordan Marshall",444866,2580274,finnj1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),finnj1@uci.edu,jordan-m-finn,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-LittleLion930
+Missing ['reaction'] for cs141-w26-lab2c-mjliu5"
+"Gasparyan, Ashot",457297,2551519,ashotg2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ashotg2@uci.edu,AshGasparyanCS,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-ebangerz
+Missing ['reaction'] for cs141-w26-lab2b-sehop1-source"
+"Giang, Winston John",456458,2074070,wjgiang,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),wjgiang@uci.edu,winstonjgiang,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-thomasn05
+Missing ['reaction'] for cs141-w26-lab2a-JordanPham2002"
+"Glantz, Owen",382356,2194661,oglantz,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),oglantz@uci.edu,oglantz,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-Jthoeung
+Missing ['reaction'] for cs141-w26-lab2c-EpicToastTM"
+"Goel, Dev",409493,2436257,devg1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),devg1@uci.edu,devg1ics,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-clairdelunesolace
+Missing ['reaction'] for cs141-w26-lab2a-JordanPham2002"
+"Gowda, Ariya",378038,2268927,ariyag,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),ariyag@uci.edu,ariyagowda,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-jifanf1
+Missing ['reaction'] for cs141-w26-lab2b-Alexander-Tu2"
+"Gupta, Shaurya",413738,2446460,shauryg2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),shauryg2@uci.edu,iamshauryag,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-EliranAvigani
+Missing ['reaction'] for cs141-w26-lab2b-yuchuehw"
+"Gupta, Vatsa",414920,2343411,vatsag,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),vatsag@uci.edu,vatsag-06,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Kraufdeen
+Missing ['reaction'] for cs141-w26-lab2a-jordan-m-finn"
+"Ha, Kevin Cong",412443,2429566,kcha3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kcha3@uci.edu,kevinh-a,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-BrittenEtchison
+Missing ['reaction'] for cs141-w26-lab2b-christianacho"
+"Hauge, Lukas Fredrik",413990,2343955,lhauge,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lhauge@uci.edu,lukashauge,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-firewuf
+Missing ['comment', 'reply'] for cs141-w26-lab2c-dsilluci
+Missing ['reaction'] for cs141-w26-lab2b-firewuf
+Missing ['reaction'] for cs141-w26-lab2c-dsilluci"
+"Ho, Teck Yuan",349110,2101962,teckh,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),teckh@uci.edu,techsgithub,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-ebangerz
+Missing ['reaction'] for cs141-w26-lab2c-seungl25"
+"Homafar, Mani",286399,1808402,mhomafar,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),mhomafar@uci.edu,manihomafar,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-AshGasparyanCS
+Missing ['reaction'] for cs141-w26-lab2c-AntonioCuan"
+"Hsu, Chi-Min",382622,2305767,chiminh1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chiminh1@uci.edu,HsuAustin,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-NvyGreen
+Missing ['reaction'] for cs141-w26-lab2a-axelwennerlund"
+"Hua, Allison Tran",445868,2241728,huaat,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),huaat@uci.edu,AllyBeary,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-1JunHuang
+Missing ['reaction'] for cs141-w26-lab2c-jjdonckels"
+"Huang, Yijun",411557,2417525,yijuh11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),hiahiahyj@gmail.com,1JunHuang,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-alvarov17
+Missing ['reaction'] for cs141-w26-lab2b-sehop1-source"
+"Hussain, Sahir Shaukat",443720,2220392,sahirh,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sahirh@uci.edu,sahirsh,True,2.0,2.0,1.0,Missing ['reaction'] for cs141-w26-lab2a-Tiffannyy
+"Jacinto, Laura Yatzil",378626,2183871,lyjacint,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lyjacint@uci.edu,laurajacint0,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-varunia2
+Missing ['reaction'] for cs141-w26-lab2b-sahirss"
+"Jethvani, Rhea Ramesh",381476,2262308,rjethvan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rjethvan@uci.edu,rheajethvani,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-christinne-n
+Missing ['reaction'] for cs141-w26-lab2a-axelwennerlund"
+"Jin, Tian",448905,2564803,tjin13,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),tjin13@uci.edu,TJHomeworkHub,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-QuocTrinh-hub
+Missing ['reaction'] for cs141-w26-lab2a-JustinLi212"
+"Johanes, Russell Christian",387161,2217642,rjohanes,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rjohanes@uci.edu,rsljhns,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-x1d1
+Missing ['reaction'] for cs141-w26-lab2b-drewreed2005"
+"Jong, Grace Chen En",376103,2175608,gcjong,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),gcjong@uci.edu,gcjong030,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-joolenn
+Missing ['reaction'] for cs141-w26-lab2b-echennau"
+"Kanagasabai, Dhivyesh",444544,2554742,dkanagas,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dkanagas@uci.edu,Dhivyno,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-haoqp1
+Missing ['comment', 'reply'] for cs141-w26-lab2c-20chino05
+Missing ['reaction'] for cs141-w26-lab2c-haoqp1
+Missing ['reaction'] for cs141-w26-lab2c-20chino05"
+"Kantak, Adit Pravin",444885,2582890,apkantak,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),apkantak@uci.edu,aditkantak,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-KayleTruong
+Missing ['reaction'] for cs141-w26-lab2b-avanaaap"
+"Keonorasak, Dragon",408305,2386236,dkeonora,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),dkeonora@uci.edu,dragonkeon,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-yeqiw1
+Missing ['comment', 'reply'] for cs141-w26-lab2a-Atif-Ahmad
+Missing ['reaction'] for cs141-w26-lab2c-yeqiw1
+Missing ['reaction'] for cs141-w26-lab2a-Atif-Ahmad"
+"Ketteringham, Neil A.",448235,2522237,nketteri,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nketteri@uci.edu,Neilk1021,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-avanaaap
+Missing ['reaction'] for cs141-w26-lab2b-Wheeledparasite"
+"Kim, Noah Minjoong",409223,2408121,noahmk1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),noahmk1@uci.edu,noahk004,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-aputty11
+Missing ['reaction'] for cs141-w26-lab2c-jjdonckels
+Missing ['reaction'] for cs141-w26-lab2c-aputty11"
+"Kim, Timothy",458821,1671595,tkim12,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),tkim12@uci.edu,timkim0106,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-xsjsgfdysd
+Missing ['reaction'] for cs141-w26-lab2a-PNZ-z"
+"Kopecky, Ava Angelina",409616,2416477,kopeckya,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kopeckya@uci.edu,Ava-Kopecky,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-LentKe
+Missing ['reaction'] for cs141-w26-lab2a-moonluno"
+"Kubota, Ryan",459039,2398790,rykubota,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rykubota@uci.edu,rykubota,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-LittleLion930
+Missing ['reaction'] for cs141-w26-lab2c-wdrobish"
+"Kulkarni, Arjun",448123,2622401,akulkar6,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),akulkar6@uci.edu,arjunk76,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-joshngn
+Missing ['reaction'] for cs141-w26-lab2b-CyanAnteater"
+"Le, Kent Anthony",414273,2448983,leqk,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),leqk@uci.edu,LentKe,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-NotJonny1
+Missing ['reaction'] for cs141-w26-lab2c-NotJonny1
+Missing ['reaction'] for cs141-w26-lab2c-charlesyeh-1103"
+"Le, Nina",411978,2422578,ninal11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ninal11@uci.edu,ninal11,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-Jajavon
+Missing ['reaction'] for cs141-w26-lab2c-jaack4"
+"Leaf, Spencer Arvid Royal",414161,2337002,leafs,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),therealspencerleaf@gmail.com,spencerleaf,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-EliranAvigani
+Missing ['comment', 'reply'] for cs141-w26-lab2b-nathanlcheng
+Missing ['reaction'] for cs141-w26-lab2b-EliranAvigani
+Missing ['reaction'] for cs141-w26-lab2b-nathanlcheng"
+"Lee, Anna",412236,2441790,chaeeul3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chaeeul3@uci.edu,leec00260,True,0.0,0.0,0.0,
+"Lee, Daniel Junhee",444895,2586094,djlee20,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),daniel122630@gmail.com,Lekzs,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-timkim0106
+Missing ['reaction'] for cs141-w26-lab2a-PNZ-z"
+"Lee, Seungmin",443855,2035866,seungl25,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),seungl25@uci.edu,seungl25,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-twleochao
+Missing ['reaction'] for cs141-w26-lab2b-twleochao
+Missing ['reaction'] for cs141-w26-lab2a-kamyyywang"
+"Lee, Sunjae",349124,2099898,sunjael3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sunjael3@uci.edu,sunjaelee3,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-riyapanche
+Missing ['reaction'] for cs141-w26-lab2b-oglantz"
+"Lek, Lucas Khamsing",491959,2347599,lklek,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lklek@uci.edu,EpicToastTM,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Alexander-Tu2
+Missing ['reaction'] for cs141-w26-lab2b-echennau"
+"Leon, Brandon",345982,2053490,leonb3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),leonb3@uci.edu,6LEON8,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-joolenn
+Missing ['reaction'] for cs141-w26-lab2c-EatKFCinMc"
+"Li, Justin",449477,2633991,jdli3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jdli3@uci.edu,JustinLi212,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-bqtquach
+Missing ['reaction'] for cs141-w26-lab2b-brandog2039
+Missing ['reaction'] for cs141-w26-lab2b-bqtquach"
+"Li, Leo",348529,2092591,wenhaol8,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),,,,,,,
+"Li, Lucas",446707,2606056,lucasl11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),l3m3n000@gmail.com,lucasli2,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-noahk004
+Missing ['comment', 'reply'] for cs141-w26-lab2b-bqtquach
+Missing ['reaction'] for cs141-w26-lab2a-noahk004
+Missing ['reaction'] for cs141-w26-lab2b-bqtquach"
+"Li, Mubai",409988,2344534,mubail1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mubail1@uci.edu,MubaiLi222,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-noraessam
+Missing ['reaction'] for cs141-w26-lab2b-daviddeng0smm"
+"Li, Wendi",411845,2419165,wendil11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wendil11@uci.edu,wendiiiiii,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-kristerduster
+Missing ['comment', 'reply'] for cs141-w26-lab2a-KunGeng
+Missing ['reaction'] for cs141-w26-lab2a-kristerduster
+Missing ['reaction'] for cs141-w26-lab2a-KunGeng"
+"Lim, Emilio Aris",410540,2362628,emilial1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),emilial1@uci.edu,emiliolim,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-Ava-Kopecky
+Missing ['reaction'] for cs141-w26-lab2c-lucasli2"
+"Liu, Franku",348859,2098158,liuft,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),liuft@uci.edu,liuftuci,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-yeqiw1
+Missing ['reaction'] for cs141-w26-lab2c-wdrobish"
+"Liu, Jason Yang",80661,142372,jyliu,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),jyliu@uci.edu,jy8liu,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-HsuAustin
+Missing ['reaction'] for cs141-w26-lab2a-dpappachan"
+"Liu, Michelle Jiayi",406933,2330225,mjliu5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mjliu5@uci.edu,mjliu5,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Kraufdeen
+Missing ['reaction'] for cs141-w26-lab2b-joshngn"
+"Liu, Tiffany",448962,2188261,tiffanxl,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),tiffanxl@uci.edu,Tiffannyy,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-HsuAustin
+Missing ['reaction'] for cs141-w26-lab2b-triminhta1207"
+"Lo, Marcus",416151,2348127,marcusl5,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),marcusl5@uci.edu,marcusl07,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-nyelgireddy
+Missing ['reaction'] for cs141-w26-lab2a-smuretta16"
+"Luguan, Arthur",419320,2465729,jluguan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),hivgundamss@gmail.com,hivgundamss,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-joshngn
+Missing ['comment', 'reply'] for cs141-w26-lab2b-achakka24
+Missing ['reaction'] for cs141-w26-lab2b-joshngn
+Missing ['reaction'] for cs141-w26-lab2b-achakka24"
+"Luo, Benny",410301,2348137,bluo7,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),bluo7@uci.edu,Benny237,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-zhcaury2
+Missing ['reaction'] for cs141-w26-lab2a-nxphan-uci"
+"Mal, Roopaum",455685,2533311,rmal,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rmal@uci.edu,Epic-Mushroom,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-CHAdinna
+Missing ['reaction'] for cs141-w26-lab2c-DylanVuong3"
+"Mandair, Agamvir Singh",410068,2340019,mandaira,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mandaira@uci.edu,agamvirmandair,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-alvarov17
+Missing ['reaction'] for cs141-w26-lab2a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab2b-alvarov17"
+"Mantri, Anvi",411618,2420352,amantri1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),amantri1@uci.edu,AnviM1,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-AlvinAKTran
+Missing ['comment', 'reply'] for cs141-w26-lab2c-QNDang
+Missing ['reaction'] for cs141-w26-lab2b-AlvinAKTran
+Missing ['reaction'] for cs141-w26-lab2c-QNDang"
+"Martin, Jason Brady",415993,2462121,jasonbm2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jasonbm2@uci.edu,jasonbm2,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-charcod-jpg
+Missing ['comment', 'reply'] for cs141-w26-lab2c-vmrenter-code
+Missing ['reaction'] for cs141-w26-lab2a-charcod-jpg
+Missing ['reaction'] for cs141-w26-lab2c-vmrenter-code"
+"Masuda, Leon",312150,1895094,masudal,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),masudal@uci.edu,LittleLion930,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-elizabethmwatkins
+Missing ['reaction'] for cs141-w26-lab2b-manihomafar"
+"Maxwell, Jinseya Akira",380374,2249471,jamaxwel,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jamaxwel@uci.edu,Jinseyam,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-Atif-Ahmad
+Missing ['reaction'] for cs141-w26-lab2a-Nicol-U"
+"Moreno, Jackson Richard",377670,2237676,jrmoren1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jrmoren1@uci.edu,jaack4,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-GreasySponge
+Missing ['comment', 'reply'] for cs141-w26-lab2b-yuchuehw
+Missing ['reaction'] for cs141-w26-lab2b-GreasySponge
+Missing ['reaction'] for cs141-w26-lab2b-yuchuehw"
+"Muretta, Sonja",379012,2246523,smuretta,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),smuretta@uci.edu,smuretta16,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-devg1ics
+Missing ['comment', 'reply'] for cs141-w26-lab2c-willm326
+Missing ['reaction'] for cs141-w26-lab2c-devg1ics
+Missing ['reaction'] for cs141-w26-lab2c-willm326"
+"Myatt, Will",446094,2573477,wmyatt,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wmyatt@uci.edu,willm326,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-winstonjgiang
+Missing ['reaction'] for cs141-w26-lab2a-lukashauge"
+"Nacorda, Julianna Margarita Rodrigue",409105,2407750,jmnacord,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jmnacord@uci.edu,joolenn,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-Ewuman
+Missing ['reaction'] for cs141-w26-lab2c-willm326"
+"Nadeem, Rayyaan",348664,2094929,rnadeem,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rnadeem@uci.edu,ImRayyaan,True,2.0,2.0,1.0,Missing ['reaction'] for cs141-w26-lab2b-lukes4-uci
+"Ngo, Ethan Tri",409337,2414629,ngoet4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ngoet4@uci.edu,ebangerz,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-CyanAnteater
+Missing ['reaction'] for cs141-w26-lab2b-CyanAnteater
+Missing ['reaction'] for cs141-w26-lab2c-DylanVuong3"
+"Nguyen, Anthony",226984,1515873,anthon12,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),anthon12@uci.edu,anthon12-uci,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Karbite
+Missing ['reaction'] for cs141-w26-lab2b-dragonkeon"
+"Nguyen, Christine Loan-Anh",254585,1586903,chrisln4,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),chrisln4@uci.edu,christinne-n,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-supanice-uci
+Missing ['reaction'] for cs141-w26-lab2c-ganeevsinghs"
+"Nguyen, Duy",408137,2385623,duyn16,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),duyn16@uci.edu,iiBooque,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-rykubota
+Missing ['reaction'] for cs141-w26-lab2b-drewreed2005"
+"Nguyen, Josh Quang",413970,2115888,joshqn,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),joshqn@uci.edu,joshngn,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-cusianovic
+Missing ['reaction'] for cs141-w26-lab2c-ZhouhengTao"
+"Nguyen, Kevin Minh",415009,2348823,kevinmn5,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),kevinmn5@uci.edu,pub1icstaticvoid,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-yilis15
+Missing ['reaction'] for cs141-w26-lab2c-ArchieSeh"
+"Nguyen, Michael Huy",484427,2348161,michhn15,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),michhn15@uci.edu,pr1vatestaticfinal,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-arjunk76
+Missing ['reaction'] for cs141-w26-lab2c-kevinh-a"
+"Nguyen, My",450233,2641531,myn13,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),myn13@uci.edu,myn13,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-manihomafar
+Missing ['reaction'] for cs141-w26-lab2b-nkimogpig"
+"Nguyen, Thomas Hoang-Tuan",410255,2342992,thomahn3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),thomahn3@uci.edu,thomasn05,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-6LEON8
+Missing ['reaction'] for cs141-w26-lab2a-6LEON8
+Missing ['reaction'] for cs141-w26-lab2b-LentKe"
+"Nuqui, Maiella Nona Laquindanum",378122,2270231,mnuqui,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),mnuqui@uci.edu,MNUQUI,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-christianacho
+Missing ['reaction'] for cs141-w26-lab2b-techsgithub"
+"O'Connor, Sasha",414522,2451568,aleksano,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aleksano@uci.edu,sasha-oconnor,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-BradyCason
+Missing ['reaction'] for cs141-w26-lab2a-HarryS561"
+"Panche, Riya",455406,2506623,rpanche,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rpanche@uci.edu,riyapanche,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-pub1icstaticvoid
+Missing ['reaction'] for cs141-w26-lab2c-PartiNoone"
+"Pappachan, Derrick",413638,2446050,pappachd,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),pappachd@uci.edu,dpappachan,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-nctam2
+Missing ['reaction'] for cs141-w26-lab2c-nctam2
+Missing ['reaction'] for cs141-w26-lab2b-Dpoin23"
+"Park, Brandon S.",378979,2247615,brandsp2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),BRANDSP2@UCI.EDU,brandog2039,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-ZhouhengTao
+Missing ['reaction'] for cs141-w26-lab2c-arjunk76"
+"Park, Seho",284695,1759684,sehop1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sehop1@uci.edu,sehop1-source,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-supanice-uci
+Missing ['reaction'] for cs141-w26-lab2a-Atif-Ahmad"
+"Peng, Yinuo",415929,2463594,yinuop2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yinuop2@uci.edu,MichaelP222,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-elizabethmwatkins
+Missing ['reaction'] for cs141-w26-lab2b-Alexander-Tu2"
+"Petro, Alexander Maxwell",448739,2529938,petroa,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),petroa@uci.edu,alexpetro47,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-Dhivyno
+Missing ['reaction'] for cs141-w26-lab2c-dsilluci"
+"Pham, Hao Quoc",315458,1951708,haoqp1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),haoqp1@uci.edu,haoqp1,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-sahirss
+Missing ['reaction'] for cs141-w26-lab2a-ebangerz"
+"Pham, Jordan",457121,2571566,jordap5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jordap5@uci.edu,JordanPham2002,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-nathanlcheng
+Missing ['reaction'] for cs141-w26-lab2c-anthon12-uci"
+"Phan, Nina Xuan",486506,2136383,nxphan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nxphan@uci.edu,nxphan-uci,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-eshahrestany
+Missing ['reaction'] for cs141-w26-lab2c-1JunHuang"
+"Phung, Derrick",454825,2528492,derrip1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),derrip1@uci.edu,Karbite,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-PNZ-z
+Missing ['reaction'] for cs141-w26-lab2a-laggycomputer"
+"Poindexter, David Carl",415090,2455670,dcpoinde,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dcpoinde@uci.edu,Dpoin23,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab2a-emiliolim"
+"Poolla, Aishwarya",454913,2566064,apoolla,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),apoolla@uci.edu,apoolla114,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-esivorap
+Missing ['reaction'] for cs141-w26-lab2a-noahk004"
+"Premjee, Raheali",443964,2408053,rpremjee,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),,,,,,,
+"Putty, Anay Murali",455294,2546305,aputty,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aputty@uci.edu,aputty11,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-Jajavon
+Missing ['reaction'] for cs141-w26-lab2b-timkim0106"
+"Quach, Bryan Thai",413393,2250771,btquach,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),btquach@uci.edu,bqtquach,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-jy8liu
+Missing ['reaction'] for cs141-w26-lab2a-AndrewShim0428"
+"Radisay, Sterling Thomas",449459,2633862,sradisay,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sradisay@uci.edu,sradisay,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-EatKFCinMc
+Missing ['reaction'] for cs141-w26-lab2a-laggycomputer"
+"Radulescu, Eden Sarah",381849,2189601,eradules,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),eradules@uci.edu,edenradulescu,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-duyaj
+Missing ['reaction'] for cs141-w26-lab2a-pjtsearch"
+"Rarichan, Rohit George",409390,2415403,rraricha,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rraricha@uci.edu,Rohit-rarichan,False,0.0,0.0,0.0,
+"Raufdeen, Kaden Louis",412042,2424249,kraufdee,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kraufdee@uci.edu,Kraufdeen,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-6LEON8
+Missing ['reaction'] for cs141-w26-lab2c-JimmyZzz30"
+"Reed, Andrew Steven",450139,2505593,reedas1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),reedas1@uci.edu,drewreed2005,True,2.0,2.0,1.0,Missing ['reaction'] for cs141-w26-lab2c-rsljhns
+"Renteria, Victor Manuel",447408,2613711,vmrenter,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),vmrenter@uci.edu,vmrenter-code,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-lenat05
+Missing ['reaction'] for cs141-w26-lab2b-Ranoldt"
+"Robertson, Kyle Matthew",415227,2332900,kmrober2,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),kmrober2@uci.edu,firewuf,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-noahk004
+Missing ['reaction'] for cs141-w26-lab2a-moonluno"
+"Rodriguez, Cesar Jesus",378646,2191873,cesarjr3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),,,,,,,
+"Ruebsamen, Lucas William",412459,2440037,lruebsam,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lruebsam@uci.edu,Wheeledparasite,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-eshahrestany
+Missing ['comment', 'reply'] for cs141-w26-lab2a-hivgundamss
+Missing ['reaction'] for cs141-w26-lab2c-eshahrestany
+Missing ['reaction'] for cs141-w26-lab2a-hivgundamss"
+"Saldana, Sahir Sebastian",351098,2131250,sahirss,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),sahirss@uci.edu,sahirss,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-sahirsh
+Missing ['comment', 'reply'] for cs141-w26-lab2c-Benny237
+Missing ['reaction'] for cs141-w26-lab2c-sahirsh
+Missing ['reaction'] for cs141-w26-lab2c-Benny237"
+"Sanchez Verdin, Pedro",376843,2214262,pedros3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),pedros3@uci.edu,ermmre,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-LentKe
+Missing ['reaction'] for cs141-w26-lab2b-Ranoldt"
+"Sanchez, Phelixx M. Minh Khoa",412426,2442419,phelixxs,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),phelixxs@uci.edu,phelixxthecat,False,0.0,0.0,0.0,
+"Sasaki, Preston Takashi",409336,2413026,sasakip,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sasakip@uci.edu,sasakip-uci-edu,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-itsmandrew
+Missing ['comment', 'reply'] for cs141-w26-lab2b-sasha-oconnor
+Missing ['reaction'] for cs141-w26-lab2b-itsmandrew
+Missing ['reaction'] for cs141-w26-lab2b-sasha-oconnor"
+"Sawant, Aditya Nandkishor",409779,2439244,sawantan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sawantan@uci.edu,AdiAnteater,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-ryanrT27
+Missing ['reaction'] for cs141-w26-lab2b-CyanAnteater"
+"Segura, Jonathan",447193,2502981,seguraj3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),seguraj3@uci.edu,NotJonny1,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Epic-Mushroom
+Missing ['reaction'] for cs141-w26-lab2b-BrittenEtchison"
+"sehgall, Archie",455309,2617900,asehgall,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),architsehgal1@gmail.com,ArchieSeh,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-twleochao
+Missing ['reaction'] for cs141-w26-lab2b-fruitsaladyumyum"
+"Shahrestany, Evan Arya",444183,2217139,eashahre,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),eashahre@uci.edu,eshahrestany,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-christianacho
+Missing ['comment', 'reply'] for cs141-w26-lab2a-pub1icstaticvoid
+Missing ['reaction'] for cs141-w26-lab2b-christianacho
+Missing ['reaction'] for cs141-w26-lab2a-pub1icstaticvoid"
+"Shahrin, Simrah",409191,2414087,sshahrin,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sshahrin@uci.edu,sim-hub1,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-AlvinAKTran
+Missing ['reaction'] for cs141-w26-lab2b-AlvinAKTran
+Missing ['reaction'] for cs141-w26-lab2b-jifanf1"
+"Shen, Yilin",413612,2434445,yilis15,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yilis15@uci.edu,yilis15,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab2a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab2c-vmrenter-code"
+"Sheng, Luke",413871,2432850,lukes4,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),lukes4@uci.edu,lukes4-uci,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-kamyyywang
+Missing ['reaction'] for cs141-w26-lab2a-AndrewShim0428"
+"Shi, Yuwen",407825,2361644,yuwens7,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yuwens7@uci.edu,HarryS561,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-andrewwsou
+Missing ['reaction'] for cs141-w26-lab2c-gymPotato-1"
+"Shim, Kyumin Andrew",347745,2079857,shimka,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),shimka@uci.edu,AndrewShim0428,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-wendiiiiii
+Missing ['reaction'] for cs141-w26-lab2c-agamvirmandair"
+"Sidhu, Ganeev Singh",457339,2627403,ganeevss,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ganeevss@uci.edu,ganeevsinghs,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-dragonkeon
+Missing ['reaction'] for cs141-w26-lab2b-oglantz"
+"Sill, Dylan Matthew",412782,2332052,dsill,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dsill@uci.edu,dsilluci,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-Kraufdeen
+Missing ['comment', 'reply'] for cs141-w26-lab2b-ryanrT27
+Missing ['reaction'] for cs141-w26-lab2b-Kraufdeen
+Missing ['reaction'] for cs141-w26-lab2b-ryanrT27"
+"Sivoraphonh, Edric Hwang",257622,1675602,esivorap,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),esivorap@uci.edu,esivorap,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-jy8liu
+Missing ['reaction'] for cs141-w26-lab2b-zhcaury2"
+"Smith, Drake",448554,2625584,drakes1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),drakes1@uci.edu,GreasySponge,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-BradyCason
+Missing ['reaction'] for cs141-w26-lab2c-mjliu5"
+"Sou, Andrew Kong",407824,2370765,aksou,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aksou@uci.edu,andrewwsou,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-iamshauryag
+Missing ['reaction'] for cs141-w26-lab2c-ImRayyaan"
+"Stein, Luno",408848,2403111,steint1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),steint1@uci.edu,moonluno,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-apoolla114
+Missing ['reaction'] for cs141-w26-lab2b-EliranAvigani"
+"Supanich, Ethan David",376085,2174560,supanice,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),supanice@uci.edu,supanice-uci,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-yuchuehw
+Missing ['reaction'] for cs141-w26-lab2a-AnviM1"
+"Ta, Tri Minh",449037,2260046,tmta2,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),tmta2@uci.edu,triminhta1207,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-rsljhns
+Missing ['reaction'] for cs141-w26-lab2a-charcod-jpg"
+"Taing, Rina",448649,2500539,rinat1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rinat1@uci.edu,CyanAnteater,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-ArchieSeh
+Missing ['reaction'] for cs141-w26-lab2a-liuftuci"
+"Tam, Nathan Christopher",408507,2401765,nctam2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nctam2@uci.edu,nctam2,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-alemg2004
+Missing ['reaction'] for cs141-w26-lab2b-timkim0106"
+"Tao, Zhouheng",375442,2208561,zhouhent,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),zhouhent@uci.edu,ZhouhengTao,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-winstonjgiang
+Missing ['reaction'] for cs141-w26-lab2b-alexpetro47"
+"Tapia, Ryan Ricardo",411740,2421783,tapiarr,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),tapiarr@uci.edu,ryanrT27,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-thomasn05
+Missing ['reaction'] for cs141-w26-lab2a-Dhivyno"
+"Thoeung-Ferguson, Jada Ranae",380021,2290821,jthoeung,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),jthoeung@uci.edu,Jthoeung,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-sasha-oconnor
+Missing ['reaction'] for cs141-w26-lab2b-techsgithub"
+"Torres, Aaron Perez Jr.",491348,2672858,aptorre2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aptorre2@uci.edu,20chino05,True,2.0,2.0,1.0,Missing ['reaction'] for cs141-w26-lab2b-alexpetro47
+"Tran, Alvin Anh Kha",414545,2448845,alvinat2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),alvinat2@uci.edu,AlvinAKTran,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-vatsag-06
+Missing ['reaction'] for cs141-w26-lab2a-liuftuci"
+"Tran, Lena",455744,2519190,lenat7,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lenat7@uci.edu,lenat05,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-esivorap
+Missing ['reaction'] for cs141-w26-lab2c-Ewuman"
+"Tran, Ronald Nhan-Loc",375478,2208811,ronaldnt,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ronaldnt@uci.edu,Ranoldt,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-kbattson
+Missing ['reaction'] for cs141-w26-lab2c-Accelerator050717"
+"Tranfield, Michael Takumi",411555,2398896,mtranfie,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mtranfie@uci.edu,mtranfie,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-avanaaap
+Missing ['reaction'] for cs141-w26-lab2c-Lekzs"
+"Trinh, Wilson Quoc",449871,2536869,qltrinh,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),luongtrinh2003@gmail.com,QuocTrinh-hub,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-marcusl07
+Missing ['reaction'] for cs141-w26-lab2c-MNUQUI"
+"Truong, Kayle Phuong-Vy",407090,2350939,kaylet,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kaylet@uci.edu,KayleTruong,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-nyelgireddy
+Missing ['reaction'] for cs141-w26-lab2c-MichaelP222"
+"Tu, Alexander Ngo",448781,2545934,antu2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),antu2@uci.edu,Alexander-Tu2,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-JordanPham2002
+Missing ['reaction'] for cs141-w26-lab2a-kristerduster"
+"Turpanjian, Peter",408438,2401571,pturpanj,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),pturpanj@uci.edu,pjtsearch,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-alvarov17
+Missing ['reaction'] for cs141-w26-lab2c-sunjaelee3"
+"Umanzor Campos, Nicol S",380370,2248462,umanzorn,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),umanzorn@uci.edu,Nicol-U,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-gcjong030
+Missing ['comment', 'reply'] for cs141-w26-lab2c-Frank808-Git
+Missing ['reaction'] for cs141-w26-lab2c-gcjong030
+Missing ['reaction'] for cs141-w26-lab2c-Frank808-Git"
+"Upadhyaya, Pavana",409710,2437418,pavanau,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),pavanau@uci.edu,avanaaap,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-KayleTruong
+Missing ['reaction'] for cs141-w26-lab2c-chriscc5"
+"Uppala, Abhinav",410103,2331685,auppala,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),auppala@uci.edu,abhinavuppala,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-rheajethvani
+Missing ['reaction'] for cs141-w26-lab2a-jordan-m-finn"
+"Ventura Tafolla, Alvaro",409392,2435847,alvarov2,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),alvarov2@uci.edu,alvarov17,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-JustinLi212
+Missing ['reaction'] for cs141-w26-lab2a-6LEON8"
+"Vo, Ethan Kha",411536,2398855,ekvo,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ekvo@uci.edu,ethnvo,True,2.0,0.0,1.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-andrewwsou
+Missing ['comment', 'reply'] for cs141-w26-lab2b-AllyBeary
+Missing ['reaction'] for cs141-w26-lab2b-andrewwsou"
+"Vo, Tracy Minh Thu",415208,2379493,tracymv,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),tracymv@uci.edu,PartiNoone,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-TJHomeworkHub
+Missing ['reaction'] for cs141-w26-lab2b-Karbite"
+"Votran, Ethan Leland",379939,2289775,evotran,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),evotran@uci.edu,ethanvotran20,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-sim-hub1
+Missing ['reaction'] for cs141-w26-lab2c-ariyagowda"
+"Vuong, Dylan",485542,2526912,dylanv3,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),dylanv3@uci.edu,DylanVuong3,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-sehop1-source
+Missing ['reaction'] for cs141-w26-lab2b-nkimogpig"
+"Wang, Erik Suhan",411548,2398874,erikw1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),erikw1@uci.edu,w4h009,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2b-AidenFavish
+Missing ['comment', 'reply'] for cs141-w26-lab2b-GreasySponge
+Missing ['reaction'] for cs141-w26-lab2b-AidenFavish
+Missing ['reaction'] for cs141-w26-lab2b-GreasySponge"
+"Wang, Kamish",422061,2361380,ziqinw2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ziqinw2@uci.edu,kamyyywang,True,2.0,1.0,1.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-iiBooque
+Missing ['reaction'] for cs141-w26-lab2c-iiBooque"
+"Wang, Yu-Chueh",375556,2210470,yuchuehw,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yuchuehw@uci.edu,yuchuehw,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-Neilk1021
+Missing ['reaction'] for cs141-w26-lab2a-dpappachan"
+"Wang, Yuhao",415864,2463321,yuhaow29,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yuhaow29@uci.edu,EatKFCinMc,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-sradisay
+Missing ['reaction'] for cs141-w26-lab2b-mvttjb"
+"Watkins, Elizabeth Marie",447799,2617182,emwatki1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),emwatki1@uci.edu,elizabethmwatkins,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2c-duyaj
+Missing ['comment', 'reply'] for cs141-w26-lab2a-pjtsearch
+Missing ['reaction'] for cs141-w26-lab2c-duyaj
+Missing ['reaction'] for cs141-w26-lab2a-pjtsearch"
+"Wennerlund, Axel Hugo Erik",492076,2837354,awennerl,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),AWENNERL@UCI.EDU,axelwennerlund,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-christinne-n
+Missing ['reaction'] for cs141-w26-lab2c-ethnvo"
+"Wu, Ethan Haolin",381842,2205298,wueh2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wueh2@uci.edu,Ewuman,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-techsgithub
+Missing ['reaction'] for cs141-w26-lab2a-kristerduster"
+"Wu, Katy",413603,2444368,yeqiw1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),yeqiw1@uci.edu,yeqiw1,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Wheeledparasite
+Missing ['reaction'] for cs141-w26-lab2b-TonyYao8271"
+"Yang, Cindy",407303,2351727,xinyy26,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),xinyy26@uci.edu,gymPotato-1,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-firewuf
+Missing ['reaction'] for cs141-w26-lab2b-abhinavuppala"
+"Yang, Natalie",449400,2577608,nataly4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nataly4@uci.edu,nkimogpig,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-gymPotato-1
+Missing ['reaction'] for cs141-w26-lab2c-Neilk1021"
+"Yang, Owen Li",412182,2430181,olyang,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),olyang@uci.edu,Mr-Merp,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-noraessam
+Missing ['reaction'] for cs141-w26-lab2b-jifanf1"
+"Yao, Dasheng",313189,1886537,dashengy,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dashengy@uci.edu,TonyYao8271,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-ermmre
+Missing ['reaction'] for cs141-w26-lab2a-cessar3"
+"Yeh, Charles",407958,2371312,charley5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),charley5@uci.edu,charlesyeh-1103,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-mvttjb
+Missing ['reaction'] for cs141-w26-lab2b-Ranoldt"
+"Yeh, Frank",409342,2413067,fyeh2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),fyeh2@uci.edu,Frank808-Git,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-esivorap
+Missing ['reaction'] for cs141-w26-lab2a-Jthoeung"
+"Yelgireddy, Neha",450282,2223922,nyelgire,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),nyelgire@uci.edu,nyelgireddy,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-NotJonny1
+Missing ['reaction'] for cs141-w26-lab2a-clairdelunesolace"
+"Yi, Steven Jongyun",350283,2119080,sjyi1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),sjyi1@uci.edu,fruitsaladyumyum,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-cessar3
+Missing ['comment', 'reply'] for cs141-w26-lab2c-PartiNoone
+Missing ['reaction'] for cs141-w26-lab2a-cessar3
+Missing ['reaction'] for cs141-w26-lab2c-PartiNoone"
+"Yin, Shuai",408635,2404129,syin13,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),syin13@uci.edu,clairdelunesolace,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-CHAdinna
+Missing ['reaction'] for cs141-w26-lab2b-AllyBeary"
+"Yoon, Heechan",380462,2249950,heechany,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),heechany@uci.edu,heechy33,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-maburto19
+Missing ['reaction'] for cs141-w26-lab2a-mtranfie"
+"Yu, Jieyang",443808,2026889,jieyangy,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jieyangy@uci.edu,jiyu02,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-NvyGreen
+Missing ['reaction'] for cs141-w26-lab2a-ermmre"
+"Yu, Mingyang",411847,2420878,myu12,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),myu12@uci.edu,Accelerator050717,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2b-Wheeledparasite
+Missing ['reaction'] for cs141-w26-lab2b-x1d1"
+"Zhang, Calvin Chen",446640,2629571,calvincz,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),calvincz@uci.edu,zhcaury2,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-Frank808-Git
+Missing ['reaction'] for cs141-w26-lab2c-Jinseyam"
+"Zhang, Haorong",361956,2161321,haorongz,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),haorongz@uci.edu,xsjsgfdysd,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2a-pr1vatestaticfinal
+Missing ['reaction'] for cs141-w26-lab2b-ninal11"
+"Zhang, Peining",408143,2384845,peiniz1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),peiniz1@uci.edu,PNZ-z,True,2.0,2.0,0.0,"Missing ['reaction'] for cs141-w26-lab2c-Jinseyam
+Missing ['reaction'] for cs141-w26-lab2c-AntonioCuan"
+"Zhao, Yian",377071,2221582,yianz4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yianz4@uci.edu,JimmyZzz30,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab2a-cessar3
+Missing ['comment', 'reply'] for cs141-w26-lab2b-nkimogpig
+Missing ['reaction'] for cs141-w26-lab2a-cessar3
+Missing ['reaction'] for cs141-w26-lab2b-nkimogpig"
+"Student, Test",505828,,eead27749656b7a86961de8f90e22a0f3639bd7f,"Additional Students, COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110), and IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040)",,,,,,,
