@@ -1,0 +1,2760 @@
+[
+    {
+        "reviewer_username": "BradyCason",
+        "target_username": "aditkantak",
+        "target_repository_id": 1139376515,
+        "target_repository_name": "cs141-w26-lab3c-aditkantak",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-aditkantak"
+    },
+    {
+        "reviewer_username": "BradyCason",
+        "target_username": "x1d1",
+        "target_repository_id": 1139284528,
+        "target_repository_name": "cs141-w26-lab3b-x1d1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-x1d1"
+    },
+    {
+        "reviewer_username": "Jajavon",
+        "target_username": "yuchuehw",
+        "target_repository_id": 1139289231,
+        "target_repository_name": "cs141-w26-lab3b-yuchuehw",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-yuchuehw"
+    },
+    {
+        "reviewer_username": "Jajavon",
+        "target_username": "riyapanche",
+        "target_repository_id": 1139284169,
+        "target_repository_name": "cs141-w26-lab3b-riyapanche",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-riyapanche"
+    },
+    {
+        "reviewer_username": "KayleTruong",
+        "target_username": "christianacho",
+        "target_repository_id": 1139284530,
+        "target_repository_name": "cs141-w26-lab3b-christianacho",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-christianacho"
+    },
+    {
+        "reviewer_username": "KayleTruong",
+        "target_username": "Kraufdeen",
+        "target_repository_id": 1139284544,
+        "target_repository_name": "cs141-w26-lab3b-Kraufdeen",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Kraufdeen"
+    },
+    {
+        "reviewer_username": "Tiffannyy",
+        "target_username": "spencerleaf",
+        "target_repository_id": 1139375902,
+        "target_repository_name": "cs141-w26-lab3c-spencerleaf",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-spencerleaf"
+    },
+    {
+        "reviewer_username": "Tiffannyy",
+        "target_username": "aputty11",
+        "target_repository_id": 1139375772,
+        "target_repository_name": "cs141-w26-lab3c-aputty11",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-aputty11"
+    },
+    {
+        "reviewer_username": "Dhivyno",
+        "target_username": "abhinavuppala",
+        "target_repository_id": 1139291295,
+        "target_repository_name": "cs141-w26-lab3b-abhinavuppala",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-abhinavuppala"
+    },
+    {
+        "reviewer_username": "Dhivyno",
+        "target_username": "xsjsgfdysd",
+        "target_repository_id": 1139379781,
+        "target_repository_name": "cs141-w26-lab3c-xsjsgfdysd",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-xsjsgfdysd"
+    },
+    {
+        "reviewer_username": "clairdelunesolace",
+        "target_username": "drewreed2005",
+        "target_repository_id": 1139283990,
+        "target_repository_name": "cs141-w26-lab3b-drewreed2005",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-drewreed2005"
+    },
+    {
+        "reviewer_username": "clairdelunesolace",
+        "target_username": "20chino05",
+        "target_repository_id": 1139376843,
+        "target_repository_name": "cs141-w26-lab3c-20chino05",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-20chino05"
+    },
+    {
+        "reviewer_username": "NvyGreen",
+        "target_username": "elizabethmwatkins",
+        "target_repository_id": 1139284516,
+        "target_repository_name": "cs141-w26-lab3b-elizabethmwatkins",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-elizabethmwatkins"
+    },
+    {
+        "reviewer_username": "NvyGreen",
+        "target_username": "eshahrestany",
+        "target_repository_id": 1139577167,
+        "target_repository_name": "cs141-w26-lab3b-eshahrestany",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-eshahrestany"
+    },
+    {
+        "reviewer_username": "jordan-m-finn",
+        "target_username": "Ava-Kopecky",
+        "target_repository_id": 1139375842,
+        "target_repository_name": "cs141-w26-lab3c-Ava-Kopecky",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Ava-Kopecky"
+    },
+    {
+        "reviewer_username": "jordan-m-finn",
+        "target_username": "MubaiLi222",
+        "target_repository_id": 1139284506,
+        "target_repository_name": "cs141-w26-lab3b-MubaiLi222",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-MubaiLi222"
+    },
+    {
+        "reviewer_username": "kamyyywang",
+        "target_username": "kevinh-a",
+        "target_repository_id": 1139375899,
+        "target_repository_name": "cs141-w26-lab3c-kevinh-a",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-kevinh-a"
+    },
+    {
+        "reviewer_username": "kamyyywang",
+        "target_username": "techsgithub",
+        "target_repository_id": 1139284922,
+        "target_repository_name": "cs141-w26-lab3b-techsgithub",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-techsgithub"
+    },
+    {
+        "reviewer_username": "moonluno",
+        "target_username": "VictorChen26",
+        "target_repository_id": 1139375803,
+        "target_repository_name": "cs141-w26-lab3c-VictorChen26",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-VictorChen26"
+    },
+    {
+        "reviewer_username": "moonluno",
+        "target_username": "Neilk1021",
+        "target_repository_id": 1139376168,
+        "target_repository_name": "cs141-w26-lab3c-Neilk1021",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Neilk1021"
+    },
+    {
+        "reviewer_username": "mtranfie",
+        "target_username": "manihomafar",
+        "target_repository_id": 1139375773,
+        "target_repository_name": "cs141-w26-lab3c-manihomafar",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-manihomafar"
+    },
+    {
+        "reviewer_username": "mtranfie",
+        "target_username": "Lekzs",
+        "target_repository_id": 1139375829,
+        "target_repository_name": "cs141-w26-lab3c-Lekzs",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Lekzs"
+    },
+    {
+        "reviewer_username": "jifanf1",
+        "target_username": "Frank808-Git",
+        "target_repository_id": 1139375752,
+        "target_repository_name": "cs141-w26-lab3c-Frank808-Git",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Frank808-Git"
+    },
+    {
+        "reviewer_username": "jifanf1",
+        "target_username": "vatsag-06",
+        "target_repository_id": 1139378082,
+        "target_repository_name": "cs141-w26-lab3c-vatsag-06",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-vatsag-06"
+    },
+    {
+        "reviewer_username": "KunGeng",
+        "target_username": "rheajethvani",
+        "target_repository_id": 1139377086,
+        "target_repository_name": "cs141-w26-lab3c-rheajethvani",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-rheajethvani"
+    },
+    {
+        "reviewer_username": "KunGeng",
+        "target_username": "w4h009",
+        "target_repository_id": 1139379909,
+        "target_repository_name": "cs141-w26-lab3c-w4h009",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-w4h009"
+    },
+    {
+        "reviewer_username": "zhcaury2",
+        "target_username": "sradisay",
+        "target_repository_id": 1139288275,
+        "target_repository_name": "cs141-w26-lab3b-sradisay",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sradisay"
+    },
+    {
+        "reviewer_username": "zhcaury2",
+        "target_username": "supanice-uci",
+        "target_repository_id": 1139375770,
+        "target_repository_name": "cs141-w26-lab3c-supanice-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-supanice-uci"
+    },
+    {
+        "reviewer_username": "hivgundamss",
+        "target_username": "Ranoldt",
+        "target_repository_id": 1139284149,
+        "target_repository_name": "cs141-w26-lab3b-Ranoldt",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Ranoldt"
+    },
+    {
+        "reviewer_username": "hivgundamss",
+        "target_username": "AllyBeary",
+        "target_repository_id": 1139284186,
+        "target_repository_name": "cs141-w26-lab3b-AllyBeary",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-AllyBeary"
+    },
+    {
+        "reviewer_username": "axelwennerlund",
+        "target_username": "charlesyeh-1103",
+        "target_repository_id": 1139376614,
+        "target_repository_name": "cs141-w26-lab3c-charlesyeh-1103",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-charlesyeh-1103"
+    },
+    {
+        "reviewer_username": "axelwennerlund",
+        "target_username": "Karbite",
+        "target_repository_id": 1139284147,
+        "target_repository_name": "cs141-w26-lab3b-Karbite",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Karbite"
+    },
+    {
+        "reviewer_username": "PNZ-z",
+        "target_username": "sasha-oconnor",
+        "target_repository_id": 1139284911,
+        "target_repository_name": "cs141-w26-lab3b-sasha-oconnor",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sasha-oconnor"
+    },
+    {
+        "reviewer_username": "PNZ-z",
+        "target_username": "willm326",
+        "target_repository_id": 1139286317,
+        "target_repository_name": "cs141-w26-lab3b-willm326",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-willm326"
+    },
+    {
+        "reviewer_username": "nxphan-uci",
+        "target_username": "kbattson",
+        "target_repository_id": 1139375917,
+        "target_repository_name": "cs141-w26-lab3c-kbattson",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-kbattson"
+    },
+    {
+        "reviewer_username": "nxphan-uci",
+        "target_username": "sahirsh",
+        "target_repository_id": 1139289589,
+        "target_repository_name": "cs141-w26-lab3b-sahirsh",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sahirsh"
+    },
+    {
+        "reviewer_username": "dsilluci",
+        "target_username": "christinne-n",
+        "target_repository_id": 1139284166,
+        "target_repository_name": "cs141-w26-lab3b-christinne-n",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-christinne-n"
+    },
+    {
+        "reviewer_username": "dsilluci",
+        "target_username": "ArchieSeh",
+        "target_repository_id": 1139376118,
+        "target_repository_name": "cs141-w26-lab3c-ArchieSeh",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ArchieSeh"
+    },
+    {
+        "reviewer_username": "AnviM1",
+        "target_username": "nyelgireddy",
+        "target_repository_id": 1139284582,
+        "target_repository_name": "cs141-w26-lab3b-nyelgireddy",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nyelgireddy"
+    },
+    {
+        "reviewer_username": "AnviM1",
+        "target_username": "chriscc5",
+        "target_repository_id": 1139375885,
+        "target_repository_name": "cs141-w26-lab3c-chriscc5",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-chriscc5"
+    },
+    {
+        "reviewer_username": "laurajacint0",
+        "target_username": "ariyagowda",
+        "target_repository_id": 1139284345,
+        "target_repository_name": "cs141-w26-lab3b-ariyagowda",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-ariyagowda"
+    },
+    {
+        "reviewer_username": "laurajacint0",
+        "target_username": "jjdonckels",
+        "target_repository_id": 1139376028,
+        "target_repository_name": "cs141-w26-lab3c-jjdonckels",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-jjdonckels"
+    },
+    {
+        "reviewer_username": "charcod-jpg",
+        "target_username": "Alexander-Tu2",
+        "target_repository_id": 1139284114,
+        "target_repository_name": "cs141-w26-lab3b-Alexander-Tu2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Alexander-Tu2"
+    },
+    {
+        "reviewer_username": "charcod-jpg",
+        "target_username": "MNUQUI",
+        "target_repository_id": 1139476770,
+        "target_repository_name": "cs141-w26-lab3c-MNUQUI",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-MNUQUI"
+    },
+    {
+        "reviewer_username": "liuftuci",
+        "target_username": "LentKe",
+        "target_repository_id": 1139306700,
+        "target_repository_name": "cs141-w26-lab3b-LentKe",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-LentKe"
+    },
+    {
+        "reviewer_username": "liuftuci",
+        "target_username": "brandog2039",
+        "target_repository_id": 1139344072,
+        "target_repository_name": "cs141-w26-lab3b-brandog2039",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-brandog2039"
+    },
+    {
+        "reviewer_username": "pjtsearch",
+        "target_username": "sim-hub1",
+        "target_repository_id": 1139376450,
+        "target_repository_name": "cs141-w26-lab3c-sim-hub1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-sim-hub1"
+    },
+    {
+        "reviewer_username": "pjtsearch",
+        "target_username": "LittleLion930",
+        "target_repository_id": 1139284005,
+        "target_repository_name": "cs141-w26-lab3b-LittleLion930",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-LittleLion930"
+    },
+    {
+        "reviewer_username": "esivorap",
+        "target_username": "ImRayyaan",
+        "target_repository_id": 1139378687,
+        "target_repository_name": "cs141-w26-lab3c-ImRayyaan",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ImRayyaan"
+    },
+    {
+        "reviewer_username": "esivorap",
+        "target_username": "iamshauryag",
+        "target_repository_id": 1139375768,
+        "target_repository_name": "cs141-w26-lab3c-iamshauryag",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-iamshauryag"
+    },
+    {
+        "reviewer_username": "maburto19",
+        "target_username": "daviddeng0smm",
+        "target_repository_id": 1139286321,
+        "target_repository_name": "cs141-w26-lab3b-daviddeng0smm",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-daviddeng0smm"
+    },
+    {
+        "reviewer_username": "maburto19",
+        "target_username": "winstonjgiang",
+        "target_repository_id": 1139486972,
+        "target_repository_name": "cs141-w26-lab3b-winstonjgiang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-winstonjgiang"
+    },
+    {
+        "reviewer_username": "emiliolim",
+        "target_username": "TJHomeworkHub",
+        "target_repository_id": 1139285796,
+        "target_repository_name": "cs141-w26-lab3b-TJHomeworkHub",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-TJHomeworkHub"
+    },
+    {
+        "reviewer_username": "emiliolim",
+        "target_username": "firewuf",
+        "target_repository_id": 1139287119,
+        "target_repository_name": "cs141-w26-lab3b-firewuf",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-firewuf"
+    },
+    {
+        "reviewer_username": "ethanvotran20",
+        "target_username": "lukes4-uci",
+        "target_repository_id": 1139284502,
+        "target_repository_name": "cs141-w26-lab3b-lukes4-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-lukes4-uci"
+    },
+    {
+        "reviewer_username": "ethanvotran20",
+        "target_username": "Benny237",
+        "target_repository_id": 1139375799,
+        "target_repository_name": "cs141-w26-lab3c-Benny237",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Benny237"
+    },
+    {
+        "reviewer_username": "laggycomputer",
+        "target_username": "nathanlcheng",
+        "target_repository_id": 1139284063,
+        "target_repository_name": "cs141-w26-lab3b-nathanlcheng",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nathanlcheng"
+    },
+    {
+        "reviewer_username": "laggycomputer",
+        "target_username": "6LEON8",
+        "target_repository_id": 1139376335,
+        "target_repository_name": "cs141-w26-lab3c-6LEON8",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-6LEON8"
+    },
+    {
+        "reviewer_username": "ebangerz",
+        "target_username": "triminhta1207",
+        "target_repository_id": 1139284182,
+        "target_repository_name": "cs141-w26-lab3b-triminhta1207",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-triminhta1207"
+    },
+    {
+        "reviewer_username": "ebangerz",
+        "target_username": "smuretta16",
+        "target_repository_id": 1139375791,
+        "target_repository_name": "cs141-w26-lab3c-smuretta16",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-smuretta16"
+    },
+    {
+        "reviewer_username": "kristerduster",
+        "target_username": "sasakip-uci-edu",
+        "target_repository_id": 1139378210,
+        "target_repository_name": "cs141-w26-lab3c-sasakip-uci-edu",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-sasakip-uci-edu"
+    },
+    {
+        "reviewer_username": "kristerduster",
+        "target_username": "gcjong030",
+        "target_repository_id": 1139375973,
+        "target_repository_name": "cs141-w26-lab3c-gcjong030",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-gcjong030"
+    },
+    {
+        "reviewer_username": "Nicol-U",
+        "target_username": "dragonkeon",
+        "target_repository_id": 1139380076,
+        "target_repository_name": "cs141-w26-lab3c-dragonkeon",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-dragonkeon"
+    },
+    {
+        "reviewer_username": "Nicol-U",
+        "target_username": "1JunHuang",
+        "target_repository_id": 1139377061,
+        "target_repository_name": "cs141-w26-lab3c-1JunHuang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-1JunHuang"
+    },
+    {
+        "reviewer_username": "aresalvarado",
+        "target_username": "sehop1-source",
+        "target_repository_id": 1139332117,
+        "target_repository_name": "cs141-w26-lab3b-sehop1-source",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sehop1-source"
+    },
+    {
+        "reviewer_username": "aresalvarado",
+        "target_username": "Accelerator050717",
+        "target_repository_id": 1139378357,
+        "target_repository_name": "cs141-w26-lab3c-Accelerator050717",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Accelerator050717"
+    },
+    {
+        "reviewer_username": "AndrewShim0428",
+        "target_username": "AlvinAKTran",
+        "target_repository_id": 1139376026,
+        "target_repository_name": "cs141-w26-lab3c-AlvinAKTran",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AlvinAKTran"
+    },
+    {
+        "reviewer_username": "AndrewShim0428",
+        "target_username": "alvarov17",
+        "target_repository_id": 1139284550,
+        "target_repository_name": "cs141-w26-lab3b-alvarov17",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-alvarov17"
+    },
+    {
+        "reviewer_username": "avanaaap",
+        "target_username": "seungl25",
+        "target_repository_id": 1139284539,
+        "target_repository_name": "cs141-w26-lab3b-seungl25",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-seungl25"
+    },
+    {
+        "reviewer_username": "avanaaap",
+        "target_username": "sahirss",
+        "target_repository_id": 1139380020,
+        "target_repository_name": "cs141-w26-lab3c-sahirss",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-sahirss"
+    },
+    {
+        "reviewer_username": "alexpetro47",
+        "target_username": "ganeevsinghs",
+        "target_repository_id": 1139375864,
+        "target_repository_name": "cs141-w26-lab3c-ganeevsinghs",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ganeevsinghs"
+    },
+    {
+        "reviewer_username": "alexpetro47",
+        "target_username": "ethnvo",
+        "target_repository_id": 1139388941,
+        "target_repository_name": "cs141-w26-lab3c-ethnvo",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ethnvo"
+    },
+    {
+        "reviewer_username": "Atif-Ahmad",
+        "target_username": "fruitsaladyumyum",
+        "target_repository_id": 1139378344,
+        "target_repository_name": "cs141-w26-lab3c-fruitsaladyumyum",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-fruitsaladyumyum"
+    },
+    {
+        "reviewer_username": "Atif-Ahmad",
+        "target_username": "anthon12-uci",
+        "target_repository_id": 1139284287,
+        "target_repository_name": "cs141-w26-lab3b-anthon12-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-anthon12-uci"
+    },
+    {
+        "reviewer_username": "CHAdinna",
+        "target_username": "echennau",
+        "target_repository_id": 1139289585,
+        "target_repository_name": "cs141-w26-lab3b-echennau",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-echennau"
+    },
+    {
+        "reviewer_username": "CHAdinna",
+        "target_username": "JordanPham2002",
+        "target_repository_id": 1139284142,
+        "target_repository_name": "cs141-w26-lab3b-JordanPham2002",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-JordanPham2002"
+    },
+    {
+        "reviewer_username": "ermmre",
+        "target_username": "BrittenEtchison",
+        "target_repository_id": 1139285644,
+        "target_repository_name": "cs141-w26-lab3b-BrittenEtchison",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-BrittenEtchison"
+    },
+    {
+        "reviewer_username": "ermmre",
+        "target_username": "QuocTrinh-hub",
+        "target_repository_id": 1139284035,
+        "target_repository_name": "cs141-w26-lab3b-QuocTrinh-hub",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-QuocTrinh-hub"
+    },
+    {
+        "reviewer_username": "noahk004",
+        "target_username": "NotJonny1",
+        "target_repository_id": 1139376708,
+        "target_repository_name": "cs141-w26-lab3c-NotJonny1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-NotJonny1"
+    },
+    {
+        "reviewer_username": "noahk004",
+        "target_username": "wendiiiiii",
+        "target_repository_id": 1139377594,
+        "target_repository_name": "cs141-w26-lab3c-wendiiiiii",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-wendiiiiii"
+    },
+    {
+        "reviewer_username": "cessar3",
+        "target_username": "leec00260",
+        "target_repository_id": 1139375808,
+        "target_repository_name": "cs141-w26-lab3c-leec00260",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-leec00260"
+    },
+    {
+        "reviewer_username": "cessar3",
+        "target_username": "galhamda-create",
+        "target_repository_id": 1139381575,
+        "target_repository_name": "cs141-w26-lab3c-galhamda-create",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-galhamda-create"
+    },
+    {
+        "reviewer_username": "Rohit-rarichan",
+        "target_username": "PartiNoone",
+        "target_repository_id": 1139375882,
+        "target_repository_name": "cs141-w26-lab3c-PartiNoone",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-PartiNoone"
+    },
+    {
+        "reviewer_username": "Rohit-rarichan",
+        "target_username": "oglantz",
+        "target_repository_id": 1139289795,
+        "target_repository_name": "cs141-w26-lab3b-oglantz",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-oglantz"
+    },
+    {
+        "reviewer_username": "pr1vatestaticfinal",
+        "target_username": "QNDang",
+        "target_repository_id": 1139284131,
+        "target_repository_name": "cs141-w26-lab3b-QNDang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-QNDang"
+    },
+    {
+        "reviewer_username": "pr1vatestaticfinal",
+        "target_username": "joolenn",
+        "target_repository_id": 1139284082,
+        "target_repository_name": "cs141-w26-lab3b-joolenn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-joolenn"
+    },
+    {
+        "reviewer_username": "pub1icstaticvoid",
+        "target_username": "ZhouhengTao",
+        "target_repository_id": 1139375817,
+        "target_repository_name": "cs141-w26-lab3c-ZhouhengTao",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ZhouhengTao"
+    },
+    {
+        "reviewer_username": "pub1icstaticvoid",
+        "target_username": "heechy33",
+        "target_repository_id": 1139288633,
+        "target_repository_name": "cs141-w26-lab3b-heechy33",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-heechy33"
+    },
+    {
+        "reviewer_username": "ninal11",
+        "target_username": "jy8liu",
+        "target_repository_id": 1139379188,
+        "target_repository_name": "cs141-w26-lab3c-jy8liu",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-jy8liu"
+    },
+    {
+        "reviewer_username": "ninal11",
+        "target_username": "zhcaury2",
+        "target_repository_id": 1139208800,
+        "target_repository_name": "cs141-w26-lab3a-zhcaury2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-zhcaury2"
+    },
+    {
+        "reviewer_username": "CyanAnteater",
+        "target_username": "laurajacint0",
+        "target_repository_id": 1139208940,
+        "target_repository_name": "cs141-w26-lab3a-laurajacint0",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-laurajacint0"
+    },
+    {
+        "reviewer_username": "CyanAnteater",
+        "target_username": "liuftuci",
+        "target_repository_id": 1139209117,
+        "target_repository_name": "cs141-w26-lab3a-liuftuci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-liuftuci"
+    },
+    {
+        "reviewer_username": "drewreed2005",
+        "target_username": "vmrenter-code",
+        "target_repository_id": 1139375780,
+        "target_repository_name": "cs141-w26-lab3c-vmrenter-code",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-vmrenter-code"
+    },
+    {
+        "reviewer_username": "drewreed2005",
+        "target_username": "jaack4",
+        "target_repository_id": 1139375789,
+        "target_repository_name": "cs141-w26-lab3c-jaack4",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-jaack4"
+    },
+    {
+        "reviewer_username": "JustinLi212",
+        "target_username": "Jthoeung",
+        "target_repository_id": 1139381614,
+        "target_repository_name": "cs141-w26-lab3c-Jthoeung",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Jthoeung"
+    },
+    {
+        "reviewer_username": "JustinLi212",
+        "target_username": "noraessam",
+        "target_repository_id": 1139379105,
+        "target_repository_name": "cs141-w26-lab3c-noraessam",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-noraessam"
+    },
+    {
+        "reviewer_username": "LittleLion930",
+        "target_username": "Mr-Merp",
+        "target_repository_id": 1139378110,
+        "target_repository_name": "cs141-w26-lab3c-Mr-Merp",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Mr-Merp"
+    },
+    {
+        "reviewer_username": "LittleLion930",
+        "target_username": "nxphan-uci",
+        "target_repository_id": 1139208835,
+        "target_repository_name": "cs141-w26-lab3a-nxphan-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-nxphan-uci"
+    },
+    {
+        "reviewer_username": "QuocTrinh-hub",
+        "target_username": "sunjaelee3",
+        "target_repository_id": 1139378114,
+        "target_repository_name": "cs141-w26-lab3c-sunjaelee3",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-sunjaelee3"
+    },
+    {
+        "reviewer_username": "QuocTrinh-hub",
+        "target_username": "BradyCason",
+        "target_repository_id": 1139207806,
+        "target_repository_name": "cs141-w26-lab3a-BradyCason",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-BradyCason"
+    },
+    {
+        "reviewer_username": "achakka24",
+        "target_username": "pr1vatestaticfinal",
+        "target_repository_id": 1139226011,
+        "target_repository_name": "cs141-w26-lab3a-pr1vatestaticfinal",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pr1vatestaticfinal"
+    },
+    {
+        "reviewer_username": "achakka24",
+        "target_username": "alexpetro47",
+        "target_repository_id": 1139212331,
+        "target_repository_name": "cs141-w26-lab3a-alexpetro47",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-alexpetro47"
+    },
+    {
+        "reviewer_username": "ryanrT27",
+        "target_username": "AdiAnteater",
+        "target_repository_id": 1139381588,
+        "target_repository_name": "cs141-w26-lab3c-AdiAnteater",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AdiAnteater"
+    },
+    {
+        "reviewer_username": "ryanrT27",
+        "target_username": "lukashauge",
+        "target_repository_id": 1139376348,
+        "target_repository_name": "cs141-w26-lab3c-lukashauge",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-lukashauge"
+    },
+    {
+        "reviewer_username": "nathanlcheng",
+        "target_username": "itsmandrew",
+        "target_repository_id": 1139376293,
+        "target_repository_name": "cs141-w26-lab3c-itsmandrew",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-itsmandrew"
+    },
+    {
+        "reviewer_username": "nathanlcheng",
+        "target_username": "Ewuman",
+        "target_repository_id": 1139376522,
+        "target_repository_name": "cs141-w26-lab3c-Ewuman",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Ewuman"
+    },
+    {
+        "reviewer_username": "jasonbm2",
+        "target_username": "agamvirmandair",
+        "target_repository_id": 1139383452,
+        "target_repository_name": "cs141-w26-lab3c-agamvirmandair",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-agamvirmandair"
+    },
+    {
+        "reviewer_username": "jasonbm2",
+        "target_username": "EatKFCinMc",
+        "target_repository_id": 1139375758,
+        "target_repository_name": "cs141-w26-lab3c-EatKFCinMc",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-EatKFCinMc"
+    },
+    {
+        "reviewer_username": "twleochao",
+        "target_username": "noahk004",
+        "target_repository_id": 1139213875,
+        "target_repository_name": "cs141-w26-lab3a-noahk004",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-noahk004"
+    },
+    {
+        "reviewer_username": "twleochao",
+        "target_username": "mtranfie",
+        "target_repository_id": 1139208292,
+        "target_repository_name": "cs141-w26-lab3a-mtranfie",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-mtranfie"
+    },
+    {
+        "reviewer_username": "joolenn",
+        "target_username": "mjliu5",
+        "target_repository_id": 1139376509,
+        "target_repository_name": "cs141-w26-lab3c-mjliu5",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-mjliu5"
+    },
+    {
+        "reviewer_username": "joolenn",
+        "target_username": "arjunk76",
+        "target_repository_id": 1139375951,
+        "target_repository_name": "cs141-w26-lab3c-arjunk76",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-arjunk76"
+    },
+    {
+        "reviewer_username": "Alexander-Tu2",
+        "target_username": "AnviM1",
+        "target_repository_id": 1139208935,
+        "target_repository_name": "cs141-w26-lab3a-AnviM1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-AnviM1"
+    },
+    {
+        "reviewer_username": "Alexander-Tu2",
+        "target_username": "PNZ-z",
+        "target_repository_id": 1139208817,
+        "target_repository_name": "cs141-w26-lab3a-PNZ-z",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-PNZ-z"
+    },
+    {
+        "reviewer_username": "HsuAustin",
+        "target_username": "axelwennerlund",
+        "target_repository_id": 1139208813,
+        "target_repository_name": "cs141-w26-lab3a-axelwennerlund",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-axelwennerlund"
+    },
+    {
+        "reviewer_username": "HsuAustin",
+        "target_username": "kristerduster",
+        "target_repository_id": 1139210562,
+        "target_repository_name": "cs141-w26-lab3a-kristerduster",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-kristerduster"
+    },
+    {
+        "reviewer_username": "nctam2",
+        "target_username": "laggycomputer",
+        "target_repository_id": 1139210541,
+        "target_repository_name": "cs141-w26-lab3a-laggycomputer",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-laggycomputer"
+    },
+    {
+        "reviewer_username": "nctam2",
+        "target_username": "ethanvotran20",
+        "target_repository_id": 1139210542,
+        "target_repository_name": "cs141-w26-lab3a-ethanvotran20",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-ethanvotran20"
+    },
+    {
+        "reviewer_username": "QNDang",
+        "target_username": "apoolla114",
+        "target_repository_id": 1139375755,
+        "target_repository_name": "cs141-w26-lab3c-apoolla114",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-apoolla114"
+    },
+    {
+        "reviewer_username": "QNDang",
+        "target_username": "cessar3",
+        "target_repository_id": 1139214098,
+        "target_repository_name": "cs141-w26-lab3a-cessar3",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-cessar3"
+    },
+    {
+        "reviewer_username": "JordanPham2002",
+        "target_username": "Nicol-U",
+        "target_repository_id": 1139210563,
+        "target_repository_name": "cs141-w26-lab3a-Nicol-U",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Nicol-U"
+    },
+    {
+        "reviewer_username": "JordanPham2002",
+        "target_username": "Jinseyam",
+        "target_repository_id": 1139375776,
+        "target_repository_name": "cs141-w26-lab3c-Jinseyam",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Jinseyam"
+    },
+    {
+        "reviewer_username": "Karbite",
+        "target_username": "marcusl07",
+        "target_repository_id": 1139385974,
+        "target_repository_name": "cs141-w26-lab3c-marcusl07",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-marcusl07"
+    },
+    {
+        "reviewer_username": "Karbite",
+        "target_username": "AntonioCuan",
+        "target_repository_id": 1139375833,
+        "target_repository_name": "cs141-w26-lab3c-AntonioCuan",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AntonioCuan"
+    },
+    {
+        "reviewer_username": "GreasySponge",
+        "target_username": "KayleTruong",
+        "target_repository_id": 1139207830,
+        "target_repository_name": "cs141-w26-lab3a-KayleTruong",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-KayleTruong"
+    },
+    {
+        "reviewer_username": "GreasySponge",
+        "target_username": "varunia2",
+        "target_repository_id": 1139375891,
+        "target_repository_name": "cs141-w26-lab3c-varunia2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-varunia2"
+    },
+    {
+        "reviewer_username": "Ranoldt",
+        "target_username": "Tiffannyy",
+        "target_repository_id": 1139207831,
+        "target_repository_name": "cs141-w26-lab3a-Tiffannyy",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Tiffannyy"
+    },
+    {
+        "reviewer_username": "Ranoldt",
+        "target_username": "Rohit-rarichan",
+        "target_repository_id": 1139218941,
+        "target_repository_name": "cs141-w26-lab3a-Rohit-rarichan",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Rohit-rarichan"
+    },
+    {
+        "reviewer_username": "christinne-n",
+        "target_username": "dsilluci",
+        "target_repository_id": 1139208853,
+        "target_repository_name": "cs141-w26-lab3a-dsilluci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-dsilluci"
+    },
+    {
+        "reviewer_username": "christinne-n",
+        "target_username": "NvyGreen",
+        "target_repository_id": 1139207892,
+        "target_repository_name": "cs141-w26-lab3a-NvyGreen",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-NvyGreen"
+    },
+    {
+        "reviewer_username": "AidenFavish",
+        "target_username": "jiyu02",
+        "target_repository_id": 1139376051,
+        "target_repository_name": "cs141-w26-lab3c-jiyu02",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-jiyu02"
+    },
+    {
+        "reviewer_username": "AidenFavish",
+        "target_username": "myn13",
+        "target_repository_id": 1139375870,
+        "target_repository_name": "cs141-w26-lab3c-myn13",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-myn13"
+    },
+    {
+        "reviewer_username": "riyapanche",
+        "target_username": "wdrobish",
+        "target_repository_id": 1139375782,
+        "target_repository_name": "cs141-w26-lab3c-wdrobish",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-wdrobish"
+    },
+    {
+        "reviewer_username": "riyapanche",
+        "target_username": "KunGeng",
+        "target_repository_id": 1139208744,
+        "target_repository_name": "cs141-w26-lab3a-KunGeng",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-KunGeng"
+    },
+    {
+        "reviewer_username": "triminhta1207",
+        "target_username": "charcod-jpg",
+        "target_repository_id": 1139209055,
+        "target_repository_name": "cs141-w26-lab3a-charcod-jpg",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-charcod-jpg"
+    },
+    {
+        "reviewer_username": "triminhta1207",
+        "target_username": "lucasli2",
+        "target_repository_id": 1139375983,
+        "target_repository_name": "cs141-w26-lab3c-lucasli2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-lucasli2"
+    },
+    {
+        "reviewer_username": "TonyYao8271",
+        "target_username": "moonluno",
+        "target_repository_id": 1139207986,
+        "target_repository_name": "cs141-w26-lab3a-moonluno",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-moonluno"
+    },
+    {
+        "reviewer_username": "TonyYao8271",
+        "target_username": "devg1ics",
+        "target_repository_id": 1139378293,
+        "target_repository_name": "cs141-w26-lab3c-devg1ics",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-devg1ics"
+    },
+    {
+        "reviewer_username": "AllyBeary",
+        "target_username": "EpicToastTM",
+        "target_repository_id": 1139375867,
+        "target_repository_name": "cs141-w26-lab3c-EpicToastTM",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-EpicToastTM"
+    },
+    {
+        "reviewer_username": "AllyBeary",
+        "target_username": "avanaaap",
+        "target_repository_id": 1139210834,
+        "target_repository_name": "cs141-w26-lab3a-avanaaap",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-avanaaap"
+    },
+    {
+        "reviewer_username": "nkimogpig",
+        "target_username": "maburto19",
+        "target_repository_id": 1139210510,
+        "target_repository_name": "cs141-w26-lab3a-maburto19",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-maburto19"
+    },
+    {
+        "reviewer_username": "nkimogpig",
+        "target_username": "haoqp1",
+        "target_repository_id": 1139375942,
+        "target_repository_name": "cs141-w26-lab3c-haoqp1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-haoqp1"
+    },
+    {
+        "reviewer_username": "yilis15",
+        "target_username": "Jajavon",
+        "target_repository_id": 1139207807,
+        "target_repository_name": "cs141-w26-lab3a-Jajavon",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Jajavon"
+    },
+    {
+        "reviewer_username": "yilis15",
+        "target_username": "AshGasparyanCS",
+        "target_repository_id": 1139375774,
+        "target_repository_name": "cs141-w26-lab3c-AshGasparyanCS",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AshGasparyanCS"
+    },
+    {
+        "reviewer_username": "bqtquach",
+        "target_username": "duyaj",
+        "target_repository_id": 1139379062,
+        "target_repository_name": "cs141-w26-lab3c-duyaj",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-duyaj"
+    },
+    {
+        "reviewer_username": "bqtquach",
+        "target_username": "esivorap",
+        "target_repository_id": 1139210495,
+        "target_repository_name": "cs141-w26-lab3a-esivorap",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-esivorap"
+    },
+    {
+        "reviewer_username": "anthon12-uci",
+        "target_username": "emiliolim",
+        "target_repository_id": 1139210529,
+        "target_repository_name": "cs141-w26-lab3a-emiliolim",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-emiliolim"
+    },
+    {
+        "reviewer_username": "anthon12-uci",
+        "target_username": "AndrewShim0428",
+        "target_repository_id": 1139210612,
+        "target_repository_name": "cs141-w26-lab3a-AndrewShim0428",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-AndrewShim0428"
+    },
+    {
+        "reviewer_username": "iiBooque",
+        "target_username": "ermmre",
+        "target_repository_id": 1139213653,
+        "target_repository_name": "cs141-w26-lab3a-ermmre",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-ermmre"
+    },
+    {
+        "reviewer_username": "iiBooque",
+        "target_username": "MichaelP222",
+        "target_repository_id": 1139376350,
+        "target_repository_name": "cs141-w26-lab3c-MichaelP222",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-MichaelP222"
+    },
+    {
+        "reviewer_username": "ariyagowda",
+        "target_username": "hivgundamss",
+        "target_repository_id": 1139208811,
+        "target_repository_name": "cs141-w26-lab3a-hivgundamss",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-hivgundamss"
+    },
+    {
+        "reviewer_username": "ariyagowda",
+        "target_username": "clairdelunesolace",
+        "target_repository_id": 1139207873,
+        "target_repository_name": "cs141-w26-lab3a-clairdelunesolace",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-clairdelunesolace"
+    },
+    {
+        "reviewer_username": "lukes4-uci",
+        "target_username": "pub1icstaticvoid",
+        "target_repository_id": 1139227661,
+        "target_repository_name": "cs141-w26-lab3a-pub1icstaticvoid",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pub1icstaticvoid"
+    },
+    {
+        "reviewer_username": "lukes4-uci",
+        "target_username": "jordan-m-finn",
+        "target_repository_id": 1139207902,
+        "target_repository_name": "cs141-w26-lab3a-jordan-m-finn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-jordan-m-finn"
+    },
+    {
+        "reviewer_username": "MubaiLi222",
+        "target_username": "JimmyZzz30",
+        "target_repository_id": 1139381579,
+        "target_repository_name": "cs141-w26-lab3c-JimmyZzz30",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-JimmyZzz30"
+    },
+    {
+        "reviewer_username": "MubaiLi222",
+        "target_username": "aresalvarado",
+        "target_repository_id": 1139210569,
+        "target_repository_name": "cs141-w26-lab3a-aresalvarado",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-aresalvarado"
+    },
+    {
+        "reviewer_username": "elizabethmwatkins",
+        "target_username": "CHAdinna",
+        "target_repository_id": 1139212901,
+        "target_repository_name": "cs141-w26-lab3a-CHAdinna",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-CHAdinna"
+    },
+    {
+        "reviewer_username": "elizabethmwatkins",
+        "target_username": "pjtsearch",
+        "target_repository_id": 1139210485,
+        "target_repository_name": "cs141-w26-lab3a-pjtsearch",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pjtsearch"
+    },
+    {
+        "reviewer_username": "x1d1",
+        "target_username": "kamyyywang",
+        "target_repository_id": 1139207911,
+        "target_repository_name": "cs141-w26-lab3a-kamyyywang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-kamyyywang"
+    },
+    {
+        "reviewer_username": "x1d1",
+        "target_username": "Atif-Ahmad",
+        "target_repository_id": 1139212393,
+        "target_repository_name": "cs141-w26-lab3a-Atif-Ahmad",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Atif-Ahmad"
+    },
+    {
+        "reviewer_username": "christianacho",
+        "target_username": "jifanf1",
+        "target_repository_id": 1139208641,
+        "target_repository_name": "cs141-w26-lab3a-jifanf1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-jifanf1"
+    },
+    {
+        "reviewer_username": "christianacho",
+        "target_username": "DylanVuong3",
+        "target_repository_id": 1139375762,
+        "target_repository_name": "cs141-w26-lab3c-DylanVuong3",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-DylanVuong3"
+    },
+    {
+        "reviewer_username": "seungl25",
+        "target_username": "ebangerz",
+        "target_repository_id": 1139210545,
+        "target_repository_name": "cs141-w26-lab3a-ebangerz",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-ebangerz"
+    },
+    {
+        "reviewer_username": "seungl25",
+        "target_username": "Dhivyno",
+        "target_repository_id": 1139207856,
+        "target_repository_name": "cs141-w26-lab3a-Dhivyno",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Dhivyno"
+    },
+    {
+        "reviewer_username": "Kraufdeen",
+        "target_username": "Dpoin23",
+        "target_repository_id": 1139375856,
+        "target_repository_name": "cs141-w26-lab3c-Dpoin23",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Dpoin23"
+    },
+    {
+        "reviewer_username": "Kraufdeen",
+        "target_username": "thomasn05",
+        "target_repository_id": 1139375767,
+        "target_repository_name": "cs141-w26-lab3c-thomasn05",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-thomasn05"
+    },
+    {
+        "reviewer_username": "alvarov17",
+        "target_username": "Mr-Merp",
+        "target_repository_id": 1139378110,
+        "target_repository_name": "cs141-w26-lab3c-Mr-Merp",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Mr-Merp"
+    },
+    {
+        "reviewer_username": "alvarov17",
+        "target_username": "ImRayyaan",
+        "target_repository_id": 1139378687,
+        "target_repository_name": "cs141-w26-lab3c-ImRayyaan",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ImRayyaan"
+    },
+    {
+        "reviewer_username": "EliranAvigani",
+        "target_username": "Ewuman",
+        "target_repository_id": 1139376522,
+        "target_repository_name": "cs141-w26-lab3c-Ewuman",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Ewuman"
+    },
+    {
+        "reviewer_username": "EliranAvigani",
+        "target_username": "galhamda-create",
+        "target_repository_id": 1139381575,
+        "target_repository_name": "cs141-w26-lab3c-galhamda-create",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-galhamda-create"
+    },
+    {
+        "reviewer_username": "nyelgireddy",
+        "target_username": "sunjaelee3",
+        "target_repository_id": 1139378114,
+        "target_repository_name": "cs141-w26-lab3c-sunjaelee3",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-sunjaelee3"
+    },
+    {
+        "reviewer_username": "nyelgireddy",
+        "target_username": "PartiNoone",
+        "target_repository_id": 1139375882,
+        "target_repository_name": "cs141-w26-lab3c-PartiNoone",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-PartiNoone"
+    },
+    {
+        "reviewer_username": "rykubota",
+        "target_username": "mjliu5",
+        "target_repository_id": 1139376509,
+        "target_repository_name": "cs141-w26-lab3c-mjliu5",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-mjliu5"
+    },
+    {
+        "reviewer_username": "rykubota",
+        "target_username": "kristerduster",
+        "target_repository_id": 1139210562,
+        "target_repository_name": "cs141-w26-lab3a-kristerduster",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-kristerduster"
+    },
+    {
+        "reviewer_username": "joshngn",
+        "target_username": "sasakip-uci-edu",
+        "target_repository_id": 1139378210,
+        "target_repository_name": "cs141-w26-lab3c-sasakip-uci-edu",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-sasakip-uci-edu"
+    },
+    {
+        "reviewer_username": "joshngn",
+        "target_username": "laurajacint0",
+        "target_repository_id": 1139208940,
+        "target_repository_name": "cs141-w26-lab3a-laurajacint0",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-laurajacint0"
+    },
+    {
+        "reviewer_username": "sasha-oconnor",
+        "target_username": "dragonkeon",
+        "target_repository_id": 1139380076,
+        "target_repository_name": "cs141-w26-lab3c-dragonkeon",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-dragonkeon"
+    },
+    {
+        "reviewer_username": "sasha-oconnor",
+        "target_username": "ethanvotran20",
+        "target_repository_id": 1139210542,
+        "target_repository_name": "cs141-w26-lab3a-ethanvotran20",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-ethanvotran20"
+    },
+    {
+        "reviewer_username": "techsgithub",
+        "target_username": "kevinh-a",
+        "target_repository_id": 1139375899,
+        "target_repository_name": "cs141-w26-lab3c-kevinh-a",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-kevinh-a"
+    },
+    {
+        "reviewer_username": "techsgithub",
+        "target_username": "clairdelunesolace",
+        "target_repository_id": 1139207873,
+        "target_repository_name": "cs141-w26-lab3a-clairdelunesolace",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-clairdelunesolace"
+    },
+    {
+        "reviewer_username": "lenat05",
+        "target_username": "ermmre",
+        "target_repository_id": 1139213653,
+        "target_repository_name": "cs141-w26-lab3a-ermmre",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-ermmre"
+    },
+    {
+        "reviewer_username": "lenat05",
+        "target_username": "1JunHuang",
+        "target_repository_id": 1139377061,
+        "target_repository_name": "cs141-w26-lab3c-1JunHuang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-1JunHuang"
+    },
+    {
+        "reviewer_username": "BrittenEtchison",
+        "target_username": "vmrenter-code",
+        "target_repository_id": 1139375780,
+        "target_repository_name": "cs141-w26-lab3c-vmrenter-code",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-vmrenter-code"
+    },
+    {
+        "reviewer_username": "BrittenEtchison",
+        "target_username": "kbattson",
+        "target_repository_id": 1139375917,
+        "target_repository_name": "cs141-w26-lab3c-kbattson",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-kbattson"
+    },
+    {
+        "reviewer_username": "phelixxthecat",
+        "target_username": "jiyu02",
+        "target_repository_id": 1139376051,
+        "target_repository_name": "cs141-w26-lab3c-jiyu02",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-jiyu02"
+    },
+    {
+        "reviewer_username": "phelixxthecat",
+        "target_username": "esivorap",
+        "target_repository_id": 1139210495,
+        "target_repository_name": "cs141-w26-lab3a-esivorap",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-esivorap"
+    },
+    {
+        "reviewer_username": "andrewwsou",
+        "target_username": "Dhivyno",
+        "target_repository_id": 1139207856,
+        "target_repository_name": "cs141-w26-lab3a-Dhivyno",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Dhivyno"
+    },
+    {
+        "reviewer_username": "andrewwsou",
+        "target_username": "jifanf1",
+        "target_repository_id": 1139208641,
+        "target_repository_name": "cs141-w26-lab3a-jifanf1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-jifanf1"
+    },
+    {
+        "reviewer_username": "TJHomeworkHub",
+        "target_username": "aputty11",
+        "target_repository_id": 1139375772,
+        "target_repository_name": "cs141-w26-lab3c-aputty11",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-aputty11"
+    },
+    {
+        "reviewer_username": "TJHomeworkHub",
+        "target_username": "AdiAnteater",
+        "target_repository_id": 1139381588,
+        "target_repository_name": "cs141-w26-lab3c-AdiAnteater",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AdiAnteater"
+    },
+    {
+        "reviewer_username": "willm326",
+        "target_username": "Neilk1021",
+        "target_repository_id": 1139376168,
+        "target_repository_name": "cs141-w26-lab3c-Neilk1021",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Neilk1021"
+    },
+    {
+        "reviewer_username": "willm326",
+        "target_username": "avanaaap",
+        "target_repository_id": 1139210834,
+        "target_repository_name": "cs141-w26-lab3a-avanaaap",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-avanaaap"
+    },
+    {
+        "reviewer_username": "daviddeng0smm",
+        "target_username": "Jajavon",
+        "target_repository_id": 1139207807,
+        "target_repository_name": "cs141-w26-lab3a-Jajavon",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Jajavon"
+    },
+    {
+        "reviewer_username": "daviddeng0smm",
+        "target_username": "Benny237",
+        "target_repository_id": 1139375799,
+        "target_repository_name": "cs141-w26-lab3c-Benny237",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Benny237"
+    },
+    {
+        "reviewer_username": "gymPotato-1",
+        "target_username": "emiliolim",
+        "target_repository_id": 1139210529,
+        "target_repository_name": "cs141-w26-lab3a-emiliolim",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-emiliolim"
+    },
+    {
+        "reviewer_username": "gymPotato-1",
+        "target_username": "apoolla114",
+        "target_repository_id": 1139375755,
+        "target_repository_name": "cs141-w26-lab3c-apoolla114",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-apoolla114"
+    },
+    {
+        "reviewer_username": "firewuf",
+        "target_username": "supanice-uci",
+        "target_repository_id": 1139375770,
+        "target_repository_name": "cs141-w26-lab3c-supanice-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-supanice-uci"
+    },
+    {
+        "reviewer_username": "firewuf",
+        "target_username": "ArchieSeh",
+        "target_repository_id": 1139376118,
+        "target_repository_name": "cs141-w26-lab3c-ArchieSeh",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ArchieSeh"
+    },
+    {
+        "reviewer_username": "timkim0106",
+        "target_username": "lukashauge",
+        "target_repository_id": 1139376348,
+        "target_repository_name": "cs141-w26-lab3c-lukashauge",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-lukashauge"
+    },
+    {
+        "reviewer_username": "timkim0106",
+        "target_username": "PNZ-z",
+        "target_repository_id": 1139208817,
+        "target_repository_name": "cs141-w26-lab3a-PNZ-z",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-PNZ-z"
+    },
+    {
+        "reviewer_username": "rsljhns",
+        "target_username": "KunGeng",
+        "target_repository_id": 1139208744,
+        "target_repository_name": "cs141-w26-lab3a-KunGeng",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-KunGeng"
+    },
+    {
+        "reviewer_username": "rsljhns",
+        "target_username": "MNUQUI",
+        "target_repository_id": 1139476770,
+        "target_repository_name": "cs141-w26-lab3c-MNUQUI",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-MNUQUI"
+    },
+    {
+        "reviewer_username": "Wheeledparasite",
+        "target_username": "MichaelP222",
+        "target_repository_id": 1139376350,
+        "target_repository_name": "cs141-w26-lab3c-MichaelP222",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-MichaelP222"
+    },
+    {
+        "reviewer_username": "Wheeledparasite",
+        "target_username": "pjtsearch",
+        "target_repository_id": 1139210485,
+        "target_repository_name": "cs141-w26-lab3a-pjtsearch",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pjtsearch"
+    },
+    {
+        "reviewer_username": "sradisay",
+        "target_username": "zhcaury2",
+        "target_repository_id": 1139208800,
+        "target_repository_name": "cs141-w26-lab3a-zhcaury2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-zhcaury2"
+    },
+    {
+        "reviewer_username": "sradisay",
+        "target_username": "duyaj",
+        "target_repository_id": 1139379062,
+        "target_repository_name": "cs141-w26-lab3c-duyaj",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-duyaj"
+    },
+    {
+        "reviewer_username": "Epic-Mushroom",
+        "target_username": "BradyCason",
+        "target_repository_id": 1139207806,
+        "target_repository_name": "cs141-w26-lab3a-BradyCason",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-BradyCason"
+    },
+    {
+        "reviewer_username": "Epic-Mushroom",
+        "target_username": "Rohit-rarichan",
+        "target_repository_id": 1139218941,
+        "target_repository_name": "cs141-w26-lab3a-Rohit-rarichan",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Rohit-rarichan"
+    },
+    {
+        "reviewer_username": "heechy33",
+        "target_username": "moonluno",
+        "target_repository_id": 1139207986,
+        "target_repository_name": "cs141-w26-lab3a-moonluno",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-moonluno"
+    },
+    {
+        "reviewer_username": "heechy33",
+        "target_username": "JimmyZzz30",
+        "target_repository_id": 1139381579,
+        "target_repository_name": "cs141-w26-lab3c-JimmyZzz30",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-JimmyZzz30"
+    },
+    {
+        "reviewer_username": "yuchuehw",
+        "target_username": "jjdonckels",
+        "target_repository_id": 1139376028,
+        "target_repository_name": "cs141-w26-lab3c-jjdonckels",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-jjdonckels"
+    },
+    {
+        "reviewer_username": "yuchuehw",
+        "target_username": "20chino05",
+        "target_repository_id": 1139376843,
+        "target_repository_name": "cs141-w26-lab3c-20chino05",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-20chino05"
+    },
+    {
+        "reviewer_username": "echennau",
+        "target_username": "EatKFCinMc",
+        "target_repository_id": 1139375758,
+        "target_repository_name": "cs141-w26-lab3c-EatKFCinMc",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-EatKFCinMc"
+    },
+    {
+        "reviewer_username": "echennau",
+        "target_username": "gcjong030",
+        "target_repository_id": 1139375973,
+        "target_repository_name": "cs141-w26-lab3c-gcjong030",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-gcjong030"
+    },
+    {
+        "reviewer_username": "sahirsh",
+        "target_username": "chriscc5",
+        "target_repository_id": 1139375885,
+        "target_repository_name": "cs141-w26-lab3c-chriscc5",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-chriscc5"
+    },
+    {
+        "reviewer_username": "sahirsh",
+        "target_username": "manihomafar",
+        "target_repository_id": 1139375773,
+        "target_repository_name": "cs141-w26-lab3c-manihomafar",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-manihomafar"
+    },
+    {
+        "reviewer_username": "edenradulescu",
+        "target_username": "NotJonny1",
+        "target_repository_id": 1139376708,
+        "target_repository_name": "cs141-w26-lab3c-NotJonny1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-NotJonny1"
+    },
+    {
+        "reviewer_username": "edenradulescu",
+        "target_username": "Tiffannyy",
+        "target_repository_id": 1139207831,
+        "target_repository_name": "cs141-w26-lab3a-Tiffannyy",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Tiffannyy"
+    },
+    {
+        "reviewer_username": "oglantz",
+        "target_username": "noahk004",
+        "target_repository_id": 1139213875,
+        "target_repository_name": "cs141-w26-lab3a-noahk004",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-noahk004"
+    },
+    {
+        "reviewer_username": "oglantz",
+        "target_username": "devg1ics",
+        "target_repository_id": 1139378293,
+        "target_repository_name": "cs141-w26-lab3c-devg1ics",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-devg1ics"
+    },
+    {
+        "reviewer_username": "abhinavuppala",
+        "target_username": "xsjsgfdysd",
+        "target_repository_id": 1139379781,
+        "target_repository_name": "cs141-w26-lab3c-xsjsgfdysd",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-xsjsgfdysd"
+    },
+    {
+        "reviewer_username": "abhinavuppala",
+        "target_username": "marcusl07",
+        "target_repository_id": 1139385974,
+        "target_repository_name": "cs141-w26-lab3c-marcusl07",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-marcusl07"
+    },
+    {
+        "reviewer_username": "mvttjb",
+        "target_username": "AnviM1",
+        "target_repository_id": 1139208935,
+        "target_repository_name": "cs141-w26-lab3a-AnviM1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-AnviM1"
+    },
+    {
+        "reviewer_username": "mvttjb",
+        "target_username": "AshGasparyanCS",
+        "target_repository_id": 1139375774,
+        "target_repository_name": "cs141-w26-lab3c-AshGasparyanCS",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AshGasparyanCS"
+    },
+    {
+        "reviewer_username": "alemg2004",
+        "target_username": "CHAdinna",
+        "target_repository_id": 1139212901,
+        "target_repository_name": "cs141-w26-lab3a-CHAdinna",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-CHAdinna"
+    },
+    {
+        "reviewer_username": "alemg2004",
+        "target_username": "myn13",
+        "target_repository_id": 1139375870,
+        "target_repository_name": "cs141-w26-lab3c-myn13",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-myn13"
+    },
+    {
+        "reviewer_username": "LentKe",
+        "target_username": "kamyyywang",
+        "target_repository_id": 1139207911,
+        "target_repository_name": "cs141-w26-lab3a-kamyyywang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-kamyyywang"
+    },
+    {
+        "reviewer_username": "LentKe",
+        "target_username": "arjunk76",
+        "target_repository_id": 1139375951,
+        "target_repository_name": "cs141-w26-lab3c-arjunk76",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-arjunk76"
+    },
+    {
+        "reviewer_username": "yeqiw1",
+        "target_username": "EpicToastTM",
+        "target_repository_id": 1139375867,
+        "target_repository_name": "cs141-w26-lab3c-EpicToastTM",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-EpicToastTM"
+    },
+    {
+        "reviewer_username": "yeqiw1",
+        "target_username": "KayleTruong",
+        "target_repository_id": 1139207830,
+        "target_repository_name": "cs141-w26-lab3a-KayleTruong",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-KayleTruong"
+    },
+    {
+        "reviewer_username": "sehop1-source",
+        "target_username": "6LEON8",
+        "target_repository_id": 1139376335,
+        "target_repository_name": "cs141-w26-lab3c-6LEON8",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-6LEON8"
+    },
+    {
+        "reviewer_username": "sehop1-source",
+        "target_username": "pub1icstaticvoid",
+        "target_repository_id": 1139227661,
+        "target_repository_name": "cs141-w26-lab3a-pub1icstaticvoid",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pub1icstaticvoid"
+    },
+    {
+        "reviewer_username": "brandog2039",
+        "target_username": "ethnvo",
+        "target_repository_id": 1139388941,
+        "target_repository_name": "cs141-w26-lab3c-ethnvo",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-ethnvo"
+    },
+    {
+        "reviewer_username": "brandog2039",
+        "target_username": "AlvinAKTran",
+        "target_repository_id": 1139376026,
+        "target_repository_name": "cs141-w26-lab3c-AlvinAKTran",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-AlvinAKTran"
+    },
+    {
+        "reviewer_username": "winstonjgiang",
+        "target_username": "wdrobish",
+        "target_repository_id": 1139375782,
+        "target_repository_name": "cs141-w26-lab3c-wdrobish",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-wdrobish"
+    },
+    {
+        "reviewer_username": "winstonjgiang",
+        "target_username": "Ava-Kopecky",
+        "target_repository_id": 1139375842,
+        "target_repository_name": "cs141-w26-lab3c-Ava-Kopecky",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-Ava-Kopecky"
+    },
+    {
+        "reviewer_username": "eshahrestany",
+        "target_username": "jordan-m-finn",
+        "target_repository_id": 1139207902,
+        "target_repository_name": "cs141-w26-lab3a-jordan-m-finn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-jordan-m-finn"
+    },
+    {
+        "reviewer_username": "eshahrestany",
+        "target_username": "haoqp1",
+        "target_repository_id": 1139375942,
+        "target_repository_name": "cs141-w26-lab3c-haoqp1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3c-haoqp1"
+    },
+    {
+        "reviewer_username": "Frank808-Git",
+        "target_username": "HsuAustin",
+        "target_repository_id": 1139284121,
+        "target_repository_name": "cs141-w26-lab3b-HsuAustin",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-HsuAustin"
+    },
+    {
+        "reviewer_username": "Frank808-Git",
+        "target_username": "TonyYao8271",
+        "target_repository_id": 1139284188,
+        "target_repository_name": "cs141-w26-lab3b-TonyYao8271",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-TonyYao8271"
+    },
+    {
+        "reviewer_username": "apoolla114",
+        "target_username": "ryanrT27",
+        "target_repository_id": 1139284060,
+        "target_repository_name": "cs141-w26-lab3b-ryanrT27",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-ryanrT27"
+    },
+    {
+        "reviewer_username": "apoolla114",
+        "target_username": "nctam2",
+        "target_repository_id": 1139284125,
+        "target_repository_name": "cs141-w26-lab3b-nctam2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nctam2"
+    },
+    {
+        "reviewer_username": "EatKFCinMc",
+        "target_username": "GreasySponge",
+        "target_repository_id": 1139284145,
+        "target_repository_name": "cs141-w26-lab3b-GreasySponge",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-GreasySponge"
+    },
+    {
+        "reviewer_username": "EatKFCinMc",
+        "target_username": "Wheeledparasite",
+        "target_repository_id": 1139288137,
+        "target_repository_name": "cs141-w26-lab3b-Wheeledparasite",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Wheeledparasite"
+    },
+    {
+        "reviewer_username": "DylanVuong3",
+        "target_username": "ninal11",
+        "target_repository_id": 1139283981,
+        "target_repository_name": "cs141-w26-lab3b-ninal11",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-ninal11"
+    },
+    {
+        "reviewer_username": "DylanVuong3",
+        "target_username": "rsljhns",
+        "target_repository_id": 1139288088,
+        "target_repository_name": "cs141-w26-lab3b-rsljhns",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-rsljhns"
+    },
+    {
+        "reviewer_username": "thomasn05",
+        "target_username": "EliranAvigani",
+        "target_repository_id": 1139284576,
+        "target_repository_name": "cs141-w26-lab3b-EliranAvigani",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-EliranAvigani"
+    },
+    {
+        "reviewer_username": "thomasn05",
+        "target_username": "rykubota",
+        "target_repository_id": 1139284709,
+        "target_repository_name": "cs141-w26-lab3b-rykubota",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-rykubota"
+    },
+    {
+        "reviewer_username": "iamshauryag",
+        "target_username": "andrewwsou",
+        "target_repository_id": 1139285795,
+        "target_repository_name": "cs141-w26-lab3b-andrewwsou",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-andrewwsou"
+    },
+    {
+        "reviewer_username": "iamshauryag",
+        "target_username": "achakka24",
+        "target_repository_id": 1139284039,
+        "target_repository_name": "cs141-w26-lab3b-achakka24",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-achakka24"
+    },
+    {
+        "reviewer_username": "supanice-uci",
+        "target_username": "bqtquach",
+        "target_repository_id": 1139284259,
+        "target_repository_name": "cs141-w26-lab3b-bqtquach",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-bqtquach"
+    },
+    {
+        "reviewer_username": "supanice-uci",
+        "target_username": "joshngn",
+        "target_repository_id": 1139284830,
+        "target_repository_name": "cs141-w26-lab3b-joshngn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-joshngn"
+    },
+    {
+        "reviewer_username": "manihomafar",
+        "target_username": "gymPotato-1",
+        "target_repository_id": 1139286494,
+        "target_repository_name": "cs141-w26-lab3b-gymPotato-1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-gymPotato-1"
+    },
+    {
+        "reviewer_username": "manihomafar",
+        "target_username": "yilis15",
+        "target_repository_id": 1139284241,
+        "target_repository_name": "cs141-w26-lab3b-yilis15",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-yilis15"
+    },
+    {
+        "reviewer_username": "aputty11",
+        "target_username": "iiBooque",
+        "target_repository_id": 1139284312,
+        "target_repository_name": "cs141-w26-lab3b-iiBooque",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-iiBooque"
+    },
+    {
+        "reviewer_username": "aputty11",
+        "target_username": "AidenFavish",
+        "target_repository_id": 1139284170,
+        "target_repository_name": "cs141-w26-lab3b-AidenFavish",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-AidenFavish"
+    },
+    {
+        "reviewer_username": "AshGasparyanCS",
+        "target_username": "jasonbm2",
+        "target_repository_id": 1139284069,
+        "target_repository_name": "cs141-w26-lab3b-jasonbm2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-jasonbm2"
+    },
+    {
+        "reviewer_username": "AshGasparyanCS",
+        "target_username": "lenat05",
+        "target_repository_id": 1139285308,
+        "target_repository_name": "cs141-w26-lab3b-lenat05",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-lenat05"
+    },
+    {
+        "reviewer_username": "Jinseyam",
+        "target_username": "yeqiw1",
+        "target_repository_id": 1139318593,
+        "target_repository_name": "cs141-w26-lab3b-yeqiw1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-yeqiw1"
+    },
+    {
+        "reviewer_username": "Jinseyam",
+        "target_username": "Epic-Mushroom",
+        "target_repository_id": 1139288595,
+        "target_repository_name": "cs141-w26-lab3b-Epic-Mushroom",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Epic-Mushroom"
+    },
+    {
+        "reviewer_username": "vmrenter-code",
+        "target_username": "nkimogpig",
+        "target_repository_id": 1139284198,
+        "target_repository_name": "cs141-w26-lab3b-nkimogpig",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nkimogpig"
+    },
+    {
+        "reviewer_username": "vmrenter-code",
+        "target_username": "alemg2004",
+        "target_repository_id": 1139306278,
+        "target_repository_name": "cs141-w26-lab3b-alemg2004",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-alemg2004"
+    },
+    {
+        "reviewer_username": "wdrobish",
+        "target_username": "JustinLi212",
+        "target_repository_id": 1139284004,
+        "target_repository_name": "cs141-w26-lab3b-JustinLi212",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-JustinLi212"
+    },
+    {
+        "reviewer_username": "wdrobish",
+        "target_username": "phelixxthecat",
+        "target_repository_id": 1139285666,
+        "target_repository_name": "cs141-w26-lab3b-phelixxthecat",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-phelixxthecat"
+    },
+    {
+        "reviewer_username": "jaack4",
+        "target_username": "twleochao",
+        "target_repository_id": 1139284080,
+        "target_repository_name": "cs141-w26-lab3b-twleochao",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-twleochao"
+    },
+    {
+        "reviewer_username": "jaack4",
+        "target_username": "timkim0106",
+        "target_repository_id": 1139288030,
+        "target_repository_name": "cs141-w26-lab3b-timkim0106",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-timkim0106"
+    },
+    {
+        "reviewer_username": "smuretta16",
+        "target_username": "mvttjb",
+        "target_repository_id": 1139303851,
+        "target_repository_name": "cs141-w26-lab3b-mvttjb",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-mvttjb"
+    },
+    {
+        "reviewer_username": "smuretta16",
+        "target_username": "edenradulescu",
+        "target_repository_id": 1139289634,
+        "target_repository_name": "cs141-w26-lab3b-edenradulescu",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-edenradulescu"
+    },
+    {
+        "reviewer_username": "Benny237",
+        "target_username": "CyanAnteater",
+        "target_repository_id": 1139283982,
+        "target_repository_name": "cs141-w26-lab3b-CyanAnteater",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-CyanAnteater"
+    },
+    {
+        "reviewer_username": "Benny237",
+        "target_username": "echennau",
+        "target_repository_id": 1139289585,
+        "target_repository_name": "cs141-w26-lab3b-echennau",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-echennau"
+    },
+    {
+        "reviewer_username": "VictorChen26",
+        "target_username": "phelixxthecat",
+        "target_repository_id": 1139285666,
+        "target_repository_name": "cs141-w26-lab3b-phelixxthecat",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-phelixxthecat"
+    },
+    {
+        "reviewer_username": "VictorChen26",
+        "target_username": "nathanlcheng",
+        "target_repository_id": 1139284063,
+        "target_repository_name": "cs141-w26-lab3b-nathanlcheng",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nathanlcheng"
+    },
+    {
+        "reviewer_username": "leec00260",
+        "target_username": "joshngn",
+        "target_repository_id": 1139284830,
+        "target_repository_name": "cs141-w26-lab3b-joshngn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-joshngn"
+    },
+    {
+        "reviewer_username": "leec00260",
+        "target_username": "yeqiw1",
+        "target_repository_id": 1139318593,
+        "target_repository_name": "cs141-w26-lab3b-yeqiw1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-yeqiw1"
+    },
+    {
+        "reviewer_username": "ZhouhengTao",
+        "target_username": "alemg2004",
+        "target_repository_id": 1139306278,
+        "target_repository_name": "cs141-w26-lab3b-alemg2004",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-alemg2004"
+    },
+    {
+        "reviewer_username": "ZhouhengTao",
+        "target_username": "bqtquach",
+        "target_repository_id": 1139284259,
+        "target_repository_name": "cs141-w26-lab3b-bqtquach",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-bqtquach"
+    },
+    {
+        "reviewer_username": "Lekzs",
+        "target_username": "yilis15",
+        "target_repository_id": 1139284241,
+        "target_repository_name": "cs141-w26-lab3b-yilis15",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-yilis15"
+    },
+    {
+        "reviewer_username": "Lekzs",
+        "target_username": "seungl25",
+        "target_repository_id": 1139284539,
+        "target_repository_name": "cs141-w26-lab3b-seungl25",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-seungl25"
+    },
+    {
+        "reviewer_username": "AntonioCuan",
+        "target_username": "Epic-Mushroom",
+        "target_repository_id": 1139288595,
+        "target_repository_name": "cs141-w26-lab3b-Epic-Mushroom",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Epic-Mushroom"
+    },
+    {
+        "reviewer_username": "AntonioCuan",
+        "target_username": "HsuAustin",
+        "target_repository_id": 1139284121,
+        "target_repository_name": "cs141-w26-lab3b-HsuAustin",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-HsuAustin"
+    },
+    {
+        "reviewer_username": "Ava-Kopecky",
+        "target_username": "dsilluci",
+        "target_repository_id": 1139208853,
+        "target_repository_name": "cs141-w26-lab3a-dsilluci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-dsilluci"
+    },
+    {
+        "reviewer_username": "Ava-Kopecky",
+        "target_username": "sasha-oconnor",
+        "target_repository_id": 1139284911,
+        "target_repository_name": "cs141-w26-lab3b-sasha-oconnor",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sasha-oconnor"
+    },
+    {
+        "reviewer_username": "Dpoin23",
+        "target_username": "brandog2039",
+        "target_repository_id": 1139344072,
+        "target_repository_name": "cs141-w26-lab3b-brandog2039",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-brandog2039"
+    },
+    {
+        "reviewer_username": "Dpoin23",
+        "target_username": "Alexander-Tu2",
+        "target_repository_id": 1139284114,
+        "target_repository_name": "cs141-w26-lab3b-Alexander-Tu2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Alexander-Tu2"
+    },
+    {
+        "reviewer_username": "ganeevsinghs",
+        "target_username": "twleochao",
+        "target_repository_id": 1139284080,
+        "target_repository_name": "cs141-w26-lab3b-twleochao",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-twleochao"
+    },
+    {
+        "reviewer_username": "ganeevsinghs",
+        "target_username": "hivgundamss",
+        "target_repository_id": 1139208811,
+        "target_repository_name": "cs141-w26-lab3a-hivgundamss",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-hivgundamss"
+    },
+    {
+        "reviewer_username": "EpicToastTM",
+        "target_username": "willm326",
+        "target_repository_id": 1139286317,
+        "target_repository_name": "cs141-w26-lab3b-willm326",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-willm326"
+    },
+    {
+        "reviewer_username": "EpicToastTM",
+        "target_username": "lenat05",
+        "target_repository_id": 1139285308,
+        "target_repository_name": "cs141-w26-lab3b-lenat05",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-lenat05"
+    },
+    {
+        "reviewer_username": "myn13",
+        "target_username": "LittleLion930",
+        "target_repository_id": 1139284005,
+        "target_repository_name": "cs141-w26-lab3b-LittleLion930",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-LittleLion930"
+    },
+    {
+        "reviewer_username": "myn13",
+        "target_username": "laggycomputer",
+        "target_repository_id": 1139210541,
+        "target_repository_name": "cs141-w26-lab3a-laggycomputer",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-laggycomputer"
+    },
+    {
+        "reviewer_username": "PartiNoone",
+        "target_username": "elizabethmwatkins",
+        "target_repository_id": 1139284516,
+        "target_repository_name": "cs141-w26-lab3b-elizabethmwatkins",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-elizabethmwatkins"
+    },
+    {
+        "reviewer_username": "PartiNoone",
+        "target_username": "daviddeng0smm",
+        "target_repository_id": 1139286321,
+        "target_repository_name": "cs141-w26-lab3b-daviddeng0smm",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-daviddeng0smm"
+    },
+    {
+        "reviewer_username": "chriscc5",
+        "target_username": "firewuf",
+        "target_repository_id": 1139287119,
+        "target_repository_name": "cs141-w26-lab3b-firewuf",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-firewuf"
+    },
+    {
+        "reviewer_username": "chriscc5",
+        "target_username": "timkim0106",
+        "target_repository_id": 1139288030,
+        "target_repository_name": "cs141-w26-lab3b-timkim0106",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-timkim0106"
+    },
+    {
+        "reviewer_username": "varunia2",
+        "target_username": "sehop1-source",
+        "target_repository_id": 1139332117,
+        "target_repository_name": "cs141-w26-lab3b-sehop1-source",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sehop1-source"
+    },
+    {
+        "reviewer_username": "varunia2",
+        "target_username": "alvarov17",
+        "target_repository_id": 1139284550,
+        "target_repository_name": "cs141-w26-lab3b-alvarov17",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-alvarov17"
+    },
+    {
+        "reviewer_username": "kevinh-a",
+        "target_username": "abhinavuppala",
+        "target_repository_id": 1139291295,
+        "target_repository_name": "cs141-w26-lab3b-abhinavuppala",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-abhinavuppala"
+    },
+    {
+        "reviewer_username": "kevinh-a",
+        "target_username": "CyanAnteater",
+        "target_repository_id": 1139283982,
+        "target_repository_name": "cs141-w26-lab3b-CyanAnteater",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-CyanAnteater"
+    },
+    {
+        "reviewer_username": "spencerleaf",
+        "target_username": "drewreed2005",
+        "target_repository_id": 1139283990,
+        "target_repository_name": "cs141-w26-lab3b-drewreed2005",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-drewreed2005"
+    },
+    {
+        "reviewer_username": "spencerleaf",
+        "target_username": "rykubota",
+        "target_repository_id": 1139284709,
+        "target_repository_name": "cs141-w26-lab3b-rykubota",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-rykubota"
+    },
+    {
+        "reviewer_username": "kbattson",
+        "target_username": "Ranoldt",
+        "target_repository_id": 1139284149,
+        "target_repository_name": "cs141-w26-lab3b-Ranoldt",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Ranoldt"
+    },
+    {
+        "reviewer_username": "kbattson",
+        "target_username": "techsgithub",
+        "target_repository_id": 1139284922,
+        "target_repository_name": "cs141-w26-lab3b-techsgithub",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-techsgithub"
+    },
+    {
+        "reviewer_username": "haoqp1",
+        "target_username": "jasonbm2",
+        "target_repository_id": 1139284069,
+        "target_repository_name": "cs141-w26-lab3b-jasonbm2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-jasonbm2"
+    },
+    {
+        "reviewer_username": "haoqp1",
+        "target_username": "liuftuci",
+        "target_repository_id": 1139209117,
+        "target_repository_name": "cs141-w26-lab3a-liuftuci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-liuftuci"
+    },
+    {
+        "reviewer_username": "arjunk76",
+        "target_username": "Karbite",
+        "target_repository_id": 1139284147,
+        "target_repository_name": "cs141-w26-lab3b-Karbite",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Karbite"
+    },
+    {
+        "reviewer_username": "arjunk76",
+        "target_username": "NvyGreen",
+        "target_repository_id": 1139207892,
+        "target_repository_name": "cs141-w26-lab3a-NvyGreen",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-NvyGreen"
+    },
+    {
+        "reviewer_username": "gcjong030",
+        "target_username": "MubaiLi222",
+        "target_repository_id": 1139284506,
+        "target_repository_name": "cs141-w26-lab3b-MubaiLi222",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-MubaiLi222"
+    },
+    {
+        "reviewer_username": "gcjong030",
+        "target_username": "AidenFavish",
+        "target_repository_id": 1139284170,
+        "target_repository_name": "cs141-w26-lab3b-AidenFavish",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-AidenFavish"
+    },
+    {
+        "reviewer_username": "lucasli2",
+        "target_username": "ariyagowda",
+        "target_repository_id": 1139284345,
+        "target_repository_name": "cs141-w26-lab3b-ariyagowda",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-ariyagowda"
+    },
+    {
+        "reviewer_username": "lucasli2",
+        "target_username": "riyapanche",
+        "target_repository_id": 1139284169,
+        "target_repository_name": "cs141-w26-lab3b-riyapanche",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-riyapanche"
+    },
+    {
+        "reviewer_username": "AlvinAKTran",
+        "target_username": "Wheeledparasite",
+        "target_repository_id": 1139288137,
+        "target_repository_name": "cs141-w26-lab3b-Wheeledparasite",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Wheeledparasite"
+    },
+    {
+        "reviewer_username": "AlvinAKTran",
+        "target_username": "nkimogpig",
+        "target_repository_id": 1139284198,
+        "target_repository_name": "cs141-w26-lab3b-nkimogpig",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nkimogpig"
+    },
+    {
+        "reviewer_username": "jjdonckels",
+        "target_username": "Nicol-U",
+        "target_repository_id": 1139210563,
+        "target_repository_name": "cs141-w26-lab3a-Nicol-U",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Nicol-U"
+    },
+    {
+        "reviewer_username": "jjdonckels",
+        "target_username": "JustinLi212",
+        "target_repository_id": 1139284004,
+        "target_repository_name": "cs141-w26-lab3b-JustinLi212",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-JustinLi212"
+    },
+    {
+        "reviewer_username": "jiyu02",
+        "target_username": "lukes4-uci",
+        "target_repository_id": 1139284502,
+        "target_repository_name": "cs141-w26-lab3b-lukes4-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-lukes4-uci"
+    },
+    {
+        "reviewer_username": "jiyu02",
+        "target_username": "yuchuehw",
+        "target_repository_id": 1139289231,
+        "target_repository_name": "cs141-w26-lab3b-yuchuehw",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-yuchuehw"
+    },
+    {
+        "reviewer_username": "ArchieSeh",
+        "target_username": "mvttjb",
+        "target_repository_id": 1139303851,
+        "target_repository_name": "cs141-w26-lab3b-mvttjb",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-mvttjb"
+    },
+    {
+        "reviewer_username": "ArchieSeh",
+        "target_username": "alexpetro47",
+        "target_repository_id": 1139212331,
+        "target_repository_name": "cs141-w26-lab3a-alexpetro47",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-alexpetro47"
+    },
+    {
+        "reviewer_username": "Neilk1021",
+        "target_username": "triminhta1207",
+        "target_repository_id": 1139284182,
+        "target_repository_name": "cs141-w26-lab3b-triminhta1207",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-triminhta1207"
+    },
+    {
+        "reviewer_username": "Neilk1021",
+        "target_username": "eshahrestany",
+        "target_repository_id": 1139577167,
+        "target_repository_name": "cs141-w26-lab3b-eshahrestany",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-eshahrestany"
+    },
+    {
+        "reviewer_username": "itsmandrew",
+        "target_username": "TonyYao8271",
+        "target_repository_id": 1139284188,
+        "target_repository_name": "cs141-w26-lab3b-TonyYao8271",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-TonyYao8271"
+    },
+    {
+        "reviewer_username": "itsmandrew",
+        "target_username": "AllyBeary",
+        "target_repository_id": 1139284186,
+        "target_repository_name": "cs141-w26-lab3b-AllyBeary",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-AllyBeary"
+    },
+    {
+        "reviewer_username": "6LEON8",
+        "target_username": "JordanPham2002",
+        "target_repository_id": 1139284142,
+        "target_repository_name": "cs141-w26-lab3b-JordanPham2002",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-JordanPham2002"
+    },
+    {
+        "reviewer_username": "6LEON8",
+        "target_username": "winstonjgiang",
+        "target_repository_id": 1139486972,
+        "target_repository_name": "cs141-w26-lab3b-winstonjgiang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-winstonjgiang"
+    },
+    {
+        "reviewer_username": "lukashauge",
+        "target_username": "edenradulescu",
+        "target_repository_id": 1139289634,
+        "target_repository_name": "cs141-w26-lab3b-edenradulescu",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-edenradulescu"
+    },
+    {
+        "reviewer_username": "lukashauge",
+        "target_username": "achakka24",
+        "target_repository_id": 1139284039,
+        "target_repository_name": "cs141-w26-lab3b-achakka24",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-achakka24"
+    },
+    {
+        "reviewer_username": "MichaelP222",
+        "target_username": "maburto19",
+        "target_repository_id": 1139210510,
+        "target_repository_name": "cs141-w26-lab3a-maburto19",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-maburto19"
+    },
+    {
+        "reviewer_username": "MichaelP222",
+        "target_username": "pr1vatestaticfinal",
+        "target_repository_id": 1139226011,
+        "target_repository_name": "cs141-w26-lab3a-pr1vatestaticfinal",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pr1vatestaticfinal"
+    },
+    {
+        "reviewer_username": "sim-hub1",
+        "target_username": "LentKe",
+        "target_repository_id": 1139306700,
+        "target_repository_name": "cs141-w26-lab3b-LentKe",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-LentKe"
+    },
+    {
+        "reviewer_username": "sim-hub1",
+        "target_username": "Kraufdeen",
+        "target_repository_id": 1139284544,
+        "target_repository_name": "cs141-w26-lab3b-Kraufdeen",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Kraufdeen"
+    },
+    {
+        "reviewer_username": "mjliu5",
+        "target_username": "rsljhns",
+        "target_repository_id": 1139288088,
+        "target_repository_name": "cs141-w26-lab3b-rsljhns",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-rsljhns"
+    },
+    {
+        "reviewer_username": "mjliu5",
+        "target_username": "QuocTrinh-hub",
+        "target_repository_id": 1139284035,
+        "target_repository_name": "cs141-w26-lab3b-QuocTrinh-hub",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-QuocTrinh-hub"
+    },
+    {
+        "reviewer_username": "aditkantak",
+        "target_username": "andrewwsou",
+        "target_repository_id": 1139285795,
+        "target_repository_name": "cs141-w26-lab3b-andrewwsou",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-andrewwsou"
+    },
+    {
+        "reviewer_username": "aditkantak",
+        "target_username": "axelwennerlund",
+        "target_repository_id": 1139208813,
+        "target_repository_name": "cs141-w26-lab3a-axelwennerlund",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-axelwennerlund"
+    },
+    {
+        "reviewer_username": "Ewuman",
+        "target_username": "mtranfie",
+        "target_repository_id": 1139208292,
+        "target_repository_name": "cs141-w26-lab3a-mtranfie",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-mtranfie"
+    },
+    {
+        "reviewer_username": "Ewuman",
+        "target_username": "gymPotato-1",
+        "target_repository_id": 1139286494,
+        "target_repository_name": "cs141-w26-lab3b-gymPotato-1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-gymPotato-1"
+    },
+    {
+        "reviewer_username": "charlesyeh-1103",
+        "target_username": "sradisay",
+        "target_repository_id": 1139288275,
+        "target_repository_name": "cs141-w26-lab3b-sradisay",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sradisay"
+    },
+    {
+        "reviewer_username": "charlesyeh-1103",
+        "target_username": "x1d1",
+        "target_repository_id": 1139284528,
+        "target_repository_name": "cs141-w26-lab3b-x1d1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-x1d1"
+    },
+    {
+        "reviewer_username": "NotJonny1",
+        "target_username": "oglantz",
+        "target_repository_id": 1139289795,
+        "target_repository_name": "cs141-w26-lab3b-oglantz",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-oglantz"
+    },
+    {
+        "reviewer_username": "NotJonny1",
+        "target_username": "ninal11",
+        "target_repository_id": 1139283981,
+        "target_repository_name": "cs141-w26-lab3b-ninal11",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-ninal11"
+    },
+    {
+        "reviewer_username": "20chino05",
+        "target_username": "QNDang",
+        "target_repository_id": 1139284131,
+        "target_repository_name": "cs141-w26-lab3b-QNDang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-QNDang"
+    },
+    {
+        "reviewer_username": "20chino05",
+        "target_username": "anthon12-uci",
+        "target_repository_id": 1139284287,
+        "target_repository_name": "cs141-w26-lab3b-anthon12-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-anthon12-uci"
+    },
+    {
+        "reviewer_username": "1JunHuang",
+        "target_username": "ebangerz",
+        "target_repository_id": 1139210545,
+        "target_repository_name": "cs141-w26-lab3a-ebangerz",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-ebangerz"
+    },
+    {
+        "reviewer_username": "1JunHuang",
+        "target_username": "aresalvarado",
+        "target_repository_id": 1139210569,
+        "target_repository_name": "cs141-w26-lab3a-aresalvarado",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-aresalvarado"
+    },
+    {
+        "reviewer_username": "rheajethvani",
+        "target_username": "Atif-Ahmad",
+        "target_repository_id": 1139212393,
+        "target_repository_name": "cs141-w26-lab3a-Atif-Ahmad",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Atif-Ahmad"
+    },
+    {
+        "reviewer_username": "rheajethvani",
+        "target_username": "nxphan-uci",
+        "target_repository_id": 1139208835,
+        "target_repository_name": "cs141-w26-lab3a-nxphan-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-nxphan-uci"
+    },
+    {
+        "reviewer_username": "wendiiiiii",
+        "target_username": "iiBooque",
+        "target_repository_id": 1139284312,
+        "target_repository_name": "cs141-w26-lab3b-iiBooque",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-iiBooque"
+    },
+    {
+        "reviewer_username": "wendiiiiii",
+        "target_username": "nyelgireddy",
+        "target_repository_id": 1139284582,
+        "target_repository_name": "cs141-w26-lab3b-nyelgireddy",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nyelgireddy"
+    },
+    {
+        "reviewer_username": "vatsag-06",
+        "target_username": "GreasySponge",
+        "target_repository_id": 1139284145,
+        "target_repository_name": "cs141-w26-lab3b-GreasySponge",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-GreasySponge"
+    },
+    {
+        "reviewer_username": "vatsag-06",
+        "target_username": "cessar3",
+        "target_repository_id": 1139214098,
+        "target_repository_name": "cs141-w26-lab3a-cessar3",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-cessar3"
+    },
+    {
+        "reviewer_username": "Mr-Merp",
+        "target_username": "TJHomeworkHub",
+        "target_repository_id": 1139285796,
+        "target_repository_name": "cs141-w26-lab3b-TJHomeworkHub",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-TJHomeworkHub"
+    },
+    {
+        "reviewer_username": "Mr-Merp",
+        "target_username": "sahirsh",
+        "target_repository_id": 1139289589,
+        "target_repository_name": "cs141-w26-lab3b-sahirsh",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sahirsh"
+    },
+    {
+        "reviewer_username": "sunjaelee3",
+        "target_username": "charcod-jpg",
+        "target_repository_id": 1139209055,
+        "target_repository_name": "cs141-w26-lab3a-charcod-jpg",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-charcod-jpg"
+    },
+    {
+        "reviewer_username": "sunjaelee3",
+        "target_username": "christianacho",
+        "target_repository_id": 1139284530,
+        "target_repository_name": "cs141-w26-lab3b-christianacho",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-christianacho"
+    },
+    {
+        "reviewer_username": "sasakip-uci-edu",
+        "target_username": "nctam2",
+        "target_repository_id": 1139284125,
+        "target_repository_name": "cs141-w26-lab3b-nctam2",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-nctam2"
+    },
+    {
+        "reviewer_username": "sasakip-uci-edu",
+        "target_username": "EliranAvigani",
+        "target_repository_id": 1139284576,
+        "target_repository_name": "cs141-w26-lab3b-EliranAvigani",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-EliranAvigani"
+    },
+    {
+        "reviewer_username": "devg1ics",
+        "target_username": "heechy33",
+        "target_repository_id": 1139288633,
+        "target_repository_name": "cs141-w26-lab3b-heechy33",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-heechy33"
+    },
+    {
+        "reviewer_username": "devg1ics",
+        "target_username": "christinne-n",
+        "target_repository_id": 1139284166,
+        "target_repository_name": "cs141-w26-lab3b-christinne-n",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-christinne-n"
+    },
+    {
+        "reviewer_username": "fruitsaladyumyum",
+        "target_username": "BrittenEtchison",
+        "target_repository_id": 1139285644,
+        "target_repository_name": "cs141-w26-lab3b-BrittenEtchison",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-BrittenEtchison"
+    },
+    {
+        "reviewer_username": "fruitsaladyumyum",
+        "target_username": "AndrewShim0428",
+        "target_repository_id": 1139210612,
+        "target_repository_name": "cs141-w26-lab3a-AndrewShim0428",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-AndrewShim0428"
+    },
+    {
+        "reviewer_username": "Accelerator050717",
+        "target_username": "ryanrT27",
+        "target_repository_id": 1139284060,
+        "target_repository_name": "cs141-w26-lab3b-ryanrT27",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-ryanrT27"
+    },
+    {
+        "reviewer_username": "Accelerator050717",
+        "target_username": "joolenn",
+        "target_repository_id": 1139284082,
+        "target_repository_name": "cs141-w26-lab3b-joolenn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-joolenn"
+    },
+    {
+        "reviewer_username": "ImRayyaan",
+        "target_username": "LentKe",
+        "target_repository_id": 1139306700,
+        "target_repository_name": "cs141-w26-lab3b-LentKe",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-LentKe"
+    },
+    {
+        "reviewer_username": "ImRayyaan",
+        "target_username": "lenat05",
+        "target_repository_id": 1139285308,
+        "target_repository_name": "cs141-w26-lab3b-lenat05",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-lenat05"
+    },
+    {
+        "reviewer_username": "duyaj",
+        "target_username": "Dhivyno",
+        "target_repository_id": 1139207856,
+        "target_repository_name": "cs141-w26-lab3a-Dhivyno",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Dhivyno"
+    },
+    {
+        "reviewer_username": "duyaj",
+        "target_username": "oglantz",
+        "target_repository_id": 1139289795,
+        "target_repository_name": "cs141-w26-lab3b-oglantz",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-oglantz"
+    },
+    {
+        "reviewer_username": "noraessam",
+        "target_username": "noahk004",
+        "target_repository_id": 1139213875,
+        "target_repository_name": "cs141-w26-lab3a-noahk004",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-noahk004"
+    },
+    {
+        "reviewer_username": "noraessam",
+        "target_username": "MubaiLi222",
+        "target_repository_id": 1139284506,
+        "target_repository_name": "cs141-w26-lab3b-MubaiLi222",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-MubaiLi222"
+    },
+    {
+        "reviewer_username": "jy8liu",
+        "target_username": "joshngn",
+        "target_repository_id": 1139284830,
+        "target_repository_name": "cs141-w26-lab3b-joshngn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-joshngn"
+    },
+    {
+        "reviewer_username": "jy8liu",
+        "target_username": "clairdelunesolace",
+        "target_repository_id": 1139207873,
+        "target_repository_name": "cs141-w26-lab3a-clairdelunesolace",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-clairdelunesolace"
+    },
+    {
+        "reviewer_username": "xsjsgfdysd",
+        "target_username": "rsljhns",
+        "target_repository_id": 1139288088,
+        "target_repository_name": "cs141-w26-lab3b-rsljhns",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-rsljhns"
+    },
+    {
+        "reviewer_username": "xsjsgfdysd",
+        "target_username": "joolenn",
+        "target_repository_id": 1139284082,
+        "target_repository_name": "cs141-w26-lab3b-joolenn",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-joolenn"
+    },
+    {
+        "reviewer_username": "w4h009",
+        "target_username": "pr1vatestaticfinal",
+        "target_repository_id": 1139226011,
+        "target_repository_name": "cs141-w26-lab3a-pr1vatestaticfinal",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-pr1vatestaticfinal"
+    },
+    {
+        "reviewer_username": "w4h009",
+        "target_username": "rykubota",
+        "target_repository_id": 1139284709,
+        "target_repository_name": "cs141-w26-lab3b-rykubota",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-rykubota"
+    },
+    {
+        "reviewer_username": "sahirss",
+        "target_username": "sahirsh",
+        "target_repository_id": 1139289589,
+        "target_repository_name": "cs141-w26-lab3b-sahirsh",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sahirsh"
+    },
+    {
+        "reviewer_username": "sahirss",
+        "target_username": "christinne-n",
+        "target_repository_id": 1139284166,
+        "target_repository_name": "cs141-w26-lab3b-christinne-n",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-christinne-n"
+    },
+    {
+        "reviewer_username": "dragonkeon",
+        "target_username": "Wheeledparasite",
+        "target_repository_id": 1139288137,
+        "target_repository_name": "cs141-w26-lab3b-Wheeledparasite",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Wheeledparasite"
+    },
+    {
+        "reviewer_username": "dragonkeon",
+        "target_username": "echennau",
+        "target_repository_id": 1139289585,
+        "target_repository_name": "cs141-w26-lab3b-echennau",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-echennau"
+    },
+    {
+        "reviewer_username": "galhamda-create",
+        "target_username": "sradisay",
+        "target_repository_id": 1139288275,
+        "target_repository_name": "cs141-w26-lab3b-sradisay",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-sradisay"
+    },
+    {
+        "reviewer_username": "galhamda-create",
+        "target_username": "edenradulescu",
+        "target_repository_id": 1139289634,
+        "target_repository_name": "cs141-w26-lab3b-edenradulescu",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-edenradulescu"
+    },
+    {
+        "reviewer_username": "JimmyZzz30",
+        "target_username": "mtranfie",
+        "target_repository_id": 1139208292,
+        "target_repository_name": "cs141-w26-lab3a-mtranfie",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-mtranfie"
+    },
+    {
+        "reviewer_username": "JimmyZzz30",
+        "target_username": "lukes4-uci",
+        "target_repository_id": 1139284502,
+        "target_repository_name": "cs141-w26-lab3b-lukes4-uci",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-lukes4-uci"
+    },
+    {
+        "reviewer_username": "AdiAnteater",
+        "target_username": "laurajacint0",
+        "target_repository_id": 1139208940,
+        "target_repository_name": "cs141-w26-lab3a-laurajacint0",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-laurajacint0"
+    },
+    {
+        "reviewer_username": "AdiAnteater",
+        "target_username": "KunGeng",
+        "target_repository_id": 1139208744,
+        "target_repository_name": "cs141-w26-lab3a-KunGeng",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-KunGeng"
+    },
+    {
+        "reviewer_username": "Jthoeung",
+        "target_username": "winstonjgiang",
+        "target_repository_id": 1139486972,
+        "target_repository_name": "cs141-w26-lab3b-winstonjgiang",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-winstonjgiang"
+    },
+    {
+        "reviewer_username": "Jthoeung",
+        "target_username": "heechy33",
+        "target_repository_id": 1139288633,
+        "target_repository_name": "cs141-w26-lab3b-heechy33",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-heechy33"
+    },
+    {
+        "reviewer_username": "agamvirmandair",
+        "target_username": "AnviM1",
+        "target_repository_id": 1139208935,
+        "target_repository_name": "cs141-w26-lab3a-AnviM1",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-AnviM1"
+    },
+    {
+        "reviewer_username": "agamvirmandair",
+        "target_username": "Kraufdeen",
+        "target_repository_id": 1139284544,
+        "target_repository_name": "cs141-w26-lab3b-Kraufdeen",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-Kraufdeen"
+    },
+    {
+        "reviewer_username": "marcusl07",
+        "target_username": "alvarov17",
+        "target_repository_id": 1139284550,
+        "target_repository_name": "cs141-w26-lab3b-alvarov17",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-alvarov17"
+    },
+    {
+        "reviewer_username": "marcusl07",
+        "target_username": "brandog2039",
+        "target_repository_id": 1139344072,
+        "target_repository_name": "cs141-w26-lab3b-brandog2039",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-brandog2039"
+    },
+    {
+        "reviewer_username": "ethnvo",
+        "target_username": "drewreed2005",
+        "target_repository_id": 1139283990,
+        "target_repository_name": "cs141-w26-lab3b-drewreed2005",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3b-drewreed2005"
+    },
+    {
+        "reviewer_username": "ethnvo",
+        "target_username": "Atif-Ahmad",
+        "target_repository_id": 1139212393,
+        "target_repository_name": "cs141-w26-lab3a-Atif-Ahmad",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Atif-Ahmad"
+    },
+    {
+        "reviewer_username": "MNUQUI",
+        "target_username": "NvyGreen",
+        "target_repository_id": 1139207892,
+        "target_repository_name": "cs141-w26-lab3a-NvyGreen",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-NvyGreen"
+    },
+    {
+        "reviewer_username": "MNUQUI",
+        "target_username": "Tiffannyy",
+        "target_repository_id": 1139207831,
+        "target_repository_name": "cs141-w26-lab3a-Tiffannyy",
+        "target_repository_url": "https://github.com/klefstad-teaching/cs141-w26-lab3a-Tiffannyy"
+    }
+]

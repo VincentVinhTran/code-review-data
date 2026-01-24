@@ -1,0 +1,1194 @@
+Student,ID,SIS User ID,SIS Login ID,Section,Email Address,GitHub Username,Submitted,Reviews Assigned,Reviews Completed,Reactions,Notes,Number of Reviewers,Feedback
+,,,,,,,,,,,,,
+    Points Possible,,,,,,,,,,,,,
+"Aburto, Mia Desiree",409398,2435872,maburto,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),miadesiree190@gmail.com,maburto19,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-daviddeng0smm
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-winstonjgiang
+Missing ['reaction'] for cs141-w26-lab3b-daviddeng0smm
+Missing ['reaction'] for cs141-w26-lab3b-winstonjgiang",2.0,"nkimogpig commented: ""Constructor could use an initializer list
+Package(..., const string& d) : trackingID(id), weight(w), dest(d) {}""
+MichaelP222 commented: ""The implementation looks solid. Consider renaming T and T2 to more descriptive names like IDT and WeightT to make the code easier to read."""
+"Adinna, Chidubem Henry",414549,2448854,adinnac,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),adinnac@uci.edu,CHAdinna,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-echennau
+Missing ['comment', 'reply'] for cs141-w26-lab3b-JordanPham2002
+Missing ['reaction'] for cs141-w26-lab3b-echennau
+Missing ['reaction'] for cs141-w26-lab3b-JordanPham2002",1.0,"alemg2004 commented: ""One small thing I noticed in your constructor, you could use an initializer list instead of assignment in the body."""
+"Agrawal, Varuni",378585,2182472,varunia,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),varunia@uci.edu,varunia2,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sehop1-source
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-alvarov17
+Missing ['reaction'] for cs141-w26-lab3b-sehop1-source
+Missing ['reaction'] for cs141-w26-lab3b-alvarov17",2.0,"GreasySponge commented: ""Looks good. The labeling of the template types as ""TBattery"" and ""TVersion"" is a good touch for improving readability.""
+aresalvarado reacted to your comment :eyes:
+aresalvarado reacted to your comment :+1:"
+"Ahmad, Atif",415656,2464172,atifa2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),atifa2@uci.edu,Atif-Ahmad,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-fruitsaladyumyum
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-anthon12-uci
+Missing ['reaction'] for cs141-w26-lab3c-fruitsaladyumyum
+Missing ['reaction'] for cs141-w26-lab3b-anthon12-uci",2.0,"rheajethvani commented: ""Good change switching trackingID / weight to template types (T, U) and updating the getters + main() instantiations accordingly. Looks super clean!""
+x1d1 commented: ""Looks good! In the future, maybe consider overloading the insertion operator for the output stream to cut down on the boilerplate code."""
+"Ajavon, Jonathan Yannick Emanuel",351487,2135886,jajavon,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jajavon@uci.edu,Jajavon,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-yuchuehw
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-riyapanche
+Missing ['reaction'] for cs141-w26-lab3b-yuchuehw
+Missing ['reaction'] for cs141-w26-lab3b-riyapanche",1.0,"daviddeng0smm commented: ""Looks good to me! Good job converting both trackingID and weight to templates."""
+"Alem, Ghalib Nezar",379855,2288129,alemg,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),alemg@uci.edu,alemg2004,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-CHAdinna
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-myn13
+Missing ['reaction'] for cs141-w26-lab3a-CHAdinna
+Missing ['reaction'] for cs141-w26-lab3c-myn13",2.0,"ZhouhengTao commented: ""I think it was done very well, there are no problems.""
+vmrenter-code commented: ""Small nitpick, but I believe in the readme it states ""used"" should be capitalized. Other than that, the code is solid. """
+"Alhamdani, Ghassan",412820,2431853,galhamda,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),galhamda@uci.edu,galhamda-create,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-sradisay
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-edenradulescu
+Missing ['reaction'] for cs141-w26-lab3b-sradisay
+Missing ['reaction'] for cs141-w26-lab3b-edenradulescu",2.0,"cessar3 commented: ""I like how the new typenmames represent each variable""
+cessar3 commented: ""very clean code grouping it all together ""
+cessar3 commented: ""Smart to add const as they should not change the values""
+EliranAvigani commented: ""great job catching the const here, it would compile without it so great attention to detail!""
+EliranAvigani commented: ""great job turning it all into a template! overall looks good"""
+"Alvarado, Ares Ronaldo",375253,2207581,aresa,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aresa@uci.edu,aresalvarado,True,2.0,2.0,2.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-sehop1-source
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-Accelerator050717
+Completed 2 ['reaction'] for cs141-w26-lab3b-sehop1-source
+Missing ['reaction'] for cs141-w26-lab3c-Accelerator050717",2.0,"MubaiLi222 commented: ""Nice job making the constructor match the template types. One small improvement would be to use a member initializer list instead of assigning inside the body, this is usually cleaner and avoids extra work for some types.""
+1JunHuang commented: ""Your main function is well-structured, and it exactly shows how templates allow for reusable code across different types. Maybe using an initializer list is the C++ way. It is more efficient I think."""
+"Aravindmali, Nivedha",447899,2514838,naravind,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),naravind@uci.edu,NvyGreen,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-elizabethmwatkins
+Completed 5 ['comment', 'reply'] for cs141-w26-lab3b-eshahrestany
+Missing ['reaction'] for cs141-w26-lab3b-elizabethmwatkins
+Missing ['reaction'] for cs141-w26-lab3b-eshahrestany",2.0,"MNUQUI commented: ""Nice job templating the class! Only comment would be possibly making the parameters more descriptive (i.e. BatteryType, VersionType)""
+arjunk76 commented: ""These could be made const.""
+arjunk76 commented: ""There is work to do in the main function. Besides that, the code is very nicely written."""
+"Avigani, Eliran",450209,2579147,eavigani,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),eavigani@uci.edu,EliranAvigani,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-Ewuman
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-galhamda-create
+Missing ['reaction'] for cs141-w26-lab3c-Ewuman
+Missing ['reaction'] for cs141-w26-lab3c-galhamda-create",2.0,"thomasn05 commented: ""Nicely done, for future reference I would suggest making the print a function of the class so you don't have to retype it.""
+sasakip-uci-edu commented: ""Well done with this assignment! I realize now that I may have misinterpreted the instructions for my own assignment from looking at your code. When the instructions said ""so that magicPoints and duration become template parameters"", I assumed that the magicPoints and duration would be the template parameters that would be input into the class as opposed to the types, making the header look something like:
+
+template <int magicPoints, int duration>
+class Potion
+
+I was having a lot of problems though with the types that are allowed to be used as template parameters, so I think your solution makes a lot more sense."""
+"Battson, Kalani Samuel",412258,2441837,kbattson,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kbattson@uci.edu,kbattson,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Ranoldt
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-techsgithub
+Missing ['reaction'] for cs141-w26-lab3b-Ranoldt
+Missing ['reaction'] for cs141-w26-lab3b-techsgithub",2.0,"nxphan-uci commented: ""Everything looks good! The code doesn't seem to have errors and should compile just fine. Nice job using a clean init list to construct the values.""
+BrittenEtchison commented: ""All of your code looks great. You properly implemented templates in the class and correctly changed the way the constructor initialized the values. One thing to mention if you wanted to go a step further would be to add a helper function that prints that format, just so don't have to write it twice (or however many more times in the hypothetical future of this code). It'd just help with reusability and readability, so that you don't have two long lines of code in your main function."""
+"Bautista, Matthew Joseph",409412,2414878,matthjb2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),matthjb2@uci.edu,mvttjb,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-AnviM1
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-AshGasparyanCS
+Missing ['reaction'] for cs141-w26-lab3a-AnviM1
+Missing ['reaction'] for cs141-w26-lab3c-AshGasparyanCS",1.0,"ArchieSeh commented: ""everything looks good! great work.
+"""
+"Breeden, Lucas William",413489,2435479,lbreeden,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lbreeden@uci.edu,x1d1,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-kamyyywang
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Atif-Ahmad
+Missing ['reaction'] for cs141-w26-lab3a-kamyyywang
+Missing ['reaction'] for cs141-w26-lab3a-Atif-Ahmad",2.0,"BradyCason commented: ""I would recommend writing more descripting type names. For example, Magic_T and Duration_T. Something like this.""
+BradyCason commented: ""You may want to use the std namespace. Maybe write std::cout instead of just cout to be more clear. Probably compiles either way.""
+BradyCason commented: ""Good work. I like that you used a << operator overload.""
+charlesyeh-1103 commented: ""I agree! Maybe consider more descriptive names than T1/T2 for readability.""
+charlesyeh-1103 commented: ""Consider operator<< take a const reference, like const Potion<T1, T2>& potion, so it works with const objects and avoids copying."""
+"Bukhamseen, Nora Essam",379380,2278317,nbukhams,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nbukhams@uci.edu,noraessam,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-noahk004
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-MubaiLi222
+Missing ['reaction'] for cs141-w26-lab3a-noahk004
+Missing ['reaction'] for cs141-w26-lab3b-MubaiLi222",2.0,"MubaiLi222 reacted to your comment :laugh:
+noahk004 reacted to your comment :heart:"
+"Cason, Brady Rockwell",406947,2337504,brcason,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),brcason@uci.edu,BradyCason,True,2.0,2.0,0.0,"Completed 4 ['comment', 'reply'] for cs141-w26-lab3c-aditkantak
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-x1d1
+Missing ['reaction'] for cs141-w26-lab3c-aditkantak
+Missing ['reaction'] for cs141-w26-lab3b-x1d1",2.0,"Epic-Mushroom commented: ""This would still compile and run correctly, but I think it would be better if an init list was used instead of assigning the members in the body of the constructor since that would be more performant and is standard C++ practice.""
+Epic-Mushroom commented: ""Nice job creating a helper function for printing the class's details. It makes the `main` function a decent bit more readable.""
+Epic-Mushroom commented: ""The getters are correct, but they should probably be marked as `const` so they can be used on `const` objects of this type.""
+QuocTrinh-hub commented: ""100 points for using meaningful names""
+QuocTrinh-hub commented: ""You followed good practice by adding member function to print the information of the class"""
+"Chakka, Aditya",415542,2459393,achakka1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),achakka1@uci.edu,achakka24,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-pr1vatestaticfinal
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-alexpetro47
+Missing ['reaction'] for cs141-w26-lab3a-pr1vatestaticfinal
+Missing ['reaction'] for cs141-w26-lab3a-alexpetro47",2.0,"lukashauge commented: ""I appreciate the separation of print statements for better readability!""
+lukashauge commented: ""I know that the assignment is small and probably doesn't really need them, but it's always good to leave comments!""
+iamshauryag commented: ""Good using specific typenames""
+iamshauryag commented: ""Looks solid"""
+"Chang, Andrew",312010,1868607,changa17,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),changa17@uci.edu,itsmandrew,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-TonyYao8271
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-AllyBeary
+Missing ['reaction'] for cs141-w26-lab3b-TonyYao8271
+Missing ['reaction'] for cs141-w26-lab3b-AllyBeary",5.0,"itsmandrew replied to you: ""other than that lgtm 🤠""
+nathanlcheng commented: ""Good job creating template types, however, it would could be beneficial if you named T1 and T2 to be more relevant to what they mean.""
+TonyYao8271 replied to you: ""Yea, I forgot to put a git ignore there just removed those""
+TonyYao8271 reacted to your comment :heart:
+AllyBeary reacted to your comment :+1:
+hivgundamss reacted to your comment :+1:"
+"Chang, Christopher Che-Kai",407175,2351413,chriscc5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chriscc5@uci.edu,chriscc5,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-firewuf
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-timkim0106
+Missing ['reaction'] for cs141-w26-lab3b-firewuf
+Missing ['reaction'] for cs141-w26-lab3b-timkim0106",0.0,
+"Chao, Leo",413924,2337833,ychao13,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ychao13@uci.edu,twleochao,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-noahk004
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-mtranfie
+Missing ['reaction'] for cs141-w26-lab3a-noahk004
+Missing ['reaction'] for cs141-w26-lab3a-mtranfie",3.0,"noahk004 reacted to your comment :heart:
+jaack4 commented: ""The code looks well formatted and should successfully perform its required functions. The only improvement I see for readability could be to give more specific names for the template type names, so it is clear throughout the code of what type is being used.""
+ganeevsinghs commented: ""Good clean code. It seems that you replaced T1 and T2 wherever was needed, and it was easy to comprehend. Keep up the good work!"""
+"Charco, Diego Jr.",414063,2353255,charcod,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),charcod@uci.edu,charcod-jpg,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-Alexander-Tu2
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-MNUQUI
+Missing ['reaction'] for cs141-w26-lab3b-Alexander-Tu2
+Missing ['reaction'] for cs141-w26-lab3c-MNUQUI",2.0,"sunjaelee3 commented: ""There is nothing wrong with this code! Great job.""
+triminhta1207 commented: ""Good job remembering to make getter methods const"""
+"Chen Jiang, Victor Jian",408084,2384551,vchenjia,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),vchenjia@uci.edu,VictorChen26,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-phelixxthecat
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-nathanlcheng
+Missing ['reaction'] for cs141-w26-lab3b-phelixxthecat
+Missing ['reaction'] for cs141-w26-lab3b-nathanlcheng",1.0,"wdrobish replied to you: ""This is exactly right! Once that template declaration is added, this code should compile."""
+"Chen, Kristen Abigail",414940,2344718,chenka3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chenka3@uci.edu,kristerduster,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-sasakip-uci-edu
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-gcjong030
+Missing ['reaction'] for cs141-w26-lab3c-sasakip-uci-edu
+Missing ['reaction'] for cs141-w26-lab3c-gcjong030",2.0,"HsuAustin commented: ""this is the correct way to write the template""
+HsuAustin commented: ""these are perfect""
+HsuAustin commented: ""great work""
+HsuAustin commented: ""nice job!""
+rykubota commented: ""It might be beneficial to mark these member functions for `trackingID` and `weight` as `const`, as they do not modify any members of `Package`. This makes it clear as to the functionality of these member functions, and allows them to be used even when one only has a const reference to a `Package` object.""
+rykubota commented: ""While not required by the assignment, maybe these duplicated output statements would be better written as an overloaded `<<` operator on an `ostream`? That way, you could print out the same content with only two statements:
+```
+cout << p1 << endl;
+cout << p2 << endl;
+```"""
+"Chen, Kungeng",375618,2233257,kungengc,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kungengc@uci.edu,KunGeng,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-rheajethvani
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-w4h009
+Missing ['reaction'] for cs141-w26-lab3c-rheajethvani
+Missing ['reaction'] for cs141-w26-lab3c-w4h009",3.0,"riyapanche commented: ""Your code looks perfect. I don't see any errors!""
+AdiAnteater commented: ""Hey!
+
+Good work!
+
+You have done a great job. 
+Code is readable and clean.""
+rsljhns commented: ""The code is clean, easy to understand, runs perfectly with no issues and produces the expected output :)"""
+"Cheng, Nathan Lee",445001,2586591,chengnl2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chengnl2@uci.edu,nathanlcheng,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-itsmandrew
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Ewuman
+Missing ['reaction'] for cs141-w26-lab3c-itsmandrew
+Missing ['reaction'] for cs141-w26-lab3c-Ewuman",1.0,"laggycomputer commented: ""These typenames are poor, because they convey almost no meaning about the semantics of the inputted types. Consider something like `MagicPoints` and `Duration`.""
+laggycomputer commented: ""Conventionally, there should be spaces around `<<`, *i.e.*:
+```suggestion
+	cout << ""Used "" << heal.getName() << "" for "" << heal.getMagicPoints()
+	     << "" points (lasts "" << heal.getDuration() << "" sec)"" << endl;
+
+	cout << ""Used "" <<speed.getName() << "" for "" << speed.getMagicPoints()
+	     << "" points (lasts "" << speed.getDuration() << "" sec)"" << endl;
+
+```"""
+"Chennault, Ethan Daniel",414225,2359997,echennau,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),echennau@uci.edu,echennau,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-EatKFCinMc
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-gcjong030
+Missing ['reaction'] for cs141-w26-lab3c-EatKFCinMc
+Missing ['reaction'] for cs141-w26-lab3c-gcjong030",1.0,"Benny237 commented: ""Code looks good!"""
+"Cho, Christiana Haeun",412137,2428298,choch4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),choch4@uci.edu,christianacho,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-jifanf1
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-DylanVuong3
+Missing ['reaction'] for cs141-w26-lab3a-jifanf1
+Missing ['reaction'] for cs141-w26-lab3c-DylanVuong3",2.0,"KayleTruong commented: ""Should've changed all the 'int' into 'T1' and 'T2' or else it wouldn't be a template.""
+sunjaelee3 commented: ""Everything look great! Good job :D"""
+"Cuan, Antonio Joel",385993,2322795,cuana,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),cuana@uci.edu,AntonioCuan,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-Epic-Mushroom
+Missing ['comment', 'reply'] for cs141-w26-lab3b-HsuAustin
+Missing ['reaction'] for cs141-w26-lab3b-Epic-Mushroom
+Missing ['reaction'] for cs141-w26-lab3b-HsuAustin",1.0,"Karbite commented: ""I would change the typenames to bat and ver instead of T and U. Good job!"""
+"Cusianovic, Sebastian",455929,2214118,scusiano,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),scusiano@uci.edu,cusianovic,False,0.0,0.0,0.0,,0.0,
+"Dam, Dante",456721,2624976,ddam1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ddam1@uci.edu,laggycomputer,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-nathanlcheng
+Completed 5 ['comment', 'reply'] for cs141-w26-lab3c-6LEON8
+Missing ['reaction'] for cs141-w26-lab3b-nathanlcheng
+Missing ['reaction'] for cs141-w26-lab3c-6LEON8",3.0,"myn13 commented: ""Overall, you implemented generic data for Package class perfectly. You changed to template and update all datatypes related to trackingID and weight. You just have a small redundant that you added prefix std for cout because at the begining, you used ""using namespace std"" that you already told the compiler to look inside std namespace. ""
+VictorChen26 replied to you: ""Agree with @laggycomputer. While the may have been to describe positional tempalte parameters, the names T1/T2 do not any meaning for readers, hurting in the long run readability and stability in larger projects.""
+nctam2 commented: ""Nice job adding the template params and changing all the corresponding types. Besides the extra std on std::cout, everything looks good."""
+"Dang, Nam Pham",447949,1870006,dangqp,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dangqp@uci.edu,QNDang,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-apoolla114
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-cessar3
+Missing ['reaction'] for cs141-w26-lab3c-apoolla114
+Missing ['reaction'] for cs141-w26-lab3a-cessar3",2.0,"pr1vatestaticfinal commented: ""getter methods can be marked with const to be consistent with getMagicPoints()""
+20chino05 commented: ""initializer list good touch""
+20chino05 commented: ""to avoid repetition of cout, you can create a print method instead
+"""
+"Deng, David",410169,2243857,jiahad3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jiahad3@uci.edu,daviddeng0smm,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Jajavon
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Benny237
+Missing ['reaction'] for cs141-w26-lab3a-Jajavon
+Missing ['reaction'] for cs141-w26-lab3c-Benny237",2.0,"maburto19 commented: ""Everything seems to be working! Nice job. ""
+PartiNoone commented: ""Everything looks good. I appreciate the standard type parameter names, but maybe more descriptive names could be considered.""
+PartiNoone commented: ""Everything looks good. I appreciate the standard names for the type parameter names, but maybe more descriptive names could be considered."""
+"Donckels, James Joseph",449813,2303741,donckelj,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),donckelj@uci.edu,jjdonckels,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Nicol-U
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-JustinLi212
+Missing ['reaction'] for cs141-w26-lab3a-Nicol-U
+Missing ['reaction'] for cs141-w26-lab3b-JustinLi212",2.0,"laurajacint0 commented: ""This was a good observation that you correctly assigned the constructor parameters to the private member variables instead of the other way around.""
+laurajacint0 commented: ""The way that you updated the return types of getBattery() and getVersion() to use template parameters T and E is good to ensure that data is returned in the original format""
+yuchuehw commented: ""seems correct. perhaps a helper function to printall but overall well done."""
+"Drobish, Liam",415278,2456278,wdrobish,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wdrobish@uci.edu,wdrobish,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-JustinLi212
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-phelixxthecat
+Missing ['reaction'] for cs141-w26-lab3b-JustinLi212
+Missing ['reaction'] for cs141-w26-lab3b-phelixxthecat",1.0,"riyapanche commented: ""Good catch! Everything else looks perfect!"""
+"Duya, Jonathan",379247,2275766,duyaj,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),duyaj@uci.edu,duyaj,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Dhivyno
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-oglantz
+Missing ['reaction'] for cs141-w26-lab3a-Dhivyno
+Missing ['reaction'] for cs141-w26-lab3b-oglantz",2.0,"sradisay commented: ""Nice work templatizing. One improvement I would make is using the initialization list format for the C++ constructor. The initialization list is standard C++ and more efficient code. ""
+sradisay commented: ""Nice work templatizing the getters. Since getters are meant do not modify the instance, I would make them constant
+
+For example: 
+BatteryLife getBattery() const {return batteryLife;}
+
+This allows the getters to be used when a SmartWatch instance is passed as const to a function. ""
+bqtquach commented: ""everything looks good, formatting for output statement could be better for readability"""
+"Etchison, Britten Kenneth",408626,2404085,betchiso,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),betchiso@uci.edu,BrittenEtchison,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-vmrenter-code
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-kbattson
+Missing ['reaction'] for cs141-w26-lab3c-vmrenter-code
+Missing ['reaction'] for cs141-w26-lab3c-kbattson",1.0,"ermmre commented: ""Code looks good, I would approach in a similar way! I like the implementation of the helper function to print the stats, which made me realize I forgot to print the second set of stats for my lab..."""
+"Fang, Jifan",456425,2628348,jifanf1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jifanf1@uci.edu,jifanf1,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-Frank808-Git
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-vatsag-06
+Missing ['reaction'] for cs141-w26-lab3c-Frank808-Git
+Missing ['reaction'] for cs141-w26-lab3c-vatsag-06",3.0,"jifanf1 replied to you: ""Seems like everything works though. Nice""
+christianacho commented: ""Good job changing all the return types to the right template""
+andrewwsou commented: ""Overall looks great! You implemented template good.""
+andrewwsou commented: ""The only thing I could maybe say is use different variable naming for more readability, however, since its templates I'm not sure if its necessary."""
+"Favish, Aiden Michael",443763,2500953,afavish,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aidenfavish@gmail.com,AidenFavish,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-jiyu02
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-myn13
+Missing ['reaction'] for cs141-w26-lab3c-jiyu02
+Missing ['reaction'] for cs141-w26-lab3c-myn13",3.0,"gcjong030 commented: ""nicely done! my output statements look the same!""
+aputty11 commented: ""Good job changing the return type of the method to the template type.""
+alemg2004 replied to you: ""Putting the template line right above the class is the standard way to do it and will definitely compile.
+Just make sure your class members actually use T_battery and T_ver as their types which you did, and that any functions you define outside the class also need the template declaration above them."""
+"Finn, Jordan Marshall",444866,2580274,finnj1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),finnj1@uci.edu,jordan-m-finn,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Ava-Kopecky
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-MubaiLi222
+Missing ['reaction'] for cs141-w26-lab3c-Ava-Kopecky
+Missing ['reaction'] for cs141-w26-lab3b-MubaiLi222",3.0,"eshahrestany commented: ""You use cout here but forgot to put `#include <iostream>` at the top of the file.""
+MubaiLi222 reacted to your comment :laugh:
+lukes4-uci commented: ""remember to use this to avoid conflicts with variables outside of the class, or use an initializer list instead"""
+"Gasparyan, Ashot",457297,2551519,ashotg2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ashotg2@uci.edu,AshGasparyanCS,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-jasonbm2
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-lenat05
+Missing ['reaction'] for cs141-w26-lab3b-jasonbm2
+Missing ['reaction'] for cs141-w26-lab3b-lenat05",2.0,"mvttjb commented: ""Really like how you gave clear names for your types, makes it easy to understand rather than using a simple ""T1"". Overall, looks great aside from some nitpicky formatting, good job!""
+ImRayyaan reacted to your comment :+1:"
+"Giang, Winston John",456458,2074070,wjgiang,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),wjgiang@uci.edu,winstonjgiang,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-wdrobish
+Missing ['comment', 'reply'] for cs141-w26-lab3c-Ava-Kopecky
+Missing ['reaction'] for cs141-w26-lab3c-wdrobish
+Missing ['reaction'] for cs141-w26-lab3c-Ava-Kopecky",3.0,"maburto19 commented: ""I liked how you gave the template variable helpful names like MP and Dur instead of T and T2. That helps with readability, nice work!""
+Jthoeung commented: ""No bugs in your code overall well written. I like your choice of variable names and how it applies to the current class. ""
+6LEON8 commented: ""You can also use just std:: instead of namespace, but overall your code is well structured """
+"Glantz, Owen",382356,2194661,oglantz,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),oglantz@uci.edu,oglantz,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-noahk004
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-devg1ics
+Missing ['reaction'] for cs141-w26-lab3a-noahk004
+Missing ['reaction'] for cs141-w26-lab3c-devg1ics",3.0,"NotJonny1 commented: ""Good job updating the constructor. I was confused about how to do this at first.""
+duyaj commented: ""Formatting on the output looks super clean. Keep up the good work!""
+Rohit-rarichan commented: ""well structured template class with clean constructor initalizer list and clear readable accessor methods"""
+"Goel, Dev",409493,2436257,devg1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),devg1@uci.edu,devg1ics,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-heechy33
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-christinne-n
+Missing ['reaction'] for cs141-w26-lab3b-heechy33
+Missing ['reaction'] for cs141-w26-lab3b-christinne-n",2.0,"TonyYao8271 commented: ""The syntax should be templet <typename xx, typename yy> here, by defining that you are actually making a templet type of xx and yy so that your variables can later use those type instead of the standard types. ""
+TonyYao8271 commented: ""The data members should remain private""
+TonyYao8271 commented: ""Your code works, but the point of using a templet class as it's name states is to provide a way for your later code to change the type of your variables without breaking the code, so maybe try to make it a actual templet class.""
+oglantz commented: ""This is the wrong way to set up a template. Use placeholder types like T1 or T2 to then use throughout your class conversion."""
+"Gowda, Ariya",378038,2268927,ariyag,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),ariyag@uci.edu,ariyagowda,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-hivgundamss
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-clairdelunesolace
+Missing ['reaction'] for cs141-w26-lab3a-hivgundamss
+Missing ['reaction'] for cs141-w26-lab3a-clairdelunesolace",2.0,"laurajacint0 commented: ""BY replacing the int and double to template types that was the correct thing to do in order for the variabales to be template types.""
+laurajacint0 commented: ""In order to use the get methods you have to be sure that you are returning the new template types to avoid data loss""
+lucasli2 commented: ""Good practice for template type naming convention""
+lucasli2 commented: ""Good validation / Testing"""
+"Gupta, Shaurya",413738,2446460,shauryg2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),shauryg2@uci.edu,iamshauryag,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-andrewwsou
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-achakka24
+Missing ['reaction'] for cs141-w26-lab3b-andrewwsou
+Missing ['reaction'] for cs141-w26-lab3b-achakka24",1.0,"esivorap commented: ""Everything seems good to me."""
+"Gupta, Vatsa",414920,2343411,vatsag,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),vatsag@uci.edu,vatsag-06,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-GreasySponge
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-cessar3
+Missing ['reaction'] for cs141-w26-lab3b-GreasySponge
+Missing ['reaction'] for cs141-w26-lab3a-cessar3",1.0,"jifanf1 commented: ""I cannot find any errors in this code. Seems good"""
+"Ha, Kevin Cong",412443,2429566,kcha3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kcha3@uci.edu,kevinh-a,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-abhinavuppala
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-CyanAnteater
+Missing ['reaction'] for cs141-w26-lab3b-abhinavuppala
+Missing ['reaction'] for cs141-w26-lab3b-CyanAnteater",1.0,"techsgithub commented: ""I think you forgot to include '(' to "" battery="", but the rest of others looks good!""
+techsgithub commented: ""Yeah, fixing these variables makes sense. """
+"Hauge, Lukas Fredrik",413990,2343955,lhauge,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lhauge@uci.edu,lukashauge,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-edenradulescu
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-achakka24
+Missing ['reaction'] for cs141-w26-lab3b-edenradulescu
+Missing ['reaction'] for cs141-w26-lab3b-achakka24",2.0,"timkim0106 commented: ""It would be better to give more specific template type names. Everything else looks good!""
+ryanrT27 commented: ""Not necessary or groundbreaking, having const in the getters is good practice and helps with readability more !"""
+"Ho, Teck Yuan",349110,2101962,teckh,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),teckh@uci.edu,techsgithub,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-kevinh-a
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-clairdelunesolace
+Missing ['reaction'] for cs141-w26-lab3c-kevinh-a
+Missing ['reaction'] for cs141-w26-lab3a-clairdelunesolace",2.0,"kbattson commented: ""I believe you can just return magicPoints as the const in the header just tells the compiler you are not modifying data in this method so it can catch it if you actually do.  Maybe you confused it with the const that can come before the return type. Other than that looks good good job on using a list initializer list.""
+ariyagowda replied to you: ""The getters are used correctly here, but I’d probably combine these into one formatted output line to better match the prompt. It would also make the printing a bit cleaner instead of multiple cout calls."""
+"Homafar, Mani",286399,1808402,mhomafar,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),mhomafar@uci.edu,manihomafar,True,2.0,1.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-gymPotato-1
+Missing ['comment', 'reply'] for cs141-w26-lab3b-yilis15
+Missing ['reaction'] for cs141-w26-lab3b-gymPotato-1
+Missing ['reaction'] for cs141-w26-lab3b-yilis15",1.0,"mtranfie commented: ""Great job naming template types. Makes it even clearer."""
+"Hsu, Chi-Min",382622,2305767,chiminh1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chiminh1@uci.edu,HsuAustin,True,2.0,2.0,0.0,"Completed 4 ['comment', 'reply'] for cs141-w26-lab3a-axelwennerlund
+Completed 4 ['comment', 'reply'] for cs141-w26-lab3a-kristerduster
+Missing ['reaction'] for cs141-w26-lab3a-axelwennerlund
+Missing ['reaction'] for cs141-w26-lab3a-kristerduster",2.0,"aditkantak replied to you: ""Good work labeling the ADTs well. Makes the code very readable""
+Frank808-Git commented: ""These are good typenames. I think C++ convention technically is to use T1 and T2 but I like this as they are more descriptive.""
+Frank808-Git commented: ""Good remembering to change the types everywhere to be consistent as the values still work with int and double"""
+"Hua, Allison Tran",445868,2241728,huaat,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),huaat@uci.edu,AllyBeary,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-EpicToastTM
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-avanaaap
+Missing ['reaction'] for cs141-w26-lab3c-EpicToastTM
+Missing ['reaction'] for cs141-w26-lab3a-avanaaap",2.0,"itsmandrew commented: ""Usually, using T1 and T2 is idiomatic for template types for C++""
+hivgundamss commented: ""@itsmandrew is right, T1 and T2 is mostly used for C++ template, other than the naming part everthing looks great"""
+"Huang, Yijun",411557,2417525,yijuh11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),hiahiahyj@gmail.com,1JunHuang,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-ebangerz
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-aresalvarado
+Missing ['reaction'] for cs141-w26-lab3a-ebangerz
+Missing ['reaction'] for cs141-w26-lab3a-aresalvarado",2.0,"lenat05 commented: ""I like that you gave appropriate typenames specific to the situation! I didn't think to do that""
+lenat05 commented: ""Great job, this code looks perfect!""
+Nicol-U commented: ""solid change I see it was a bit turned around in the previous commit it happens it looks clean over all""
+Nicol-U commented: ""overall good work"""
+"Hussain, Sahir Shaukat",443720,2220392,sahirh,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sahirh@uci.edu,sahirsh,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-chriscc5
+Missing ['comment', 'reply'] for cs141-w26-lab3c-manihomafar
+Missing ['reaction'] for cs141-w26-lab3c-chriscc5
+Missing ['reaction'] for cs141-w26-lab3c-manihomafar",3.0,"Mr-Merp commented: ""Nice job defining two template types!""
+nxphan-uci commented: ""Everything look pretty good! No obvious errors and follows the task instructions. Good job!""
+sahirss commented: ""Nice job making sure it has a return value! Everything seems to be good with this code review."""
+"Jacinto, Laura Yatzil",378626,2183871,lyjacint,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lyjacint@uci.edu,laurajacint0,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-ariyagowda
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-jjdonckels
+Missing ['reaction'] for cs141-w26-lab3b-ariyagowda
+Missing ['reaction'] for cs141-w26-lab3c-jjdonckels",3.0,"joshngn commented: ""great naming for the typenames. Makes it easy to follow along!""
+CyanAnteater commented: ""Since we templated the class, we would need to make trackingID have type an IDType type, not an int. The same idea would apply to making weight have type WeightType instead of double as well. ""
+CyanAnteater commented: ""This is a good clean way to format the code so it's easier to read the components getting printed out!""
+AdiAnteater commented: ""Hey!
+
+Good work!
+
+My suggestions are very nitpicky, but regardless you have done a good job.
+
+1. trackingID and weight are declared as int and double. They should use IDType and WeightType to benefit from the template created.
+2. Getter return type mismatch: getID() and getWeight() return template type but stored members are not template types, causing type issues.
+3. Package class is missing semicolon at end (compilation error)"""
+"Jethvani, Rhea Ramesh",381476,2262308,rjethvan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rjethvan@uci.edu,rheajethvani,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Atif-Ahmad
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-nxphan-uci
+Missing ['reaction'] for cs141-w26-lab3a-Atif-Ahmad
+Missing ['reaction'] for cs141-w26-lab3a-nxphan-uci",2.0,"KunGeng commented: ""Good job on correctly implementing template class for the SmartWatch class. The rest of the code looks like it would run as intended. ""
+ethnvo replied to you: ""Good job updating it and making it a template"""
+"Jin, Tian",448905,2564803,tjin13,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),tjin13@uci.edu,TJHomeworkHub,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-aputty11
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-AdiAnteater
+Missing ['reaction'] for cs141-w26-lab3c-aputty11
+Missing ['reaction'] for cs141-w26-lab3c-AdiAnteater",3.0,"Mr-Merp commented: ""Nice job using an initializer list in your constructor.""
+emiliolim commented: ""Great job naming your template types (MagicPointsT, etc.) with descriptive titles!""
+TJHomeworkHub replied to you: ""Also, consider passing the string by `const &` or move."""
+"Johanes, Russell Christian",387161,2217642,rjohanes,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rjohanes@uci.edu,rsljhns,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-KunGeng
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-MNUQUI
+Missing ['reaction'] for cs141-w26-lab3a-KunGeng
+Missing ['reaction'] for cs141-w26-lab3c-MNUQUI",3.0,"mjliu5 commented: ""Hello,
+
+I like how you have denoted the types. I often see them named by a character, but this is expressive. Your code looks good.""
+xsjsgfdysd commented: ""I dont' see any problem in your code. Well Done!""
+DylanVuong3 commented: ""Nicely done on correctly binding the correct templates to the construction parameters, looks good!"""
+"Jong, Grace Chen En",376103,2175608,gcjong,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),gcjong@uci.edu,gcjong030,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-MubaiLi222
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-AidenFavish
+Missing ['reaction'] for cs141-w26-lab3b-MubaiLi222
+Missing ['reaction'] for cs141-w26-lab3b-AidenFavish",3.0,"echennau commented: ""Perfect work, if I was forced to say something I'd say maybe use an initializer list in the constructor.""
+kristerduster commented: ""lgtm! nice job remembering that cpp classes require semicolons after the last enclosing bracket. Just wanted to echo what the previous reviewer said about using an initializer list for efficiency purposes.""
+MubaiLi222 reacted to your comment :laugh:"
+"Kanagasabai, Dhivyesh",444544,2554742,dkanagas,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dkanagas@uci.edu,Dhivyno,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-abhinavuppala
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-xsjsgfdysd
+Missing ['reaction'] for cs141-w26-lab3b-abhinavuppala
+Missing ['reaction'] for cs141-w26-lab3c-xsjsgfdysd",4.0,"andrewwsou commented: ""Great job naming the typenames specifically! Helps readability a lot.""
+andrewwsou commented: ""Looks great! You implemented template good and replaced all of the types properly! Good job.""
+duyaj commented: ""Everything looks great, the output will definitely print out the correct format. Keep up the good work!""
+seungl25 commented: ""I like how you specified the typenames, gives more context to readers. I did T1, T2 but I like your way more.""
+seungl25 commented: ""The output is correct, but I recommend creating a helper function to reuse code. Notice that the code is almost identical to the line before it - while this program is small so it doesn't matter, it's a good habit to have in my opinion.""
+kevinh-a replied to you: ""I've seen other examples (including mine) that use single letter typenames, so this is a nice change of pace in my opinion. Good work!"""
+"Kantak, Adit Pravin",444885,2582890,apkantak,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),apkantak@uci.edu,aditkantak,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-andrewwsou
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-axelwennerlund
+Missing ['reaction'] for cs141-w26-lab3b-andrewwsou
+Missing ['reaction'] for cs141-w26-lab3a-axelwennerlund",1.0,"BradyCason commented: ""I would recommend using more descripting type names. Maybe Battery_T and Version_T. Something like that.""
+BradyCason commented: ""I like the use of an initializer list.""
+BradyCason commented: ""This works, but you could consider writing a print function or overloading the << operator instead. This would be more reusable.""
+BradyCason commented: ""Nice job!"""
+"Keonorasak, Dragon",408305,2386236,dkeonora,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),dkeonora@uci.edu,dragonkeon,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-Wheeledparasite
+Missing ['comment', 'reply'] for cs141-w26-lab3b-echennau
+Missing ['reaction'] for cs141-w26-lab3b-Wheeledparasite
+Missing ['reaction'] for cs141-w26-lab3b-echennau",2.0,"Nicol-U commented: ""Yes, I did the same thing""
+Nicol-U commented: ""Yes looks clean good job overall 👍 ""
+sasha-oconnor commented: ""This looks good, but get into the habit of using a member initialization list. It is more efficient because you do not need to make copies of the data members. """
+"Ketteringham, Neil A.",448235,2522237,nketteri,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nketteri@uci.edu,Neilk1021,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-triminhta1207
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-eshahrestany
+Missing ['reaction'] for cs141-w26-lab3b-triminhta1207
+Missing ['reaction'] for cs141-w26-lab3b-eshahrestany",1.0,"Neilk1021 replied to you: ""Also, maybe something like T_Durration, or T_MP, to separate the type from the value"""
+"Kim, Noah Minjoong",409223,2408121,noahmk1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),noahmk1@uci.edu,noahk004,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-NotJonny1
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-wendiiiiii
+Missing ['reaction'] for cs141-w26-lab3c-NotJonny1
+Missing ['reaction'] for cs141-w26-lab3c-wendiiiiii",3.0,"twleochao commented: ""I think you're missing the print statements as stated in the instructions, otherwise great job on converting the class into a template!""
+noraessam commented: ""The structure of the template class is clean and easy to understand, with a clear separation between data members and member functions. This makes the code readable and demonstrates good object-oriented design combined with templates.""
+oglantz commented: ""I like how you converted the class. Simple and clean."""
+"Kim, Timothy",458821,1671595,tkim12,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),tkim12@uci.edu,timkim0106,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-lukashauge
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-PNZ-z
+Missing ['reaction'] for cs141-w26-lab3c-lukashauge
+Missing ['reaction'] for cs141-w26-lab3a-PNZ-z",2.0,"jaack4 commented: ""Overall, the code performs the necessary functions efficiently. The only improvement I could see is to give more specific template type names, so that in the rest of the implementation it is more clear which type is which.""
+chriscc5 commented: ""This may be a personal preference but I wonder why you used T and U as your templates. I typically see T, but not U too often. I would change it to T and S to follow typical convention, but it's not too important.""
+chriscc5 commented: ""Good constructor! It's always good practice to initialize constructors like this in C++."""
+"Kopecky, Ava Angelina",409616,2416477,kopeckya,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kopeckya@uci.edu,Ava-Kopecky,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-dsilluci
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sasha-oconnor
+Missing ['reaction'] for cs141-w26-lab3a-dsilluci
+Missing ['reaction'] for cs141-w26-lab3b-sasha-oconnor",1.0,"jordan-m-finn commented: ""I wasn't aware that you could declare a template and class in one line like this. Super cool!"""
+"Kubota, Ryan",459039,2398790,rykubota,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rykubota@uci.edu,rykubota,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-mjliu5
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-kristerduster
+Missing ['reaction'] for cs141-w26-lab3c-mjliu5
+Missing ['reaction'] for cs141-w26-lab3a-kristerduster",2.0,"thomasn05 commented: ""Wow, I never thought about printing it this way, it is very impressive.""
+joolenn replied to you: ""I agree with the comment above! You can simply just use the stream insertion operator - there's no need to use string concatenation when outputting data. :-)"""
+"Kulkarni, Arjun",448123,2622401,akulkar6,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),akulkar6@uci.edu,arjunk76,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-Karbite
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-NvyGreen
+Missing ['reaction'] for cs141-w26-lab3b-Karbite
+Missing ['reaction'] for cs141-w26-lab3a-NvyGreen",1.0,"joolenn commented: ""Hello! I wanted to point out that your getter methods should be marked const because they usually shouldn't change state. Other than that, the rest of your program looks great! Nice work."""
+"Le, Kent Anthony",414273,2448983,leqk,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),leqk@uci.edu,LentKe,True,2.0,1.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3a-kamyyywang
+Missing ['comment', 'reply'] for cs141-w26-lab3c-arjunk76
+Missing ['reaction'] for cs141-w26-lab3a-kamyyywang
+Missing ['reaction'] for cs141-w26-lab3c-arjunk76",4.0,"liuftuci commented: ""You could make this explicit and pass the string by reference but thats just very minor and optional improvement. Overall great work.""
+ImRayyaan commented: ""Im curious why you got rid of the double. From my understanding, I believe the template type lets you pass in any sort of argument which is why it was used rather than making it the same data type. I may be wrong, but just a thought. Other than that, the code looks readable so thats good.""
+sim-hub1 commented: ""The way you implemented the your template params is different from how I did mine... What I did was something like template <typename PARAM1, typename PARAM2>, but after seeing your solution it may be that I interpreted the instructions wrong. It makes me wonder what the difference is. It does confuse me since I thought templates are made so that you can use reuse the code with any type, but here you can still only use it with type ints. ""
+x1d1 replied to you: ""The lab description said to implement the class as a template and provide generic type templates for those attributes. The author did it correctly."""
+"Le, Nina",411978,2422578,ninal11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ninal11@uci.edu,ninal11,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-jy8liu
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-zhcaury2
+Missing ['reaction'] for cs141-w26-lab3c-jy8liu
+Missing ['reaction'] for cs141-w26-lab3a-zhcaury2",2.0,"NotJonny1 commented: ""Good job fixing the fixed int and double types to the template parameters. ""
+DylanVuong3 commented: ""Good job on creating two separate templates, maybe a possible way to further improve the readability of this code is to make match the template name to the parameters? Something like ""MP"" instead of T might be more desirable."""
+"Leaf, Spencer Arvid Royal",414161,2337002,leafs,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),therealspencerleaf@gmail.com,spencerleaf,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-drewreed2005
+Missing ['comment', 'reply'] for cs141-w26-lab3b-rykubota
+Missing ['reaction'] for cs141-w26-lab3b-drewreed2005
+Missing ['reaction'] for cs141-w26-lab3b-rykubota",1.0,"Tiffannyy commented: ""Perfect! I like the use of abbreviations for the type names rather than just T1 and T2 because it could help with readability"""
+"Lee, Anna",412236,2441790,chaeeul3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),chaeeul3@uci.edu,leec00260,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-joshngn
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-yeqiw1
+Missing ['reaction'] for cs141-w26-lab3b-joshngn
+Missing ['reaction'] for cs141-w26-lab3b-yeqiw1",1.0,"cessar3 commented: ""Could describe for what they'll be used for ex. typename batterytype, but nothing wrong with this""
+cessar3 commented: ""nice change on the names now they describe what they represent""
+cessar3 commented: ""Were these debug lines?"""
+"Lee, Daniel Junhee",444895,2586094,djlee20,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),daniel122630@gmail.com,Lekzs,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-yilis15
+Missing ['comment', 'reply'] for cs141-w26-lab3b-seungl25
+Missing ['reaction'] for cs141-w26-lab3b-yilis15
+Missing ['reaction'] for cs141-w26-lab3b-seungl25",1.0,"mtranfie commented: ""Great job fixing the code! Very Organized."""
+"Lee, Seungmin",443855,2035866,seungl25,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),seungl25@uci.edu,seungl25,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-ebangerz
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-Dhivyno
+Missing ['reaction'] for cs141-w26-lab3a-ebangerz
+Missing ['reaction'] for cs141-w26-lab3a-Dhivyno",1.0,"avanaaap commented: ""Personally, I added the print statement in main but I think adding a print() function is a good design choice!""
+avanaaap commented: ""code looks clean + readable!"""
+"Lee, Sunjae",349124,2099898,sunjael3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sunjael3@uci.edu,sunjaelee3,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-charcod-jpg
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-christianacho
+Missing ['reaction'] for cs141-w26-lab3a-charcod-jpg
+Missing ['reaction'] for cs141-w26-lab3b-christianacho",3.0,"nyelgireddy commented: ""Great job with the clean code! I did it a similar way as well.""
+triminhta1207 replied to you: ""The code is well made, there is no error and should function as intended""
+QuocTrinh-hub commented: ""I don't see any errors in the code. You could add const to getter functions. Good job!"""
+"Lek, Lucas Khamsing",491959,2347599,lklek,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lklek@uci.edu,EpicToastTM,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-willm326
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-lenat05
+Missing ['reaction'] for cs141-w26-lab3b-willm326
+Missing ['reaction'] for cs141-w26-lab3b-lenat05",3.0,"AllyBeary commented: ""Good job catching the compilation error! I wonder if the typenames T1 and T2 could be more specific to batteryLife and version? ""
+yeqiw1 commented: ""Good use of templates to fix the type issue. For readability, consider renaming T1 and T2 to something meaningful like BatteryType and VersionType, so it’s clear what each template parameter is used for without scanning the whole class.""
+ImRayyaan reacted to your comment :+1:"
+"Leon, Brandon",345982,2053490,leonb3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),leonb3@uci.edu,6LEON8,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-JordanPham2002
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-winstonjgiang
+Missing ['reaction'] for cs141-w26-lab3b-JordanPham2002
+Missing ['reaction'] for cs141-w26-lab3b-winstonjgiang",2.0,"laggycomputer commented: ""Waow, based?""
+laggycomputer commented: ""These are good type names, but the first name might want to include ""battery life"" instead of just ""battery"". I also tend to think ""type"" is not necessary in typenames; my pick would be `BatteryLife` and `Version`, under the assumption that:
+1. context clues
+2. the use of PascalCase over camelCase or snake_case 
+
+should sufficiently disambiguate these types from the similarly named fields.""
+laggycomputer commented: ""Good call. I have no idea why the template violates the idiom here.""
+laggycomputer commented: ""I think flushing (`std::endl`) twice here is the very slightest bit excessive.""
+laggycomputer commented: ""Goof possibly? Ending newlines are the standard in code files.""
+sehop1-source commented: ""The code seems well-written overall with no errors! However, for better readability,, it would be good to change typename to batterylife to mathc the lab specification. Also, it's impressive that you used std:: instead of using namespace std; at the top. Since this method is generally considered the safer approach, I think the way you did put std:: is a good habit"""
+"Li, Justin",449477,2633991,jdli3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jdli3@uci.edu,JustinLi212,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-Jthoeung
+Missing ['comment', 'reply'] for cs141-w26-lab3c-noraessam
+Missing ['reaction'] for cs141-w26-lab3c-Jthoeung
+Missing ['reaction'] for cs141-w26-lab3c-noraessam",2.0,"wdrobish commented: ""Good move having your type names be informative! I do think that it could become a bit confusing having a type named the same way as an attribute though.""
+wdrobish commented: ""Great job using an initlist!""
+jjdonckels commented: ""if you get tired of writing std::cout, consider using namespace std! Aside from that it looks good!"""
+"Li, Leo",348529,2092591,wenhaol8,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wenhaol8@uci.edu,wenhaol8,False,0.0,0.0,0.0,,0.0,
+"Li, Lucas",446707,2606056,lucasl11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),l3m3n000@gmail.com,lucasli2,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-ariyagowda
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-riyapanche
+Missing ['reaction'] for cs141-w26-lab3b-ariyagowda
+Missing ['reaction'] for cs141-w26-lab3b-riyapanche",1.0,"triminhta1207 commented: ""This should return a const because this is a getter method""
+triminhta1207 commented: ""Same thing here, this should return a const because this is a getter method""
+triminhta1207 commented: ""Same thing here, this should return a const because this is a getter method"""
+"Li, Mubai",409988,2344534,mubail1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mubail1@uci.edu,MubaiLi222,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-JimmyZzz30
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-aresalvarado
+Missing ['reaction'] for cs141-w26-lab3c-JimmyZzz30
+Missing ['reaction'] for cs141-w26-lab3a-aresalvarado",3.0,"gcjong030 commented: ""nicely done! correct output statements.""
+jordan-m-finn commented: ""Love how readable this return type is!""
+noraessam commented: ""Nice use of templates to generalize both magicPoints and duration — it makes the class much more flexible without sacrificing readability. The constructor and getters clearly reflect the template types, which makes the intent of the code easy to follow."""
+"Li, Wendi",411845,2419165,wendil11,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wendil11@uci.edu,wendiiiiii,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-iiBooque
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-nyelgireddy
+Missing ['reaction'] for cs141-w26-lab3b-iiBooque
+Missing ['reaction'] for cs141-w26-lab3b-nyelgireddy",1.0,"noahk004 commented: ""Nice work! Good catch with the initializer list. I might add that in C++, you can use std::format to make this print method implementation a little easier. Other than that, great job! """
+"Lim, Emilio Aris",410540,2362628,emilial1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),emilial1@uci.edu,emiliolim,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-TJHomeworkHub
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-firewuf
+Missing ['reaction'] for cs141-w26-lab3b-TJHomeworkHub
+Missing ['reaction'] for cs141-w26-lab3b-firewuf",1.0,"anthon12-uci commented: ""The two different template types allow two different sets of types to get printed here"""
+"Liu, Franku",348859,2098158,liuft,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),liuft@uci.edu,liuftuci,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-LentKe
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-brandog2039
+Missing ['reaction'] for cs141-w26-lab3b-LentKe
+Missing ['reaction'] for cs141-w26-lab3b-brandog2039",1.0,"CyanAnteater commented: ""Good job initializing all the members in the constructor header as opposed to the constructor body; if you had done it the latter way it would be less efficient. ""
+CyanAnteater commented: ""This is mostly a style thing, but if you plan on qualifying ""std::cout"" with std::, it may be a good idea to remain consistent and qualify ""endl"" with ""std::"" too. """
+"Liu, Jason Yang",80661,142372,jyliu,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),jyliu@uci.edu,jy8liu,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-joshngn
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-clairdelunesolace
+Missing ['reaction'] for cs141-w26-lab3b-joshngn
+Missing ['reaction'] for cs141-w26-lab3a-clairdelunesolace",1.0,"ninal11 commented: ""An initialization list is the preferred method of initialization in C++. This line could be changed to ""SmartWatch(BatteryType b, VersionType v, string m) : batteryLife(b), version(v), model(m) {}"""""
+"Liu, Michelle Jiayi",406933,2330225,mjliu5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mjliu5@uci.edu,mjliu5,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-rsljhns
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-QuocTrinh-hub
+Missing ['reaction'] for cs141-w26-lab3b-rsljhns
+Missing ['reaction'] for cs141-w26-lab3b-QuocTrinh-hub",2.0,"rykubota commented: ""Perhaps using a member initializer list here would be preferable? For example, `SmartWatch(B b, B v, string m) : batteryLife(b), version(v), model(m) { ... }`.""
+rykubota commented: ""Rather than using string concatenation, you should be able to instead chain stream insertion operators. For example:
+```cpp
+cout << ""A"" + ""B"" + ""C"" << endl;
+cout << ""A"" << ""B"" << ""C"" << endl;
+```
+Perhaps this may be more efficient? Since using the + operator may cause reallocations, putting the data into the output stream directly could be less work. ""
+rykubota commented: ""These getters could be marked with `const`, so that it is clear that they do not modify any members of `SmartWatch`.""
+joolenn commented: ""Yes, I would recommend that you mark your getter methods as `const` to emphasize that they should not change state."""
+"Liu, Tiffany",448962,2188261,tiffanxl,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),tiffanxl@uci.edu,Tiffannyy,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-spencerleaf
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-aputty11
+Missing ['reaction'] for cs141-w26-lab3c-spencerleaf
+Missing ['reaction'] for cs141-w26-lab3c-aputty11",3.0,"MNUQUI commented: ""Good job on templating the class! Maybe try making the template variables more descriptive (i.e. BatteryType, VersionType)""
+Ranoldt commented: ""You can make the constructor into an init list for better performance and direct initialization. ""
+Ranoldt commented: ""For these methods, you can define them as const for safety of accidental modifications because all they do is retrieve the members of the class. ""
+edenradulescu commented: ""Hello! I also agree with the above comment on making the template variables more descriptive. I wouldn't understand the relationship T1 has to T2 otherwise. ""
+edenradulescu commented: ""Thats a good point! I didn't know that and I think its great to point out. """
+"Lo, Marcus",416151,2348127,marcusl5,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),marcusl5@uci.edu,marcusl07,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-alvarov17
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-brandog2039
+Missing ['reaction'] for cs141-w26-lab3b-alvarov17
+Missing ['reaction'] for cs141-w26-lab3b-brandog2039",2.0,"abhinavuppala commented: ""It might be better to use more verbose typenames than T and U, especially so you know which corresponds to battery life and version""
+abhinavuppala commented: ""Nice catch fixing this issue with the initialization in the constructor""
+Karbite commented: ""Instead of initializing in the bracket, you also could have done SmartWatch(T b, U v, string m) : batteryLife(b), version(v), model(m). Otherwise good job!"""
+"Luguan, Arthur",419320,2465729,jluguan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),hivgundamss@gmail.com,hivgundamss,True,2.0,1.0,1.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-Ranoldt
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-AllyBeary
+Missing ['reaction'] for cs141-w26-lab3b-Ranoldt
+Completed 1 ['reaction'] for cs141-w26-lab3b-AllyBeary",1.0,"ganeevsinghs commented: ""It looks like we did very similar things, and it seems to be effective. In my opinion, using the template was effective and was not too difficult to implement."""
+"Luo, Benny",410301,2348137,bluo7,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),bluo7@uci.edu,Benny237,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-CyanAnteater
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-echennau
+Missing ['reaction'] for cs141-w26-lab3b-CyanAnteater
+Missing ['reaction'] for cs141-w26-lab3b-echennau",2.0,"daviddeng0smm commented: ""Typical the naming conventions are T, if there are multiple it's T1, T2, and so forth, but other than that looks good to me!""
+ethanvotran20 commented: ""The class uses the template types correctly for batteryLife and version, and the print statements in main show the model, version, and battery percentage just like the instructions asked. Everything looks good to me. Nice work!"""
+"Mal, Roopaum",455685,2533311,rmal,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rmal@uci.edu,Epic-Mushroom,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3a-BradyCason
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-Rohit-rarichan
+Missing ['reaction'] for cs141-w26-lab3a-BradyCason
+Missing ['reaction'] for cs141-w26-lab3a-Rohit-rarichan",0.0,
+"Mandair, Agamvir Singh",410068,2340019,mandaira,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mandaira@uci.edu,agamvirmandair,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-AnviM1
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Kraufdeen
+Missing ['reaction'] for cs141-w26-lab3a-AnviM1
+Missing ['reaction'] for cs141-w26-lab3b-Kraufdeen",0.0,
+"Mantri, Anvi",411618,2420352,amantri1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),amantri1@uci.edu,AnviM1,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-nyelgireddy
+Missing ['comment', 'reply'] for cs141-w26-lab3c-chriscc5
+Missing ['reaction'] for cs141-w26-lab3b-nyelgireddy
+Missing ['reaction'] for cs141-w26-lab3c-chriscc5",3.0,"Alexander-Tu2 commented: ""Nice job fixing the semicolon on the class definition and giving the template types clear names! I don't see any issues with this, aside from the very minor one of having no space after the getID(), but that is very nitpicky.""
+mvttjb commented: ""I really like how you gave the template names their own clear names instead of a simple ""T1"", ""T2"", really adds clarity! Other than that, code looks great, good work!""
+agamvirmandair commented: ""You could've used initializer list in the constructor to make things a little neater, but this works too.""
+agamvirmandair commented: ""Good job."""
+"Martin, Jason Brady",415993,2462121,jasonbm2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jasonbm2@uci.edu,jasonbm2,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-agamvirmandair
+Missing ['comment', 'reply'] for cs141-w26-lab3c-EatKFCinMc
+Missing ['reaction'] for cs141-w26-lab3c-agamvirmandair
+Missing ['reaction'] for cs141-w26-lab3c-EatKFCinMc",1.0,"AshGasparyanCS commented: ""I think this function could either be written as a one line statement or have the opening bracket dropped down to improve readability."""
+"Masuda, Leon",312150,1895094,masudal,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),masudal@uci.edu,LittleLion930,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Mr-Merp
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-nxphan-uci
+Missing ['reaction'] for cs141-w26-lab3c-Mr-Merp
+Missing ['reaction'] for cs141-w26-lab3a-nxphan-uci",2.0,"myn13 commented: ""Since the purpose of this exercise is to transform this class into a template for generic data types, you need to update the parameters of the Potion class's members and constructor with MPType and DurType.
+""
+myn13 commented: ""As my understanding your purpose is  to initialize magicPoints to 0, you should do it in the constructor. You also need to update return datatype of this accessor function. ""
+myn13 commented: ""Good formatting the output. ""
+pjtsearch commented: ""The C++ convention would be to name the template parameters like ""TMagicPoints"" and ""TDuration""."""
+"Maxwell, Jinseya Akira",380374,2249471,jamaxwel,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jamaxwel@uci.edu,Jinseyam,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-yeqiw1
+Missing ['comment', 'reply'] for cs141-w26-lab3b-Epic-Mushroom
+Missing ['reaction'] for cs141-w26-lab3b-yeqiw1
+Missing ['reaction'] for cs141-w26-lab3b-Epic-Mushroom",1.0,"JordanPham2002 commented: ""good: initializer list correctly sets members (unlike b=batteryLife)"""
+"Moreno, Jackson Richard",377670,2237676,jrmoren1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jrmoren1@uci.edu,jaack4,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-twleochao
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-timkim0106
+Missing ['reaction'] for cs141-w26-lab3b-twleochao
+Missing ['reaction'] for cs141-w26-lab3b-timkim0106",1.0,"drewreed2005 commented: ""Everything looks good in your implementation. Good choice of descriptive template type names for the two template type data members, good job using a member initializer list in the constructor, and good job following the intended output format in `main()` exactly."""
+"Muretta, Sonja",379012,2246523,smuretta,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),smuretta@uci.edu,smuretta16,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-mvttjb
+Missing ['comment', 'reply'] for cs141-w26-lab3b-edenradulescu
+Missing ['reaction'] for cs141-w26-lab3b-mvttjb
+Missing ['reaction'] for cs141-w26-lab3b-edenradulescu",0.0,
+"Myatt, Will",446094,2573477,wmyatt,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wmyatt@uci.edu,willm326,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-Neilk1021
+Missing ['comment', 'reply'] for cs141-w26-lab3a-avanaaap
+Missing ['reaction'] for cs141-w26-lab3c-Neilk1021
+Missing ['reaction'] for cs141-w26-lab3a-avanaaap",2.0,"EpicToastTM commented: ""Good call putting the const on these getters. I didn't do that on my code, but this is probably better for clarity""
+PNZ-z commented: ""agree that setting these getters const is smart and a good habit. It improves clarity and readability since other programmers can ealisy get this idea."""
+"Nacorda, Julianna Margarita Rodrigue",409105,2407750,jmnacord,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jmnacord@uci.edu,joolenn,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-mjliu5
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-arjunk76
+Missing ['reaction'] for cs141-w26-lab3c-mjliu5
+Missing ['reaction'] for cs141-w26-lab3c-arjunk76",3.0,"pr1vatestaticfinal commented: ""honestly i don't even know what to say everything looks good. template is used correctly, getters are const, and the class is constructed correctly.""
+xsjsgfdysd commented: ""This code is generally good. The only minor issue is that this line should be removed.""
+Accelerator050717 commented: ""Nice use of an initializer list with template parameters. The constructor remains straightforward and easy to understand.""
+Accelerator050717 commented: ""These examples clearly demonstrate how the template supports different type combinations. The usage in main makes the intent of the design very clear.
+"""
+"Nadeem, Rayyaan",348664,2094929,rnadeem,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rnadeem@uci.edu,ImRayyaan,True,2.0,2.0,2.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-LentKe
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-lenat05
+Missing ['reaction'] for cs141-w26-lab3b-LentKe
+Completed 2 ['reaction'] for cs141-w26-lab3b-lenat05",2.0,"alvarov17 commented: ""You might want to change T1 and T2 to single characters to make templating easier! ""
+alvarov17 commented: ""Other than what I said above, your code is all good. Great job!""
+alvarov17 commented: ""Nice catch! ""
+esivorap commented: ""Your output statements are formatted slightly differently than the prompt, but otherwise everything looks good"""
+"Ngo, Ethan Tri",409337,2414629,ngoet4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ngoet4@uci.edu,ebangerz,True,2.0,1.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-triminhta1207
+Missing ['comment', 'reply'] for cs141-w26-lab3c-smuretta16
+Missing ['reaction'] for cs141-w26-lab3b-triminhta1207
+Missing ['reaction'] for cs141-w26-lab3c-smuretta16",2.0,"1JunHuang commented: ""Using T and W as template parameters is a clear way to distinguish between the Tracking ID and the Weight types. While T and W work, I think it's often better to use more descriptive names in templates to make the code self-documenting.""
+seungl25 commented: ""Both of these lines correctly output what they need to, but consider writing a helper function so that you have reusable code - just a good habit to get into, in my opinion.""
+seungl25 commented: ""This was a good change and was required for the program to run correctly. Well done!"""
+"Nguyen, Anthony",226984,1515873,anthon12,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),anthon12@uci.edu,anthon12-uci,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-emiliolim
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-AndrewShim0428
+Missing ['reaction'] for cs141-w26-lab3a-emiliolim
+Missing ['reaction'] for cs141-w26-lab3a-AndrewShim0428",2.0,"Atif-Ahmad commented: ""nice job setting the constructor as an initializer list""
+Atif-Ahmad commented: ""good job implementing this 👍 
+only thing i could suggest is making the getters const like string getName() const ...  but its not important.
+""
+20chino05 commented: ""Initializer list to save space is a nice touch""
+20chino05 commented: ""return type templates are correct here too!""
+20chino05 commented: ""you can make a print method instead of creating individual statements"""
+"Nguyen, Christine Loan-Anh",254585,1586903,chrisln4,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),chrisln4@uci.edu,christinne-n,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-dsilluci
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-NvyGreen
+Missing ['reaction'] for cs141-w26-lab3a-dsilluci
+Missing ['reaction'] for cs141-w26-lab3a-NvyGreen",3.0,"dsilluci commented: ""I don't see any issues. But I am curious as to why you chose to use all caps variable names!""
+devg1ics commented: ""The overall structure of the class and the intent behind the constructors and accessors are easy to follow, and with a bit of simplification, this approach can turn into a clean and solid implementation.""
+dsilluci reacted to your comment :laugh:
+sahirss commented: ""The style choice for the brackets at the end of this could perhaps change to be a little easier to read. Other than that everything seems good!"""
+"Nguyen, Duy",408137,2385623,duyn16,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),duyn16@uci.edu,iiBooque,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-ermmre
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-MichaelP222
+Missing ['reaction'] for cs141-w26-lab3a-ermmre
+Missing ['reaction'] for cs141-w26-lab3c-MichaelP222",3.0,"aputty11 commented: ""This is the correct use of a template class with two new typenames.""
+Wheeledparasite replied to you: ""I agree that adding const would help improve the code""
+wendiiiiii commented: ""the mp, d and n could have a better name for readability"""
+"Nguyen, Josh Quang",413970,2115888,joshqn,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),joshqn@uci.edu,joshngn,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-sasakip-uci-edu
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab3c-sasakip-uci-edu
+Missing ['reaction'] for cs141-w26-lab3a-laurajacint0",3.0,"supanice-uci commented: ""Instead of prepending \n in your initial string for each of the couts, you could end each of these statements with << endl, which adds a \n at the end for you and flushes the output buffer.""
+supanice-uci commented: ""Rest of the lab looks good though, looks like templates were properly used and bug was fixed. Good job on the lab!""
+jy8liu commented: ""everything looks good, for readability could split this into 2 lines""
+leec00260 commented: ""Agree with previous comments. Could be split this line up for readability.""
+leec00260 commented: ""Generally good!"""
+"Nguyen, Kevin Minh",415009,2348823,kevinmn5,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),kevinmn5@uci.edu,pub1icstaticvoid,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-ZhouhengTao
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-heechy33
+Missing ['reaction'] for cs141-w26-lab3c-ZhouhengTao
+Missing ['reaction'] for cs141-w26-lab3b-heechy33",2.0,"sehop1-source commented: ""Set the trackingID and weight correctly according to the lab specifications by using template. I find a small bug at the end of the file. At line 21 and 22,  I think the int getID() and double getWeight() should be changed into T1 getID() and T2 getWeight() since we set up the template at the top : template <typename T1, typename T2>.""
+lukes4-uci commented: ""return type of function should be changed to match actual return type (T1 and T2 instead of double and string)""
+lukes4-uci commented: ""remember to use the this keyword to avoid conflicts with variables outside of the class, or else use an initializer list instead"""
+"Nguyen, Michael Huy",484427,2348161,michhn15,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),michhn15@uci.edu,pr1vatestaticfinal,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-QNDang
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-joolenn
+Missing ['reaction'] for cs141-w26-lab3b-QNDang
+Missing ['reaction'] for cs141-w26-lab3b-joolenn",2.0,"achakka24 commented: ""Great job with properly converting to a template and using the specific types. Main still needs to be completed.""
+MichaelP222 commented: ""Nice work templating trackingID and weight. But still need to add cout statements in main() to print each package in the required format."""
+"Nguyen, My",450233,2641531,myn13,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),myn13@uci.edu,myn13,True,2.0,2.0,1.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-LittleLion930
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-laggycomputer
+Completed 1 ['reaction'] for cs141-w26-lab3b-LittleLion930
+Missing ['reaction'] for cs141-w26-lab3a-laggycomputer",1.0,"AidenFavish commented: ""I think its convention to put the template in the line immediately above class, but i think it will still compile"""
+"Nguyen, Thomas Hoang-Tuan",410255,2342992,thomahn3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),thomahn3@uci.edu,thomasn05,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-EliranAvigani
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-rykubota
+Missing ['reaction'] for cs141-w26-lab3b-EliranAvigani
+Missing ['reaction'] for cs141-w26-lab3b-rykubota",1.0,"Kraufdeen commented: ""I like how you made this a class method, making it a bit easier on yourself."""
+"Nuqui, Maiella Nona Laquindanum",378122,2270231,mnuqui,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),mnuqui@uci.edu,MNUQUI,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-NvyGreen
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Tiffannyy
+Missing ['reaction'] for cs141-w26-lab3a-NvyGreen
+Missing ['reaction'] for cs141-w26-lab3a-Tiffannyy",3.0,"charcod-jpg commented: ""This should assign parameters to members.""
+charcod-jpg commented: ""getBattery() and getVersion() were defined twice with different return types.""
+christinne-n replied to you: ""I agree! everything looks correct based on the given instructions. having more descriptive parameters makes it more readable/understandable""
+rsljhns commented: ""I think your code works perfectly, every looks good and concise great job!"""
+"O'Connor, Sasha",414522,2451568,aleksano,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aleksano@uci.edu,sasha-oconnor,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-dragonkeon
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-ethanvotran20
+Missing ['reaction'] for cs141-w26-lab3c-dragonkeon
+Missing ['reaction'] for cs141-w26-lab3a-ethanvotran20",2.0,"PNZ-z commented: ""Putting const for these getters is a good habit and improves clarity and readability. Nice work!""
+Ava-Kopecky commented: ""Everything looks good to me! I like how you separated out your print statements so that the lines wouldn't be as long too, and your use of const in your getters is great to have! Great job 😄 """
+"Panche, Riya",455406,2506623,rpanche,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rpanche@uci.edu,riyapanche,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-wdrobish
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-KunGeng
+Missing ['reaction'] for cs141-w26-lab3c-wdrobish
+Missing ['reaction'] for cs141-w26-lab3a-KunGeng",2.0,"lucasli2 commented: ""Adding `const` to the getters is good practice""
+lucasli2 commented: ""Good Testing / Validation""
+Jajavon commented: ""Overall, the class is successfully transformed into a template. The main function also prints potion objects pretty well, whether the template parameters are int or double."""
+"Pappachan, Derrick",413638,2446050,pappachd,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),pappachd@uci.edu,dpappachan,False,0.0,0.0,0.0,,0.0,
+"Park, Brandon S.",378979,2247615,brandsp2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),BRANDSP2@UCI.EDU,brandog2039,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-ethnvo
+Missing ['comment', 'reply'] for cs141-w26-lab3c-AlvinAKTran
+Missing ['reaction'] for cs141-w26-lab3c-ethnvo
+Missing ['reaction'] for cs141-w26-lab3c-AlvinAKTran",3.0,"liuftuci commented: ""In main, I think you are missing your print statements.""
+Dpoin23 commented: ""Overall the implementation of the template looks good, I think it's just missing the cout statements in the main function.""
+marcusl07 commented: ""Add the print statements and everything else looks great."""
+"Park, Seho",284695,1759684,sehop1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sehop1@uci.edu,sehop1-source,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-6LEON8
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-pub1icstaticvoid
+Missing ['reaction'] for cs141-w26-lab3c-6LEON8
+Missing ['reaction'] for cs141-w26-lab3a-pub1icstaticvoid",2.0,"aresalvarado commented: ""I like the use of an initializer list here. When I was writing my constructor I was facing some shadowing variable errors and I think if I went this route I could have avoided that!""
+aresalvarado commented: ""The methods are straightforward and working!""
+aresalvarado commented: ""I was able to compile and run the code successfully! Good job!!""
+varunia2 commented: ""Nice! your implementation looks good to me! a small improvement could be making this function and getNmae() const too, since you dont modify the object here."""
+"Peng, Yinuo",415929,2463594,yinuop2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yinuop2@uci.edu,MichaelP222,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-maburto19
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-pr1vatestaticfinal
+Missing ['reaction'] for cs141-w26-lab3a-maburto19
+Missing ['reaction'] for cs141-w26-lab3a-pr1vatestaticfinal",2.0,"iiBooque commented: ""Variable names like BatteryT and VersionT are descriptive and make the code easy to understand without extra comments.""
+iiBooque commented: ""Your getter functions don’t modify the object, so marking them as const would be a good improvement, like BatteryT getBattery() const;""
+Wheeledparasite commented: ""The descriptive template parameter names definitely help improve readability. Nice job!"""
+"Petro, Alexander Maxwell",448739,2529938,petroa,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),petroa@uci.edu,alexpetro47,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-ganeevsinghs
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-ethnvo
+Missing ['reaction'] for cs141-w26-lab3c-ganeevsinghs
+Missing ['reaction'] for cs141-w26-lab3c-ethnvo",2.0,"achakka24 commented: ""Everything looks great good job!""
+ArchieSeh commented: ""Everything looks good. Kudos!"""
+"Pham, Hao Quoc",315458,1951708,haoqp1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),haoqp1@uci.edu,haoqp1,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-jasonbm2
+Missing ['comment', 'reply'] for cs141-w26-lab3a-liuftuci
+Missing ['reaction'] for cs141-w26-lab3b-jasonbm2
+Missing ['reaction'] for cs141-w26-lab3a-liuftuci",2.0,"eshahrestany commented: ""These variable names don't need to made uppercase, though this is still correct.""
+eshahrestany commented: ""You don't need to commit this file""
+eshahrestany commented: ""Your three getter functions could be made const.""
+nkimogpig commented: ""probably use an initializer list 
+SmartWatch(...) : BatteryLife(b), Version(v), Model(m) {}"""
+"Pham, Jordan",457121,2571566,jordap5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jordap5@uci.edu,JordanPham2002,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Nicol-U
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Jinseyam
+Missing ['reaction'] for cs141-w26-lab3a-Nicol-U
+Missing ['reaction'] for cs141-w26-lab3c-Jinseyam",1.0,"6LEON8 commented: ""I don't see any errors in your code. You can also use std:: instead of namespace std since it's good practice :)."""
+"Phan, Nina Xuan",486506,2136383,nxphan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nxphan@uci.edu,nxphan-uci,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-kbattson
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sahirsh
+Missing ['reaction'] for cs141-w26-lab3c-kbattson
+Missing ['reaction'] for cs141-w26-lab3b-sahirsh",2.0,"rheajethvani commented: ""main() instantiations look correct (Package<string,double> and Package<int,int>) and the print statements match the expected format.""
+LittleLion930 commented: ""Readability: The constructor should use an initializer list. This is a templated class for flexible ID and weight types."""
+"Phung, Derrick",454825,2528492,derrip1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),derrip1@uci.edu,Karbite,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-marcusl07
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-AntonioCuan
+Missing ['reaction'] for cs141-w26-lab3c-marcusl07
+Missing ['reaction'] for cs141-w26-lab3c-AntonioCuan",2.0,"axelwennerlund commented: ""Good job with the lab! After this final commit with the bug fixes and added cout-statements, I think your code is very solid.""
+axelwennerlund commented: ""Small readability nit: the template type parameter names are valid, but using more descriptive names (for instance, MagicPointsT and DurationT) would make the code easier to understand at a glance.""
+arjunk76 commented: ""Typically the convention is that for template typenames you use ""T"", ""S"", etc.""
+arjunk76 commented: ""Nice job using const! It is easy to overlook.""
+arjunk76 commented: ""While this is valid, it might make more sense to use cout. Now that we are entering more abstract territory with more customized ADTs, our ADTs might overload << and also might not be compatible with printf. Also, printf is error prone."""
+"Poindexter, David Carl",415090,2455670,dcpoinde,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dcpoinde@uci.edu,Dpoin23,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-brandog2039
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Alexander-Tu2
+Missing ['reaction'] for cs141-w26-lab3b-brandog2039
+Missing ['reaction'] for cs141-w26-lab3b-Alexander-Tu2",1.0,"Kraufdeen commented: ""Good job implementing the template, alternatively you could have done T1 and T2, but that's really your preference."""
+"Poolla, Aishwarya",454913,2566064,apoolla,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),apoolla@uci.edu,apoolla114,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-ryanrT27
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-nctam2
+Missing ['reaction'] for cs141-w26-lab3b-ryanrT27
+Missing ['reaction'] for cs141-w26-lab3b-nctam2",1.0,"QNDang commented: ""SmartWatch(BatteryLifeType b, VersionType v, string m)
+    : batteryLife(b), version(v), model(m)
+{
+}
+would be another way of doing this constructor""
+QNDang commented: ""Someone who peer reviewed my code suggested that I put const in my getter methods and pass by reference using const package objects. It would improve the code by avoiding unnecessary copying for non-trivial types."""
+"Premjee, Raheali",443964,2408053,rpremjee,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),,,,,,,,,
+"Putty, Anay Murali",455294,2546305,aputty,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aputty@uci.edu,aputty11,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-iiBooque
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-AidenFavish
+Missing ['reaction'] for cs141-w26-lab3b-iiBooque
+Missing ['reaction'] for cs141-w26-lab3b-AidenFavish",2.0,"Tiffannyy commented: ""Nice. I dont see anything else that could be changed in the code. It's straightforward and easy to follow""
+TJHomeworkHub commented: ""This should really use an initializer list. Assigning inside the body works, but we generally prefer initializing members directly.""
+TJHomeworkHub commented: ""Accessors should be `const`. There’s no reason these shouldn’t work on a `const SmartWatch`."""
+"Quach, Bryan Thai",413393,2250771,btquach,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),btquach@uci.edu,bqtquach,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-duyaj
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-esivorap
+Missing ['reaction'] for cs141-w26-lab3c-duyaj
+Missing ['reaction'] for cs141-w26-lab3a-esivorap",2.0,"supanice-uci commented: ""Not really an issue, but variables in all caps are generally used for constants.""
+supanice-uci commented: ""I've looked over the code and it looks good. Template was used correctly and the bug was found and fixed. Good job on the lab!""
+ZhouhengTao commented: ""I think it was done very well and there are no problems."""
+"Radisay, Sterling Thomas",449459,2633862,sradisay,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sradisay@uci.edu,sradisay,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-zhcaury2
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-duyaj
+Missing ['reaction'] for cs141-w26-lab3a-zhcaury2
+Missing ['reaction'] for cs141-w26-lab3c-duyaj",2.0,"zhcaury2 commented: ""No bugs or readability issues spotted in the changed lines. Good job adding const here!""
+charlesyeh-1103 commented: ""Maybe consider clearer names like template <typename M, typename D> for readability.""
+charlesyeh-1103 commented: ""Good fix removing magicPoints = 0; inside the getter. A getter shouldn’t modify state."""
+"Radulescu, Eden Sarah",381849,2189601,eradules,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),eradules@uci.edu,edenradulescu,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-NotJonny1
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-Tiffannyy
+Missing ['reaction'] for cs141-w26-lab3c-NotJonny1
+Missing ['reaction'] for cs141-w26-lab3a-Tiffannyy",2.0,"lukashauge commented: ""This can actually be done over multiple lines, which can help readability! Some people reading your code may have to scroll to the right due to a larger number of columns. I think I made the same mistake too.""
+lukashauge commented: ""though the assignment is small and can do fine without, it may help readability to add comments to document your code! :)""
+galhamda-create commented: ""Good job on removing the magicPoints initialization from getMagicPoints() — it makes the method behave like a proper getter now."""
+"Rarichan, Rohit George",409390,2415403,rraricha,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rraricha@uci.edu,Rohit-rarichan,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-PartiNoone
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-oglantz
+Missing ['reaction'] for cs141-w26-lab3c-PartiNoone
+Missing ['reaction'] for cs141-w26-lab3b-oglantz",2.0,"Ranoldt commented: ""Everything look good, I can only think that maybe make the constructor into two lines for readability. 
+Package(IDType id, WeightType w, string d)
+    : trackingID(id), weight(w), dest(d) {}""
+Ranoldt commented: ""Because the methods are getter functions, you can define them as const for safety""
+Epic-Mushroom commented: ""Good job converting the constructor to use an init list instead of memberwise assignment in the body. ""
+Epic-Mushroom commented: ""I also think that the getters should be defined as `const`. Other than that, everything looks good!"""
+"Raufdeen, Kaden Louis",412042,2424249,kraufdee,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kraufdee@uci.edu,Kraufdeen,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Dpoin23
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-thomasn05
+Missing ['reaction'] for cs141-w26-lab3c-Dpoin23
+Missing ['reaction'] for cs141-w26-lab3c-thomasn05",3.0,"KayleTruong commented: ""This is a cool way to set up the constructor.""
+sim-hub1 commented: ""I also used list initialization in the constructor here, as the professor emphasized this design preference. nice!""
+agamvirmandair commented: ""Good Job."""
+"Reed, Andrew Steven",450139,2505593,reedas1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),reedas1@uci.edu,drewreed2005,True,2.0,2.0,0.0,"Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-vmrenter-code
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-jaack4
+Missing ['reaction'] for cs141-w26-lab3c-vmrenter-code
+Missing ['reaction'] for cs141-w26-lab3c-jaack4",1.0,"ethnvo commented: ""Code looks well and thoroughly written"""
+"Renteria, Victor Manuel",447408,2613711,vmrenter,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),vmrenter@uci.edu,vmrenter-code,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-nkimogpig
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-alemg2004
+Missing ['reaction'] for cs141-w26-lab3b-nkimogpig
+Missing ['reaction'] for cs141-w26-lab3b-alemg2004",2.0,"drewreed2005 commented: ""To my knowledge, there isn't a specific convention for template type naming for templates with multiple types. T and S are valid choices, but it would improve readability to name the template types after the specific data members whose types they represent. For example, there is no indication that `T` represents `batteryLife`'s type, but `TBatteryLife` or some equivalent would make it clear.""
+drewreed2005 commented: ""This is not the proper way to implement a constructor in C++. You should instead use a member initializer list, which takes the following form in this case:
+```c++
+SmartWatch(T b, S v, string m) : batteryLife(b), version(v), model(m) {}
+```
+When you do not use a member initializer list, rather than directly constructing the data member with the given initial value, it instead *default constructs* each data member, then reassigns their value to the given initial value. This is a very important thing to keep in mind when programming C++.""
+drewreed2005 commented: ""The instructions wanted the following to be printed in `main()`:
+
+`Watch {MODEL} {VERSION} (battery={BATTERY_LIFE}%)`
+
+Both of your outputs omit the `(` and `)` characters and include unintended additional spacing around the `=`.""
+BrittenEtchison commented: ""Other than the mistake in the printing format, I would suggest implementing a helper function for printing this. It would help with preventing code duplication to help with readability and making enhance reusability. I'd also line up the print statement <<  to make it look a bit nicer."""
+"Robertson, Kyle Matthew",415227,2332900,kmrober2,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),kmrober2@uci.edu,firewuf,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-supanice-uci
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-ArchieSeh
+Missing ['reaction'] for cs141-w26-lab3c-supanice-uci
+Missing ['reaction'] for cs141-w26-lab3c-ArchieSeh",2.0,"chriscc5 commented: ""Nice use of noexcept and const. I hadn't thought about utilizing them in my own lab but I think it's good practice to do so.""
+chriscc5 commented: ""Nice constructor! You made a quick and efficient constructor unlike a ""noob"" as Klefsted would say. Additionally nice use of string_view. I don't code much in C++ so when I first saw it I was curious as to what it was.""
+emiliolim commented: ""great job correctly initializing your template and adding on some better lines of could such as using const and noexcept! Good job!"""
+"Rodriguez, Cesar Jesus",378646,2191873,cesarjr3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),,,,,,,,,
+"Ruebsamen, Lucas William",412459,2440037,lruebsam,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lruebsam@uci.edu,Wheeledparasite,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-MichaelP222
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-pjtsearch
+Missing ['reaction'] for cs141-w26-lab3c-MichaelP222
+Missing ['reaction'] for cs141-w26-lab3a-pjtsearch",2.0,"AlvinAKTran commented: ""Everything looks likes it'll work. Good job!""
+EatKFCinMc commented: ""Seems all good!"""
+"Saldana, Sahir Sebastian",351098,2131250,sahirss,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),sahirss@uci.edu,sahirss,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sahirsh
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-christinne-n
+Missing ['reaction'] for cs141-w26-lab3b-sahirsh
+Missing ['reaction'] for cs141-w26-lab3b-christinne-n",1.0,"avanaaap commented: ""code looks very clean and readable to me!"""
+"Sanchez Verdin, Pedro",376843,2214262,pedros3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),pedros3@uci.edu,ermmre,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-BrittenEtchison
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-QuocTrinh-hub
+Missing ['reaction'] for cs141-w26-lab3b-BrittenEtchison
+Missing ['reaction'] for cs141-w26-lab3b-QuocTrinh-hub",3.0,"iiBooque commented: ""I think it might be redundant to have two templates as you already initalized the first one on line 5. Maybe remove this one, and keep everything to T and W.""
+iiBooque commented: ""Again here, it is not consistent with one template and this would make the code clearer and reduce confusion for someone reading it""
+lenat05 commented: ""I think that you shouldn't initialize two templates. Just this one works, no need for the T1 and T2 later""
+lenat05 commented: ""I would recommend only having one template but otherwise I think you have the correct idea""
+BrittenEtchison reacted to your comment :laugh:"
+"Sanchez, Phelixx M. Minh Khoa",412426,2442419,phelixxs,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),phelixxs@uci.edu,phelixxthecat,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-jiyu02
+Missing ['comment', 'reply'] for cs141-w26-lab3a-esivorap
+Missing ['reaction'] for cs141-w26-lab3c-jiyu02
+Missing ['reaction'] for cs141-w26-lab3a-esivorap",2.0,"VictorChen26 commented: ""The class was not actually converted into a template, as the template parameters were never defined. Although you did use MP and D throughout the class denoting them as the template parameters, the explicit declaration was never added (template <typename MP, typename D>). In addition, the second step asked for output statements which are missing. Since the template parameters are not defined, the code will not compile. ""
+wdrobish commented: ""Naming the types so similarly to the attribute names could possibly cause confusion! I do think that having more relevant names than the standard T is a good move though."""
+"Sasaki, Preston Takashi",409336,2413026,sasakip,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sasakip@uci.edu,sasakip-uci-edu,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-nctam2
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-EliranAvigani
+Missing ['reaction'] for cs141-w26-lab3b-nctam2
+Missing ['reaction'] for cs141-w26-lab3b-EliranAvigani",2.0,"kristerduster commented: ""Try replacing 'int' with 'typename' so that batteryLife and version can be true generic, templated types (double/float/int/string even)""
+kristerduster commented: ""We still need the private data members batteryLife and version, but once you declare the templated types in line 10:
+template <typename T1, typename T2>
+
+batteryLife can be type T1 and version can be type T2. Thus, lines 8 and 9 will be
+T1 batteryLife;
+T2 version;
+
+Then pass the corresponding parameters into the SmartWatch constructor:
+SmartWatch(T1 b, T2 v, string m).
+
+Basically replace all types of batteryLife with T1 and version with T2 instead of hardcoding their types. This way, you don't have to modify the input values to match specific types below.""
+joshngn commented: ""For template, you should be using ""template <typename T1, typename T2> and replacing battery life and version with types T1 and T2. This way you are able to use the methods regardless of what types batterylife and version are. For example, battery life and version can work as either a double or an int and you wouldn't have to write another function for them to handle different types. I hope this make sense.""
+joshngn commented: ""use template <typename T1, typename T2>, this way the method is able to accept multiple types as the parameters. This allows you to reuse the same method for multiple different types and don't need to rewrite another method for handling other types. High level way to think of it is battery and version can be both ints and doubles, etc. hope this helps!"""
+"Sawant, Aditya Nandkishor",409779,2439244,sawantan,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sawantan@uci.edu,AdiAnteater,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-laurajacint0
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-KunGeng
+Missing ['reaction'] for cs141-w26-lab3a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab3a-KunGeng",2.0,"TJHomeworkHub commented: ""Lowercase template parameters read like variables. Consider using something like `BatteryT` / `VersionT` so it’s obvious these are types.""
+TJHomeworkHub commented: ""Should pass the string by `const &` or move.""
+TJHomeworkHub commented: ""Accessors should be const. There’s no reason these shouldn’t work on a `const SmartWatch`.""
+ryanrT27 commented: ""although not a huge error, making getters const is good practice :p"""
+"Segura, Jonathan",447193,2502981,seguraj3,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),seguraj3@uci.edu,NotJonny1,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-oglantz
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-ninal11
+Missing ['reaction'] for cs141-w26-lab3b-oglantz
+Missing ['reaction'] for cs141-w26-lab3b-ninal11",2.0,"noahk004 commented: ""Everything looks good, except that you should use initializer lists to instantiate object members. Other than that, great job!""
+edenradulescu commented: ""Hello! Good catch on changing the way variables are instantiated! I might not have caught that myself. The way you templeted everything also looks good to me. Great job!"""
+"sehgall, Archie",455309,2617900,asehgall,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),architsehgal1@gmail.com,ArchieSeh,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-mvttjb
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-alexpetro47
+Missing ['reaction'] for cs141-w26-lab3b-mvttjb
+Missing ['reaction'] for cs141-w26-lab3a-alexpetro47",2.0,"dsilluci commented: ""Why remove camel casing for accessor methods?""
+firewuf commented: ""Missing a semicolon at the end of the line, which is invalid syntax."""
+"Shahrestany, Evan Arya",444183,2217139,eashahre,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),eashahre@uci.edu,eshahrestany,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-jordan-m-finn
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-haoqp1
+Missing ['reaction'] for cs141-w26-lab3a-jordan-m-finn
+Missing ['reaction'] for cs141-w26-lab3c-haoqp1",2.0,"NvyGreen commented: ""The values `magicPoints` and `duration` aren't supposed to be passed into the template, their types are. Try doing something like `template<typename T1, typename T2>`.""
+NvyGreen commented: ""With the above change, these parameters can be kept in, but you can instead set it to something like:
+`T1 magicPoints;`
+`T2 duration;`""
+NvyGreen commented: ""Leave the constructor, but change the header to be:
+`Potion (T1 mp, T2, d, string n)`""
+NvyGreen commented: ""With the above changes, you can leave the main function as-is. The types passed in to the angle brackets are the type parameters. For example, in the first declaration, `magicPoints` will be of type `double` and have a value of `50.5` and `duration` will be of type `int` and have a value of `10`.""
+NvyGreen commented: ""The original functions can be kept the same, but make `getMagicPoints()` return type `T1` and `getDuration()` return type `T2`.""
+Neilk1021 commented: ""Types aren't supposed to be passed in. So this should be more akin to template<T_MP, T_Duration>""
+Neilk1021 commented: ""Doesn't initialize all the fields of Potion (although you, I suppose, removed these fields, but this was not intended).""
+Neilk1021 commented: ""We don't want to make a potion in this way, as this is fragile and inefficient. We want to declare the types and then set the values when we instantiate the object."""
+"Shahrin, Simrah",409191,2414087,sshahrin,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),sshahrin@uci.edu,sim-hub1,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-LentKe
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Kraufdeen
+Missing ['reaction'] for cs141-w26-lab3b-LentKe
+Missing ['reaction'] for cs141-w26-lab3b-Kraufdeen",2.0,"pjtsearch commented: ""The C++ convention would be to name the template parameters ""TBatteryLife"" and ""TVersion"". That way, you wouldn't have to have the instance variable names be prefixed with an underscore.""
+LentKe replied to you: ""I forgot auto existed"""
+"Shen, Yilin",413612,2434445,yilis15,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yilis15@uci.edu,yilis15,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3a-Jajavon
+Missing ['comment', 'reply'] for cs141-w26-lab3c-AshGasparyanCS
+Missing ['reaction'] for cs141-w26-lab3a-Jajavon
+Missing ['reaction'] for cs141-w26-lab3c-AshGasparyanCS",0.0,
+"Sheng, Luke",413871,2432850,lukes4,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),lukes4@uci.edu,lukes4-uci,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-pub1icstaticvoid
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-jordan-m-finn
+Missing ['reaction'] for cs141-w26-lab3a-pub1icstaticvoid
+Missing ['reaction'] for cs141-w26-lab3a-jordan-m-finn",2.0,"ethanvotran20 commented: ""Everything looks good. The template is set up right, the types swap correctly between the two potions, and the print statements in main show the values the way the instructions asked. Nice job!""
+jiyu02 commented: ""Everything looks good. Don't think you need to add the std:: in front of string since you are using namespace std"""
+"Shi, Yuwen",407825,2361644,yuwens7,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yuwens7@uci.edu,HarryS561,False,0.0,0.0,0.0,,0.0,
+"Shim, Kyumin Andrew",347745,2079857,shimka,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),shimka@uci.edu,AndrewShim0428,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-AlvinAKTran
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-alvarov17
+Missing ['reaction'] for cs141-w26-lab3c-AlvinAKTran
+Missing ['reaction'] for cs141-w26-lab3b-alvarov17",1.0,"anthon12-uci commented: ""I never thought to name my template types in relation to the variable names, that seems pretty neat for readability."""
+"Sidhu, Ganeev Singh",457339,2627403,ganeevss,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ganeevss@uci.edu,ganeevsinghs,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-twleochao
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-hivgundamss
+Missing ['reaction'] for cs141-w26-lab3b-twleochao
+Missing ['reaction'] for cs141-w26-lab3a-hivgundamss",1.0,"ariyagowda replied to you: ""Looks like we approached this pretty similarly. Using templates here makes sense since it keeps the class flexible without adding much complexity, and the implementation stays readable."""
+"Sill, Dylan Matthew",412782,2332052,dsill,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dsill@uci.edu,dsilluci,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-christinne-n
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-ArchieSeh
+Missing ['reaction'] for cs141-w26-lab3b-christinne-n
+Missing ['reaction'] for cs141-w26-lab3c-ArchieSeh",2.0,"christinne-n commented: ""everything looks good to me! you did everything correct, especially the output, & using typename is better than making it specific and hardcoding it""
+Ava-Kopecky commented: ""I think your code looks great! You did a really great job keeping the formatting of everything very simple and readable and your output looks perfect with the correct spacing and getters. Good job! :D"""
+"Sivoraphonh, Edric Hwang",257622,1675602,esivorap,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),esivorap@uci.edu,esivorap,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-ImRayyaan
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-iamshauryag
+Missing ['reaction'] for cs141-w26-lab3c-ImRayyaan
+Missing ['reaction'] for cs141-w26-lab3c-iamshauryag",1.0,"bqtquach commented: ""first pass looks good templates syntax looks correct"""
+"Smith, Drake",448554,2625584,drakes1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),drakes1@uci.edu,GreasySponge,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-KayleTruong
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-varunia2
+Missing ['reaction'] for cs141-w26-lab3a-KayleTruong
+Missing ['reaction'] for cs141-w26-lab3c-varunia2",2.0,"EatKFCinMc commented: ""Good habit on spliting long row of code!""
+vatsag-06 commented: ""Nice job, logic is correct.""
+vatsag-06 commented: ""Good job, though you might consider adding some comments. But everyting else is perfect!!"""
+"Sou, Andrew Kong",407824,2370765,aksou,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aksou@uci.edu,andrewwsou,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-Dhivyno
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-jifanf1
+Missing ['reaction'] for cs141-w26-lab3a-Dhivyno
+Missing ['reaction'] for cs141-w26-lab3a-jifanf1",2.0,"aditkantak commented: ""Good work formatting the output properly to make it very readable and per the required format.""
+iamshauryag commented: ""Looks good!"""
+"Stein, Luno",408848,2403111,steint1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),steint1@uci.edu,moonluno,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-VictorChen26
+Missing ['comment', 'reply'] for cs141-w26-lab3c-Neilk1021
+Missing ['reaction'] for cs141-w26-lab3c-VictorChen26
+Missing ['reaction'] for cs141-w26-lab3c-Neilk1021",2.0,"heechy33 commented: ""Overall, I think you correctly converted the package class into a template and ensured the attributes are readable. For line 25, I think it's good practice to add const so the getID() function doesn't modify the value.""
+TonyYao8271 commented: ""I think the getter methods should be constant, just incase it changes the data members. ""
+TonyYao8271 commented: ""Your commits are really showing a clean job of separating different parts of the work. """
+"Supanich, Ethan David",376085,2174560,supanice,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),supanice@uci.edu,supanice-uci,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-bqtquach
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-joshngn
+Missing ['reaction'] for cs141-w26-lab3b-bqtquach
+Missing ['reaction'] for cs141-w26-lab3b-joshngn",2.0,"zhcaury2 commented: ""Code was readable and no bugs were spotted. std::endl in these lines can be shortened to just endl.""
+firewuf commented: ""This assignment statement is invalid; it should be reversed."""
+"Ta, Tri Minh",449037,2260046,tmta2,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),tmta2@uci.edu,triminhta1207,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-charcod-jpg
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-lucasli2
+Missing ['reaction'] for cs141-w26-lab3a-charcod-jpg
+Missing ['reaction'] for cs141-w26-lab3c-lucasli2",2.0,"ebangerz commented: ""Good job using relevant typenames. Though it doesn't matter, it makes things a lot less confusing when replacing types.""
+ebangerz commented: ""No complaints overall, good job. For future reference though, you could make a few more commits just so the reviewer can get a better idea of the steps you took to achieve the final code.""
+Neilk1021 commented: ""Good typenames, but maybe something more explicit than ""D"" for the duration type?""
+Neilk1021 commented: ""good catch with const"""
+"Taing, Rina",448649,2500539,rinat1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),rinat1@uci.edu,CyanAnteater,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-laurajacint0
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-liuftuci
+Missing ['reaction'] for cs141-w26-lab3a-laurajacint0
+Missing ['reaction'] for cs141-w26-lab3a-liuftuci",2.0,"Benny237 commented: ""I think you also need to change the return type of functions getDuration() and getMagicPoints() to their respective template types. Nice use of commits!""
+kevinh-a commented: ""Just for future reference, but line 4's using namespace std allows you to exclude the std:: prefix to std library scoped items! This should work with string_view too as its prefixed with std:: as well, and it's nice to know."""
+"Tam, Nathan Christopher",408507,2401765,nctam2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nctam2@uci.edu,nctam2,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-laggycomputer
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-ethanvotran20
+Missing ['reaction'] for cs141-w26-lab3a-laggycomputer
+Missing ['reaction'] for cs141-w26-lab3a-ethanvotran20",2.0,"apoolla114 commented: ""missing the string formatting""
+apoolla114 commented: ""your solution looks optimal""
+sasakip-uci-edu commented: ""Nice use of descriptive type names for your parameters, I saw some other solutions that used T and T2 which can be easily confused."""
+"Tao, Zhouheng",375442,2208561,zhouhent,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),zhouhent@uci.edu,ZhouhengTao,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-alemg2004
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-bqtquach
+Missing ['reaction'] for cs141-w26-lab3b-alemg2004
+Missing ['reaction'] for cs141-w26-lab3b-bqtquach",1.0,"pub1icstaticvoid commented: ""good job declaring two typenames because batteryLife and version can be different types"""
+"Tapia, Ryan Ricardo",411740,2421783,tapiarr,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),tapiarr@uci.edu,ryanrT27,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-AdiAnteater
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-lukashauge
+Missing ['reaction'] for cs141-w26-lab3c-AdiAnteater
+Missing ['reaction'] for cs141-w26-lab3c-lukashauge",2.0,"apoolla114 commented: ""good fix""
+apoolla114 commented: ""I like your use of const for the accessors methods""
+Accelerator050717 commented: ""The constructor adapts well to the template parameters. Using an initializer list here keeps the implementation clean.
+""
+Accelerator050717 commented: ""Marking these getters as const and returning template types.
+"""
+"Thoeung-Ferguson, Jada Ranae",380021,2290821,jthoeung,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),jthoeung@uci.edu,Jthoeung,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-winstonjgiang
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-heechy33
+Missing ['reaction'] for cs141-w26-lab3b-winstonjgiang
+Missing ['reaction'] for cs141-w26-lab3b-heechy33",0.0,
+"Torres, Aaron Perez Jr.",491348,2672858,aptorre2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),aptorre2@uci.edu,20chino05,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-QNDang
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3b-anthon12-uci
+Missing ['reaction'] for cs141-w26-lab3b-QNDang
+Missing ['reaction'] for cs141-w26-lab3b-anthon12-uci",2.0,"yuchuehw commented: ""seems good. i really like that you created a `printall` function. perhaps more descriptive name for `B` and `V`?""
+20chino05 commented: ""That could improve readability, thank you"""
+"Tran, Alvin Anh Kha",414545,2448845,alvinat2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),alvinat2@uci.edu,AlvinAKTran,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Wheeledparasite
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-nkimogpig
+Missing ['reaction'] for cs141-w26-lab3b-Wheeledparasite
+Missing ['reaction'] for cs141-w26-lab3b-nkimogpig",1.0,"AndrewShim0428 commented: ""Looks good! Pushing in steps seems like good practice too."""
+"Tran, Lena",455744,2519190,lenat7,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),lenat7@uci.edu,lenat05,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-ermmre
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-1JunHuang
+Missing ['reaction'] for cs141-w26-lab3a-ermmre
+Missing ['reaction'] for cs141-w26-lab3c-1JunHuang",3.0,"EpicToastTM commented: ""Good call adding a comment for this. There are some spaces missing in the print statements but other than that it looks good.""
+ImRayyaan commented: ""Everything looks clean and logical which is good. I think you could work on fixing the spacing in your cout statements as it will make the readability better. ""
+AshGasparyanCS commented: ""I really like how you space out your brackets, it helps readers understand the code better in my opinion."""
+"Tran, Ronald Nhan-Loc",375478,2208811,ronaldnt,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ronaldnt@uci.edu,Ranoldt,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-Tiffannyy
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-Rohit-rarichan
+Missing ['reaction'] for cs141-w26-lab3a-Tiffannyy
+Missing ['reaction'] for cs141-w26-lab3a-Rohit-rarichan",1.0,"kbattson commented: ""Everything looks solid to me, nice job using a list initializer list. """
+"Tranfield, Michael Takumi",411555,2398896,mtranfie,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),mtranfie@uci.edu,mtranfie,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-manihomafar
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Lekzs
+Missing ['reaction'] for cs141-w26-lab3c-manihomafar
+Missing ['reaction'] for cs141-w26-lab3c-Lekzs",2.0,"twleochao commented: ""Great job on converting the class into a template. I also like how you made print() into a function. Everything looks right!""
+Ewuman commented: ""Everything looks good, nice job!"""
+"Trinh, Wilson Quoc",449871,2536869,qltrinh,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),luongtrinh2003@gmail.com,QuocTrinh-hub,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-sunjaelee3
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-BradyCason
+Missing ['reaction'] for cs141-w26-lab3c-sunjaelee3
+Missing ['reaction'] for cs141-w26-lab3a-BradyCason",2.0,"ermmre commented: ""Everything looks good! Good catch on adding const to the getter functions, I don't think I did that myself but it seems like a good idea to do so.""
+mjliu5 commented: ""Hello,
+
+I like how you've put cout on two lines. It looks good. I also agree with ermmre, adding const to the getters is nice - I had not thought to do so either."""
+"Truong, Kayle Phuong-Vy",407090,2350939,kaylet,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),kaylet@uci.edu,KayleTruong,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-christianacho
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Kraufdeen
+Missing ['reaction'] for cs141-w26-lab3b-christianacho
+Missing ['reaction'] for cs141-w26-lab3b-Kraufdeen",2.0,"yeqiw1 commented: ""Making Package a template is a good move, but using only one type T means trackingID and weight must always be the same type. That’s a problem because in main you’re trying to make something like Package<string, double>, where the ID is a string and the weight is a double. With only one T, you can’t do that.""
+GreasySponge commented: ""As yeqiw1 pointed out, this initialization of Package probably produces an error in gcc as it sees a template with one argument called with 2 arguments."""
+"Tu, Alexander Ngo",448781,2545934,antu2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),antu2@uci.edu,Alexander-Tu2,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-AnviM1
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-PNZ-z
+Missing ['reaction'] for cs141-w26-lab3a-AnviM1
+Missing ['reaction'] for cs141-w26-lab3a-PNZ-z",2.0,"charcod-jpg commented: ""magicPoints and duration are declared twice, only the template members should exist.""
+charcod-jpg commented: ""getters should never change the object's data""
+Dpoin23 commented: ""magicPoints reset to 0 before returning it in a getter method."""
+"Turpanjian, Peter",408438,2401571,pturpanj,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),pturpanj@uci.edu,pjtsearch,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-sim-hub1
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-LittleLion930
+Missing ['reaction'] for cs141-w26-lab3c-sim-hub1
+Missing ['reaction'] for cs141-w26-lab3b-LittleLion930",3.0,"elizabethmwatkins commented: ""This looks good to me! Good job!""
+Wheeledparasite commented: ""Everything looks good and the templates work as expected. Nice job!""
+Wheeledparasite commented: ""Could potentially add a ""const"" to the getter methods for slight improvement because they dont modify anything.""
+myn13 reacted to your comment :+1:"
+"Umanzor Campos, Nicol S",380370,2248462,umanzorn,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),umanzorn@uci.edu,Nicol-U,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-dragonkeon
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-1JunHuang
+Missing ['reaction'] for cs141-w26-lab3c-dragonkeon
+Missing ['reaction'] for cs141-w26-lab3c-1JunHuang",2.0,"JordanPham2002 commented: ""copies id/w/d; better: Package(const T& id, const W& w, const string& d)""
+jjdonckels commented: ""since you're using namespace std, you don't need std:: for cout and endl, but it never hurts to be safe! """
+"Upadhyaya, Pavana",409710,2437418,pavanau,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),pavanau@uci.edu,avanaaap,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-seungl25
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-sahirss
+Missing ['reaction'] for cs141-w26-lab3b-seungl25
+Missing ['reaction'] for cs141-w26-lab3c-sahirss",1.0,"AllyBeary commented: ""Nice conversion into a template! I wonder if the typenames t1 and t2 could be more specific to trackingID and weight? Also, the output statements should be consistent in the spacing, whether there is space between variables and the << operator or not. """
+"Uppala, Abhinav",410103,2331685,auppala,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),auppala@uci.edu,abhinavuppala,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-xsjsgfdysd
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-marcusl07
+Missing ['reaction'] for cs141-w26-lab3c-xsjsgfdysd
+Missing ['reaction'] for cs141-w26-lab3c-marcusl07",2.0,"Dhivyno commented: ""Perhaps the DType typename can be slightly more descriptive like DurationType""
+Dhivyno commented: ""good use of an intermediate method to print, I didn't think of that""
+kevinh-a commented: ""To stay consistent, this getDuration can also include a const in it's getter as it doesn't modify anything about duration. """
+"Ventura Tafolla, Alvaro",409392,2435847,alvarov2,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),alvarov2@uci.edu,alvarov17,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3c-Mr-Merp
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-ImRayyaan
+Missing ['reaction'] for cs141-w26-lab3c-Mr-Merp
+Missing ['reaction'] for cs141-w26-lab3c-ImRayyaan",3.0,"AndrewShim0428 commented: ""Looks pretty good!""
+varunia2 commented: ""Looks good! I would also make getDuration() and getName() const since you dont modify the object in them.""
+marcusl07 commented: ""Looks good, good job on the constructor."""
+"Vo, Ethan Kha",411536,2398855,ekvo,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ekvo@uci.edu,ethnvo,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-drewreed2005
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-Atif-Ahmad
+Missing ['reaction'] for cs141-w26-lab3b-drewreed2005
+Missing ['reaction'] for cs141-w26-lab3a-Atif-Ahmad",1.0,"alexpetro47 commented: ""the commit message 'removed colons' is misleading and inaccurate. code is fine. :)"""
+"Vo, Tracy Minh Thu",415208,2379493,tracymv,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),tracymv@uci.edu,PartiNoone,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-elizabethmwatkins
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-daviddeng0smm
+Missing ['reaction'] for cs141-w26-lab3b-elizabethmwatkins
+Missing ['reaction'] for cs141-w26-lab3b-daviddeng0smm",2.0,"nyelgireddy commented: ""Nice code! I like how you chose relevant type names. ""
+Rohit-rarichan commented: ""Clear and correct template usage with clear member variables and constructors"""
+"Votran, Ethan Leland",379939,2289775,evotran,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),evotran@uci.edu,ethanvotran20,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-lukes4-uci
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-Benny237
+Missing ['reaction'] for cs141-w26-lab3b-lukes4-uci
+Missing ['reaction'] for cs141-w26-lab3c-Benny237",2.0,"nctam2 commented: ""Looks Good. I think thats everything thats needed so nice job!""
+sasha-oconnor commented: ""Nice job using an initialization list, this is faster and more efficient because it does not need to make a copy of the values, the compiler already knows what to do with your data members."""
+"Vuong, Dylan",485542,2526912,dylanv3,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),dylanv3@uci.edu,DylanVuong3,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-ninal11
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-rsljhns
+Missing ['reaction'] for cs141-w26-lab3b-ninal11
+Missing ['reaction'] for cs141-w26-lab3b-rsljhns",1.0,"christianacho commented: ""Good changing these into template form and without hardcoding types"""
+"Wang, Erik Suhan",411548,2398874,erikw1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),erikw1@uci.edu,w4h009,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3a-pr1vatestaticfinal
+Missing ['comment', 'reply'] for cs141-w26-lab3b-rykubota
+Missing ['reaction'] for cs141-w26-lab3a-pr1vatestaticfinal
+Missing ['reaction'] for cs141-w26-lab3b-rykubota",1.0,"KunGeng commented: ""Good job on finishing this lab! Everything looks good to me."""
+"Wang, Kamish",422061,2361380,ziqinw2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),ziqinw2@uci.edu,kamyyywang,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3c-kevinh-a
+Missing ['comment', 'reply'] for cs141-w26-lab3b-techsgithub
+Missing ['reaction'] for cs141-w26-lab3c-kevinh-a
+Missing ['reaction'] for cs141-w26-lab3b-techsgithub",2.0,"LentKe commented: ""Main is empty, should be printing out Package {ID} (weight={WEIGHT} lbs) going to {DESTINATION}""
+LentKe commented: ""Using typename in this case is incorrect, you should use like auto or just specify them out maybe either int or double""
+LentKe commented: ""need to match your constructor with your new design
+Package(string d) : dest(d) {}""
+x1d1 commented: ""Looks good, just make sure to follow through with actually implementing main as per the assignment description!"""
+"Wang, Yu-Chueh",375556,2210470,yuchuehw,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yuchuehw@uci.edu,yuchuehw,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-jjdonckels
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-20chino05
+Missing ['reaction'] for cs141-w26-lab3c-jjdonckels
+Missing ['reaction'] for cs141-w26-lab3c-20chino05",3.0,"20chino05 reacted to your comment :+1:
+jiyu02 commented: ""Everything looks good. Output is correct""
+Jajavon commented: ""It looks like you correctly converted the class into a template and replaced types with the template parameters. Nicely done."""
+"Wang, Yuhao",415864,2463321,yuhaow29,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yuhaow29@uci.edu,EatKFCinMc,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-GreasySponge
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-Wheeledparasite
+Missing ['reaction'] for cs141-w26-lab3b-GreasySponge
+Missing ['reaction'] for cs141-w26-lab3b-Wheeledparasite",1.0,"echennau commented: ""Great work implementing a print function for repeatability."""
+"Watkins, Elizabeth Marie",447799,2617182,emwatki1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),emwatki1@uci.edu,elizabethmwatkins,True,2.0,1.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3a-CHAdinna
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-pjtsearch
+Missing ['reaction'] for cs141-w26-lab3a-CHAdinna
+Missing ['reaction'] for cs141-w26-lab3a-pjtsearch",2.0,"NvyGreen commented: ""Everything looks good! The only thing I would consider changing is to make the typenames a little more descriptive (such as `mpType` and `durType`) but other than that, this looks great!""
+PartiNoone commented: ""Looks good. I appreciate that the names of the type name parameters are standardly used, but maybe more descriptive names are something to consider.""
+PartiNoone commented: ""Everything looks good. I appreciate the standard names for the type parameter names, but maybe more descriptive names should be considered."""
+"Wennerlund, Axel Hugo Erik",492076,2837354,awennerl,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),AWENNERL@UCI.EDU,axelwennerlund,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-charlesyeh-1103
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-Karbite
+Missing ['reaction'] for cs141-w26-lab3c-charlesyeh-1103
+Missing ['reaction'] for cs141-w26-lab3b-Karbite",1.0,"HsuAustin commented: ""correct way to write a template, good job""
+HsuAustin commented: ""fantastic""
+HsuAustin commented: ""these are great works!""
+HsuAustin commented: ""nice!"""
+"Wu, Ethan Haolin",381842,2205298,wueh2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),wueh2@uci.edu,Ewuman,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-mtranfie
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-gymPotato-1
+Missing ['reaction'] for cs141-w26-lab3a-mtranfie
+Missing ['reaction'] for cs141-w26-lab3b-gymPotato-1",2.0,"nathanlcheng commented: ""Very well done, I liked how your template typenames actually help with identifying which variables they would correspond to.""
+EliranAvigani commented: ""great job making it into a method instead of having to do it twice in main""
+EliranAvigani commented: ""great job making it a template, and good naming scheme as well"""
+"Wu, Katy",413603,2444368,yeqiw1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),yeqiw1@uci.edu,yeqiw1,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-EpicToastTM
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-KayleTruong
+Missing ['reaction'] for cs141-w26-lab3c-EpicToastTM
+Missing ['reaction'] for cs141-w26-lab3a-KayleTruong",1.0,"leec00260 commented: ""I like that the typename names are descriptive of what their functions are.""
+leec00260 commented: ""Can I ask why you turned it into a const reference?"""
+"Yang, Cindy",407303,2351727,xinyy26,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),xinyy26@uci.edu,gymPotato-1,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3a-emiliolim
+Missing ['comment', 'reply'] for cs141-w26-lab3c-apoolla114
+Missing ['reaction'] for cs141-w26-lab3a-emiliolim
+Missing ['reaction'] for cs141-w26-lab3c-apoolla114",2.0,"Ewuman commented: ""Looks good! Maybe could add a print method to Potion instead of calling cout twice but this also works.""
+manihomafar commented: ""Everything looks good to me and seems to meet the specifications, good work."""
+"Yang, Natalie",449400,2577608,nataly4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),nataly4@uci.edu,nkimogpig,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-maburto19
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-haoqp1
+Missing ['reaction'] for cs141-w26-lab3a-maburto19
+Missing ['reaction'] for cs141-w26-lab3c-haoqp1",2.0,"AlvinAKTran commented: ""Everything here looks good! Nice job catching that the getter methods can all be labeled as const methods! ""
+AlvinAKTran commented: ""You seem to be missing one of the potion outputs here.""
+vmrenter-code commented: ""Excellent job using list initialization. This is the sign of a strong programmer. """
+"Yang, Owen Li",412182,2430181,olyang,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),olyang@uci.edu,Mr-Merp,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-TJHomeworkHub
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sahirsh
+Missing ['reaction'] for cs141-w26-lab3b-TJHomeworkHub
+Missing ['reaction'] for cs141-w26-lab3b-sahirsh",2.0,"alvarov17 commented: ""Good stuff on catching the error!""
+alvarov17 commented: ""Nice, no problems with your code! Good job :)""
+LittleLion930 commented: ""Better C++ style would be to use an initializer list: SmartWatch(T b, U v, string m) : batteryLife(b), version(v), model(m) {}"""
+"Yao, Dasheng",313189,1886537,dashengy,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),dashengy@uci.edu,TonyYao8271,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3a-moonluno
+Completed 3 ['comment', 'reply'] for cs141-w26-lab3c-devg1ics
+Missing ['reaction'] for cs141-w26-lab3a-moonluno
+Missing ['reaction'] for cs141-w26-lab3c-devg1ics",2.0,"itsmandrew commented: ""Usually using T1 and T2 is idiomatic for C++ templating type""
+itsmandrew commented: ""shouldn't push binary file into git""
+itsmandrew commented: ""i wouldn't push .vscode directory & .ipynb_checkpoints directory into my git""
+Frank808-Git commented: ""Using the name T_int and T_double would be better to communicate your intention as Tint can be misinterepreted as one word.""
+Frank808-Git commented: ""  On this last line I think you forgot a closing parentheses for your string after ""seconds."" """
+"Yeh, Charles",407958,2371312,charley5,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),charley5@uci.edu,charlesyeh-1103,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-sradisay
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-x1d1
+Missing ['reaction'] for cs141-w26-lab3b-sradisay
+Missing ['reaction'] for cs141-w26-lab3b-x1d1",1.0,"axelwennerlund commented: ""Good job with the lab! To me, everything seems correct and it is well written.
+One small thing: I believe types often start with a captial letter, for instance: BatteryT."""
+"Yeh, Frank",409342,2413067,fyeh2,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),fyeh2@uci.edu,Frank808-Git,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-HsuAustin
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-TonyYao8271
+Missing ['reaction'] for cs141-w26-lab3b-HsuAustin
+Missing ['reaction'] for cs141-w26-lab3b-TonyYao8271",1.0,"jifanf1 commented: ""Interesting that you used + and std::to_string; I guess you're used to Java!"""
+"Yelgireddy, Neha",450282,2223922,nyelgire,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),nyelgire@uci.edu,nyelgireddy,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-sunjaelee3
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-PartiNoone
+Missing ['reaction'] for cs141-w26-lab3c-sunjaelee3
+Missing ['reaction'] for cs141-w26-lab3c-PartiNoone",1.0,"wendiiiiii commented: ""clear typename good for readbility"""
+"Yi, Steven Jongyun",350283,2119080,sjyi1,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),sjyi1@uci.edu,fruitsaladyumyum,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-BrittenEtchison
+Missing ['comment', 'reply'] for cs141-w26-lab3a-AndrewShim0428
+Missing ['reaction'] for cs141-w26-lab3b-BrittenEtchison
+Missing ['reaction'] for cs141-w26-lab3a-AndrewShim0428",1.0,"Atif-Ahmad commented: ""This works fine. If you want to look super smart you could also make the constructor like this:
+
+SmartWatch(T1 b, T2 v, string m) : batteryLife(b), version(v), model(m) {}""
+Atif-Ahmad commented: ""Good job on your implementation 👍 """
+"Yin, Shuai",408635,2404129,syin13,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),syin13@uci.edu,clairdelunesolace,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3b-drewreed2005
+Missing ['comment', 'reply'] for cs141-w26-lab3c-20chino05
+Missing ['reaction'] for cs141-w26-lab3b-drewreed2005
+Missing ['reaction'] for cs141-w26-lab3c-20chino05",2.0,"techsgithub commented: ""You need to print ""Package {ID} (weight={WEIGHT} lbs) going to {DESTINATION}"" as per your task. Other than that, everything looks good!""
+jy8liu commented: ""yeah it looks fine, like the other comment the output is a little different than what the prompt wants but its cool"""
+"Yoon, Heechan",380462,2249950,heechany,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),heechany@uci.edu,heechy33,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3a-moonluno
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-JimmyZzz30
+Missing ['reaction'] for cs141-w26-lab3a-moonluno
+Missing ['reaction'] for cs141-w26-lab3c-JimmyZzz30",3.0,"pub1icstaticvoid commented: ""good job you changed all instances of magicPoints and duration's types into their generic types""
+Jthoeung commented: ""Well written code that is easy to follow and does what it is supposed to. Only suggestion would be to pick typenames that apply more in the context but other than that good job!""
+devg1ics commented: ""I like that you’re clearly thinking about flexibility and reuse by introducing templates here. The class layout is easy to read, and the intent behind the constructors and getters makes sense—this is a good foundation that just needs a bit of refinement to be solid."""
+"Yu, Jieyang",443808,2026889,jieyangy,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),jieyangy@uci.edu,jiyu02,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-lukes4-uci
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-yuchuehw
+Missing ['reaction'] for cs141-w26-lab3b-lukes4-uci
+Missing ['reaction'] for cs141-w26-lab3b-yuchuehw",1.0,"AidenFavish commented: ""I don't know if this won't compile but its convention to put the template on a line above the class declaration."""
+"Yu, Mingyang",411847,2420878,myu12,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),myu12@uci.edu,Accelerator050717,True,2.0,2.0,0.0,"Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-ryanrT27
+Completed 2 ['comment', 'reply'] for cs141-w26-lab3b-joolenn
+Missing ['reaction'] for cs141-w26-lab3b-ryanrT27
+Missing ['reaction'] for cs141-w26-lab3b-joolenn",1.0,"aresalvarado commented: ""I noticed people using initializer lists! Very good, I forgot this was a thing when writing up my template class!""
+aresalvarado commented: ""Methods are straightforward and clean!""
+aresalvarado commented: ""No comments, it all compiled and ran well!"""
+"Zhang, Calvin Chen",446640,2629571,calvincz,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),calvincz@uci.edu,zhcaury2,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sradisay
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3c-supanice-uci
+Missing ['reaction'] for cs141-w26-lab3b-sradisay
+Missing ['reaction'] for cs141-w26-lab3c-supanice-uci",2.0,"sradisay commented: ""Nice work converting the constructor to a template. One improvement I would make here is to use the C++ initialization list format for the constructor. It is standard C++ and more efficient. ""
+sradisay commented: ""Nice work templatizing the getters. One improvement I would make is to add const after the method declarations.
+
+For example:
+T1 getID() const {return trackingID; }
+
+This tells the compiler that this function does not modify the Package instance which allows for optimizations. ""
+ninal11 commented: ""An initialization list is the preferred method of initialization in C++. This line could be changed to ""Package(T1 id, T2 w, string d) : trackingID(id), weight(w), dest(d) {}"""""
+"Zhang, Haorong",361956,2161321,haorongz,IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040),haorongz@uci.edu,xsjsgfdysd,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-rsljhns
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-joolenn
+Missing ['reaction'] for cs141-w26-lab3b-rsljhns
+Missing ['reaction'] for cs141-w26-lab3b-joolenn",2.0,"abhinavuppala commented: ""I like the use of the initializer list instead of the overly verbose regular constructor""
+abhinavuppala commented: ""Using the type names T and U make it a little difficult to see which corresponds to version and battery life; maybe like V and B for version and battery?""
+Dhivyno commented: ""The typenames should ideally be more descrptive like VersionType and BatteryType""
+Dhivyno commented: ""The format given in the prompt is not perfectly implemented, it's missing the () brackets around the battery. Otherwise, your implementation works nicely.
+"""
+"Zhang, Peining",408143,2384845,peiniz1,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),peiniz1@uci.edu,PNZ-z,True,2.0,2.0,0.0,"Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-sasha-oconnor
+Completed 1 ['comment', 'reply'] for cs141-w26-lab3b-willm326
+Missing ['reaction'] for cs141-w26-lab3b-sasha-oconnor
+Missing ['reaction'] for cs141-w26-lab3b-willm326",2.0,"Alexander-Tu2 commented: ""Nice job fixing the semicolon and giving the template types clear names! The print statement syntax is perfect as well. The only thing I have to mention is that the template typename weighttype doesn't have any formatting that separates the words well (like WeightType or weightType), which might lead to readability issues, especially since the end of weight shares the same t as the beginning of type.""
+timkim0106 commented: ""agree that something like weightType or weight_type is better. Everything else looks good!"""
+"Zhao, Yian",377071,2221582,yianz4,COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110),yianz4@uci.edu,JimmyZzz30,True,2.0,0.0,0.0,"Missing ['comment', 'reply'] for cs141-w26-lab3a-mtranfie
+Missing ['comment', 'reply'] for cs141-w26-lab3b-lukes4-uci
+Missing ['reaction'] for cs141-w26-lab3a-mtranfie
+Missing ['reaction'] for cs141-w26-lab3b-lukes4-uci",2.0,"heechy33 commented: ""Overall, I think you correctly converted the SmartWatch class to a template. I like how you made the template parameters named BatteryT and VersionT, ensuring the readability.""
+MubaiLi222 commented: ""Nice use of an initializer list, it keeps construction clean and efficient."""
+"Student, Test",505828,,eead27749656b7a86961de8f90e22a0f3639bd7f,"Additional Students, COMPSCI 141 LEC A: CONCEPT PGMG LANG (34110), and IN4MATX 101 LEC A: CONCEPT PGMG LANG (36040)",,,,,,,,,
